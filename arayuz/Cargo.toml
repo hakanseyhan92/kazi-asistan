@@ -1,0 +1,17 @@
+[package]
+name = "kazi-arayuz"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+eframe = { version = "0.37", features = ["persistence"] }
+egui = "0.37"
+egui_extras = { version = "0.37", features = ["datepicker", "serde"] }
+chrono = { version = "0.4", default-features = false, features = ["clock", "std"] }
+egui_plot = "0.38"
+image = { version = "0.25", default-features = false, features = ["jpeg"] }
+jiff = { version = "0.2", default-features = false, features = ["std"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+tungstenite = "0.30"
+ureq = { version = "2", features = ["json"] }

@@ -1,0 +1,18 @@
+# systemd kullanıcı birimi — kategori bazlı tarama zamanlayıcısı + Telegram alarm/rapor (14.11).
+# Kurulum: kur.sh --servis  ya da elle ~/.config/systemd/user/ altına kopyala, daemon-reload, enable --now.
+# Brave (K2) için grafik oturum gerekir: GNOME/KDE oturumu WAYLAND_DISPLAY/DISPLAY'i kullanıcı yöneticisine aktarır.
+[Unit]
+Description=kazi-zamanlayici (kategori bazlı fiyat/uçuş taraması, Telegram alarm ve rapor)
+After=kazi-cekirdek.service graphical-session.target
+Wants=kazi-cekirdek.service
+
+[Service]
+ExecStart=%h/.local/bin/uv run --project %h/kazi-asistan/cekirdek python -m kazi.zamanlayici
+WorkingDirectory=%h/kazi-asistan/cekirdek
+Restart=on-failure
+RestartSec=30
+KillMode=mixed
+TimeoutStopSec=60
+
+[Install]
+WantedBy=default.target

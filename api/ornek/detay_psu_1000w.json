@@ -1,0 +1,826 @@
+{
+ "urun": {
+  "id": "psu_1000w",
+  "ad": "Güç kaynağı 1000W 80+ Gold ATX 3.x (12V-2x6 yerel kablo)",
+  "kategori": "psu",
+  "hedef_fiyat": 9000.0,
+  "kurallar": {
+   "dahil": [
+    "(1000\\s*w|1000g|rm1000)",
+    "(atx\\s*3|12v-?2x6|12vhpwr|pcie\\s*5|tuf[\\s-]*gaming[\\s-]*1000g|rm1000e|shift)"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "kasa\\b",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl"
+   ]
+  }
+ },
+ "ozet": {
+  "ortalama": 12306.324545454547,
+  "medyan": 11999.0,
+  "adet": 39
+ },
+ "teklifler": [
+  {
+   "teklif_id": 30282,
+   "site": "n11",
+   "satici": "eternal",
+   "baslik": "ASUS TUF Gaming 1000G 80+ GOLD 1000W ATX 3.1 Tam Modüler Güç Kaynağı",
+   "url": "https://www.akakce.com/r/?pr=315294411&vd=11070&pg=1768369882",
+   "sepet_fiyati": 8999.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30284,
+   "site": "n11",
+   "satici": "fenotek",
+   "baslik": "ASUS TUF Gaming 1000G 80+ GOLD 1000W ATX 3.1 Tam Modüler Güç Kaynağı",
+   "url": "https://www.akakce.com/r/?pr=315294411&vd=11070&pg=1792220940",
+   "sepet_fiyati": 9099.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30286,
+   "site": "Trendyol",
+   "satici": "Kalite Ve Güvenin Adresi",
+   "baslik": "ASUS TUF-GAMING-1000G 1000W 80+ Gold Full Modüler Gaming (Oyuncu) Power Supply",
+   "url": "https://www.akakce.com/r/?pr=315294411&vd=11707&pg=1831612503",
+   "sepet_fiyati": 9399.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30287,
+   "site": "akakce",
+   "satici": null,
+   "baslik": "Asus TUF-GAMING-1000G White 1000 W Power Supply",
+   "url": "https://www.akakce.com/power-supply/en-ucuz-asus-tuf-gaming-1000g-white-1000-w-fiyati,661249149.html",
+   "sepet_fiyati": 9699.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30288,
+   "site": "Pttavm",
+   "satici": "tulparlife",
+   "baslik": "Asus Tuf-Gamıng-1000G White 1000 W Power Supply",
+   "url": "https://www.akakce.com/r/?pr=661249149&vd=11281&pg=1829766118",
+   "sepet_fiyati": 9699.03,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 2,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30289,
+   "site": "Hepsiburada",
+   "satici": "Hepsiburada",
+   "baslik": "ASUS TUF GAMING-1000G 80+ GOLD 1000W MODÜLER ATX 3.1 UYUMLU 10 YIL GARANTİ - BEYAZ",
+   "url": "https://www.akakce.com/r/?pr=661249149&vd=12088&pg=1567972451",
+   "sepet_fiyati": 10199.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30290,
+   "site": "Hepsiburada",
+   "satici": "ETERNAL",
+   "baslik": "ASUS TUF Gaming 1000W 80+ GOLD ATX 3.1 Tam Modüler Güç Kaynağı - Beyaz Verimli ve Dayanıklı",
+   "url": "https://www.akakce.com/r/?pr=661249149&vd=12088&pg=1683391577",
+   "sepet_fiyati": 10490.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30291,
+   "site": "n11",
+   "satici": "incehesap",
+   "baslik": "ASUS TUF Gaming 1000G 80+ GOLD 1000W ATX 3.1 Tam Modüler Güç Kaynağı",
+   "url": "https://www.akakce.com/r/?pr=315294411&vd=11070&pg=1768486323",
+   "sepet_fiyati": 10699.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30292,
+   "site": "Trendyol Plus",
+   "satici": "incehesap",
+   "baslik": "ASUS TUF-GAMING-1000G 1000W 80+ Gold Full Modüler Gaming (Oyuncu) Power Supply",
+   "url": "https://www.akakce.com/r/?pr=315294411&vd=14770&pg=1831352459",
+   "sepet_fiyati": 10889.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25671,
+   "site": "n11",
+   "satici": "tebilon",
+   "baslik": "Corsaır Rmx Serisi Rm1000x 1000w 80plus Atx 3.1 Pcıe 5.1 Güç Kaynağı-cp-9020271-eu",
+   "url": "https://www.akakce.com/r/?pr=930229945&vd=11070&pg=1772170841",
+   "sepet_fiyati": 11289.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25674,
+   "site": "Hepsiburada",
+   "satici": "TEBİLON",
+   "baslik": "Corsair 1000W 80+ Gold RM100X CP-9020271-EU Pcıe 5.1 Tam Modüler Power Supply - 1000 W",
+   "url": "https://www.akakce.com/r/?pr=930229945&vd=12088&pg=1773701824",
+   "sepet_fiyati": 11299.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30295,
+   "site": "Gamemar.com",
+   "satici": "akakce üzerinden",
+   "baslik": "ASUS TUF-GAMING-1000G White 1000W 80+ Gold Full Modüler Gaming Power Supply",
+   "url": "https://www.akakce.com/r/?pr=661249149&vd=3215&pg=1478033742",
+   "sepet_fiyati": 11316.37,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30296,
+   "site": "Pttavm",
+   "satici": "Inventus Bilgisayar",
+   "baslik": "Asus Tuf Gamıng 1000G Gold Atx 3.1 1000W 80+ Gold Pcı-E 5.0  Güç Kaynağı",
+   "url": "https://www.akakce.com/r/?pr=315294411&vd=11281&pg=1465701355",
+   "sepet_fiyati": 11610.9,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 2,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30297,
+   "site": "Hepsiburada",
+   "satici": "Ronin_Bilgisayar",
+   "baslik": "ASUS TUF GAMING-1000G 80+ GOLD 1000W MODÜLER ATX 3.1 UYUMLU 10 YIL GARANTİ - BEYAZ",
+   "url": "https://www.akakce.com/r/?pr=661249149&vd=12088&pg=1815202728",
+   "sepet_fiyati": 11811.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30298,
+   "site": "Sinerji Bilgisayar",
+   "satici": "akakce üzerinden",
+   "baslik": "Asus 1000W TUF Gaming 1000G White 80+ Gold Tam Modüler Güç Kaynağı",
+   "url": "https://www.akakce.com/r/?pr=661249149&vd=795&pg=1779398095",
+   "sepet_fiyati": 11924.64,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30299,
+   "site": "n11",
+   "satici": "kaen",
+   "baslik": "ASUS TUF Gaming 1000G 80+ GOLD 1000W ATX 3.1 Tam Modüler Güç Kaynağı",
+   "url": "https://www.akakce.com/r/?pr=315294411&vd=11070&pg=1829141759",
+   "sepet_fiyati": 11959.08,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30300,
+   "site": "n11",
+   "satici": null,
+   "baslik": "Corsaır Rm1000e 1000w 80+ Platinum Gen 5.1 Atx 3.1 140mm Fan Full Modüler Low Noise Güç Kaynağı",
+   "url": "https://www.n11.com/urun/corsair-rm1000e-1000w-80-platinum-gen-51-atx-31-140mm-fan-full-moduler-low-noise-guc-kaynagi-147794564",
+   "sepet_fiyati": 11977.48,
+   "liste_fiyati": 13019.0,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30301,
+   "site": "incehesap.com",
+   "satici": "akakce üzerinden",
+   "baslik": "ASUS TUF-GAMING-1000G White 1000W 80+ Gold Full Modüler Gaming Power Supply",
+   "url": "https://www.akakce.com/r/?pr=661249149&vd=317&pg=1429180593",
+   "sepet_fiyati": 11989.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 3,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30302,
+   "site": "Gaming.Gen.TR",
+   "satici": "akakce üzerinden",
+   "baslik": "ASUS TUF Gaming 1000G 1000W 80+ Gold Full Modüler Fanlı Beyaz Güç Kaynağı",
+   "url": "https://www.akakce.com/r/?pr=661249149&vd=3651&pg=1661469433",
+   "sepet_fiyati": 11999.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30303,
+   "site": "gaminggentr",
+   "satici": null,
+   "baslik": "ASUS TUF Gaming 1000G 1000W 80+ Gold Full Modüler Fanlı Beyaz Güç Kaynağı",
+   "url": "https://www.gaming.gen.tr/urun/481891/asus-tuf-gaming-1000g-1000w-80-gold-full-moduler-fanli-beyaz-guc-kaynagi/",
+   "sepet_fiyati": 11999.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25684,
+   "site": "Trendyol",
+   "satici": "TEBİLON",
+   "baslik": "Corsair CORSAIR RMX Serisi RM1000X 1000W 80Plus ATX 3.1 PCIE 5.1 Güç Kaynağı-CP-9020271-EU",
+   "url": "https://www.akakce.com/r/?pr=930229945&vd=11707&pg=1805229314",
+   "sepet_fiyati": 12020.22,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30304,
+   "site": "Tebilon.com",
+   "satici": "akakce üzerinden",
+   "baslik": "ASUS TUF GAMING 1000G Beyaz 80Plus Gold 1000W Modüler ATX 3.1 Güç Kaynağı",
+   "url": "https://www.akakce.com/r/?pr=661249149&vd=4636&pg=1600116026",
+   "sepet_fiyati": 12078.42,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30305,
+   "site": "idefix",
+   "satici": "netsipariş",
+   "baslik": "Asus Tuf Gamıng-1000G 80+ Gold 1000W Modüler Atx 3.0 Uyumlu 10 Yıl Garanti - Beyaz",
+   "url": "https://www.akakce.com/r/?pr=661249149&vd=13275&pg=1780910323",
+   "sepet_fiyati": 12275.38,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25688,
+   "site": "idefix",
+   "satici": "Tebilon",
+   "baslik": "CORSAIR RMX Serisi RM1000X 1000W 80Plus ATX 3.1 PCIE 5.1 Güç Kaynağı-CP-9020271-EU",
+   "url": "https://www.akakce.com/r/?pr=930229945&vd=13275&pg=1772182598",
+   "sepet_fiyati": 12281.53,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25689,
+   "site": "Pttavm",
+   "satici": "TEBİLON",
+   "baslik": "Corsair Rmx Serisi Rm1000x 1000 W 80Plus Atx 3.1 Pcıe 5.1 Güç Kaynağı Cp-9020271-Eu",
+   "url": "https://www.akakce.com/r/?pr=930229945&vd=11281&pg=1772170832",
+   "sepet_fiyati": 12314.64,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 2,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30306,
+   "site": "idefix",
+   "satici": "incehesap",
+   "baslik": "Asus Tuf Gamıng-1000G 80+ Gold 1000W Modüler Atx 3.0 Uyumlu 10 Yıl Garanti - Beyaz",
+   "url": "https://www.akakce.com/r/?pr=661249149&vd=13275&pg=1472349372",
+   "sepet_fiyati": 12364.11,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30307,
+   "site": "Trendyol",
+   "satici": "incehesap",
+   "baslik": "ASUS TUF GAMING 1000G Beyaz 80Plus Gold 1000W Modüler ATX 3.1 Güç Kaynağı",
+   "url": "https://www.akakce.com/r/?pr=661249149&vd=11707&pg=1597181769",
+   "sepet_fiyati": 12549.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30308,
+   "site": "idefix",
+   "satici": "Teknoklik",
+   "baslik": "Asus Tuf Gamıng-1000G 80+ Gold 1000W Modüler Atx 3.0 Uyumlu 10 Yıl Garanti - Beyaz",
+   "url": "https://www.akakce.com/r/?pr=661249149&vd=13275&pg=1780910334",
+   "sepet_fiyati": 12599.33,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25697,
+   "site": "Maksimumbilgisayar.com",
+   "satici": "akakce üzerinden",
+   "baslik": "ASUS TUF-GAMING-1000G 80 PLUS GOLD POWER SUPPLY",
+   "url": "https://www.akakce.com/r/?pr=315294411&vd=302&pg=1770081183",
+   "sepet_fiyati": 13208.34,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25698,
+   "site": "Pazarama",
+   "satici": "UZMANLARPC",
+   "baslik": "TUF GAMING-1000G 80+ GOLD 1000W MODÜLER ATX 3.0 UYUMLU 10 YIL GARANTİ",
+   "url": "https://www.akakce.com/r/?pr=315294411&vd=10694&pg=1768370031",
+   "sepet_fiyati": 13999.29,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25700,
+   "site": "Kuralay",
+   "satici": "akakce üzerinden",
+   "baslik": "ASUS TUF-GAMING-1000G 80 PLUS GOLD POWER SUPPLY",
+   "url": "https://www.akakce.com/r/?pr=315294411&vd=5554&pg=1770169288",
+   "sepet_fiyati": 14045.55,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 28381,
+   "site": "Pttavm",
+   "satici": "ZmTeknoloji",
+   "baslik": "Asus 1000W 80+ Gold Tuf Gamıng-1000G Tam Modüler Power Supply",
+   "url": "https://www.akakce.com/r/?pr=315294411&vd=11281&pg=1768633764",
+   "sepet_fiyati": 14153.86,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 2,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T12:20:07+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25702,
+   "site": "Pttavm",
+   "satici": "Uzmanlar Bilgisayar",
+   "baslik": "Tuf Gamıng-1000G 80+ Gold 1000W Modüler Atx 3.0 Uyumlu 10 Yıl Garanti",
+   "url": "https://www.akakce.com/r/?pr=315294411&vd=11281&pg=1768365867",
+   "sepet_fiyati": 14697.26,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 2,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 28382,
+   "site": "Pttavm",
+   "satici": "onlinealisverisyap",
+   "baslik": "Asus 1000W 80+ Gold Tuf Gamıng-1000G Tam Modüler Power Supply",
+   "url": "https://www.akakce.com/r/?pr=315294411&vd=11281&pg=1768669778",
+   "sepet_fiyati": 14925.73,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 2,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T12:20:07+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30312,
+   "site": "MediaMarkt Pazaryeri",
+   "satici": "akakce üzerinden",
+   "baslik": "ASUS TUF Gaming 1000G 80+ Gold 1000 W Güç Kaynağı Siyah",
+   "url": "https://www.akakce.com/r/?pr=315294411&vd=5460&pg=1809716304",
+   "sepet_fiyati": 15031.13,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 5,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30313,
+   "site": "Hepsiburada",
+   "satici": "Smart Depo",
+   "baslik": "TUF-GAMING-1000G - 0-Bordo",
+   "url": "https://www.akakce.com/r/?pr=315294411&vd=12088&pg=1825207233",
+   "sepet_fiyati": 16715.42,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25704,
+   "site": "trendyol",
+   "satici": null,
+   "baslik": "1000w 80+ Gold TUF GAMING 1000G WHITE Tam Modüler Power Supply Beyaz / 90YE00S5-B0NA00",
+   "url": "https://www.trendyol.com/asus/1000w-80-gold-tuf-gaming-1000g-white-tam-moduler-power-supply-beyaz-90ye00s5-b0na00-p-1210213125?boutiqueId=61&merchantId=162201",
+   "sepet_fiyati": 17212.22,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30314,
+   "site": "pazarama",
+   "satici": null,
+   "baslik": "ASUS TUF GAMING-1000G 80+ GOLD 1000W MODÜLER ATX 3.0 UYUMLU 10 YIL GARANTİ",
+   "url": "https://www.pazarama.com/asus-tuf-gaming-1000g-80-gold-1000w-moduler-atx-30-uyumlu-10-yil-garanti-p-4711081786412",
+   "sepet_fiyati": 18400.0,
+   "liste_fiyati": 20000.0,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25707,
+   "site": "Hepsiburada",
+   "satici": "ernpazarlama",
+   "baslik": "Corsair 1000W 80+ Gold RM100X CP-9020271-EU Pcıe 5.1 Tam Modüler Power Supply - 1000 W",
+   "url": "https://www.akakce.com/r/?pr=930229945&vd=12088&pg=1807306370",
+   "sepet_fiyati": 18429.03,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  }
+ ],
+ "gecmis": [
+  {
+   "gun": "2026-11-14",
+   "en_dusuk": 8999.0,
+   "ortalama": 11935.21
+  }
+ ]
+}

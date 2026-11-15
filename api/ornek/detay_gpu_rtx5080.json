@@ -1,0 +1,714 @@
+{
+ "urun": {
+  "id": "gpu_rtx5080",
+  "ad": "Ekran kartı RTX 5080",
+  "kategori": "gpu",
+  "hedef_fiyat": 110000.0,
+  "kurallar": {
+   "dahil": [
+    "5080"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "kasa\\b",
+    "fan\\b",
+    "adapt[oö]r",
+    "kablo",
+    "su so[gğ]utma",
+    "bracket",
+    "tutucu",
+    "5080\\s*ti",
+    "waterblock",
+    "blok",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl"
+   ]
+  }
+ },
+ "ozet": {
+  "ortalama": 182297.14555555556,
+  "medyan": 169999.0,
+  "adet": 33
+ },
+ "teklifler": [
+  {
+   "teklif_id": 30674,
+   "site": "Hepsiburada",
+   "satici": "BerayBilgisayar",
+   "baslik": "INNO3D Geforce Rtx 5080 X3 16GB Gddr7 256BIT Dlss 4 Ekran Kartı",
+   "url": "https://www.akakce.com/r/?pr=925262493&vd=12088&pg=1826977757",
+   "sepet_fiyati": 120807.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30677,
+   "site": "Hepsiburada",
+   "satici": "İzoly",
+   "baslik": "Palit Rtx 5080 Infınıty 3 16GB NE75080019T2-GB2035S Gddr7 256BIT Gaming (Oyuncu) Ekran Kartı",
+   "url": "https://www.akakce.com/r/?pr=1646933875&vd=12088&pg=1805818897",
+   "sepet_fiyati": 120946.5,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30683,
+   "site": "n11",
+   "satici": "deltabilgisayar",
+   "baslik": "Gainward Geforce Rtx5080 Python Iıı 16gb Gddr7 256bit Ne75080019t2-gb2035t Gaming Ekran Kartı",
+   "url": "https://www.akakce.com/r/?pr=1635556946&vd=11070&pg=1798058552",
+   "sepet_fiyati": 121210.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30690,
+   "site": "Hepsiburada",
+   "satici": "GarajOnline",
+   "baslik": "INNO3D Nvidia Geforce RTX5080 X3 16GB Ekran Kartı 256 Bit 2617 MHz Çekirdek Hızı Üçlü Fanlı Soğutma N50803-16D7-176068N",
+   "url": "https://www.akakce.com/r/?pr=925262493&vd=12088&pg=1810531170",
+   "sepet_fiyati": 121999.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30689,
+   "site": "n11",
+   "satici": "garajonline",
+   "baslik": "Inno3d Nvidia Geforce Rtx5080 X3 N50803-16D7-176068N 16 GB GDDR7 256 Bit Ekran Kartı",
+   "url": "https://www.akakce.com/r/?pr=925262493&vd=11070&pg=1826986706",
+   "sepet_fiyati": 121999.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30701,
+   "site": "n11",
+   "satici": "fenotek",
+   "baslik": "Inno3d Nvidia Geforce Rtx5080 X3 N50803-16D7-176068N 16 GB GDDR7 256 Bit Ekran Kartı",
+   "url": "https://www.akakce.com/r/?pr=925262493&vd=11070&pg=1827513045",
+   "sepet_fiyati": 122360.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30704,
+   "site": "n11",
+   "satici": "eser-bilisim",
+   "baslik": "Gainward Geforce Rtx5080 Python Iıı 16gb Gddr7 256bit Ne75080019t2-gb2035t Gaming Ekran Kartı",
+   "url": "https://www.akakce.com/r/?pr=1635556946&vd=11070&pg=1798031775",
+   "sepet_fiyati": 123768.4,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30712,
+   "site": "Hepsiburada",
+   "satici": "deltabilgisayar",
+   "baslik": "Gainward Geforce Rtx 5080 Python Iıı 16GB Gddr7 256BIT Gaming (Oyuncu) Ekran Kartı (NE75080019T2-GB2035T)",
+   "url": "https://www.akakce.com/r/?pr=1635556946&vd=12088&pg=1772713402",
+   "sepet_fiyati": 128750.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30719,
+   "site": "Ucuzbudur.com",
+   "satici": "akakce üzerinden",
+   "baslik": "Palit RTX 5080 Infinity 3 NE75080019T2-GB2035S 256 Bit GDDR7 16 GB Ekran Kartı",
+   "url": "https://www.akakce.com/r/?pr=1646933875&vd=1538&pg=1805966673",
+   "sepet_fiyati": 129950.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30732,
+   "site": "Koçtaş",
+   "satici": "cimri üzerinden",
+   "baslik": "MSI GeForce RTX 5080 16G Ventus 3X OC 16GB GDDR7 Ekran Kartı",
+   "url": "https://www.cimri.com/ekran-kartlari/en-ucuz-msi-geforce-rtx-5080-16g-ventus-3x-oc-16gb-gddr7-ekran-karti-fiyatlari,2431941425",
+   "sepet_fiyati": 133549.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 7,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30734,
+   "site": "itopya",
+   "satici": null,
+   "baslik": "GIGABYTE GeForce RTX 5080 WINDFORCE OC V2 SFF 16G GDDR7 256 Bit Ekran Kartı",
+   "url": "https://www.itopya.com/gigabyte-geforce-rtx-5080-windforce-oc-v2-sff-16g-gddr7-256-bit-ekran-karti_u35877",
+   "sepet_fiyati": 133797.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30802,
+   "site": "PttAVM",
+   "satici": "cimri üzerinden",
+   "baslik": "Gigabyte GeForce RTX 5080 Aero OC SFF GV-N5080AERO OC-16GD 16GB GDDR7 Ekran Kartı",
+   "url": "https://www.cimri.com/ekran-kartlari/en-ucuz-gigabyte-geforce-rtx-5080-aero-oc-sff-gv-n5080aero-oc-16gd-16gb-gddr7-ekran-karti-fiyatlari,2431941883",
+   "sepet_fiyati": 150924.05,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 3,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30804,
+   "site": "incehesap",
+   "satici": null,
+   "baslik": "Gigabyte GeForce RTX 5080 AERO OC SFF 16G GV-N5080AERO OC-16GD 256bit GDDR7 Gaming (Oyuncu) Ekran Kartı",
+   "url": "https://www.incehesap.com/gigabyte-geforce-rtx-5080-aero-oc-sff-16g-gv-n5080aero-oc-16gd-256bit-gddr7-gaming-ekran-karti-fiyati-77582/",
+   "sepet_fiyati": 150999.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 3,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30821,
+   "site": "A8bilisim",
+   "satici": "cimri üzerinden",
+   "baslik": "Asus ROG Astral GeForce RTX 5080 OC ROG-ASTRAL-RTX5080-O16G 16GB GDDR7 Ekran Kartı",
+   "url": "https://www.cimri.com/ekran-kartlari/en-ucuz-asus-rog-astral-geforce-rtx-5080-oc-rog-astral-rtx5080-o16g-16gb-gddr7-ekran-karti-fiyatlari,2431939895",
+   "sepet_fiyati": 156335.08,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30844,
+   "site": "n11",
+   "satici": null,
+   "baslik": "Asus TUF Gaming GeForce RTX 5080 OC TUF-RTX5080-O16G-GAMING 16 GB GDDR7 256 Bit Ekran Kartı",
+   "url": "https://www.n11.com/urun/asus-tuf-gaming-geforce-rtx-5080-oc-tuf-rtx5080-o16g-gaming-16-gb-gddr7-256-bit-ekran-karti-67008524",
+   "sepet_fiyati": 163749.08,
+   "liste_fiyati": 177988.13,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30851,
+   "site": "Amazon",
+   "satici": "cimri üzerinden",
+   "baslik": "Gigabyte Aorus GeForce RTX 5080 Master ICE GV-N5080AORUSM ICE-16GD 16GB GDDR7 Ekran Kartı",
+   "url": "https://www.cimri.com/ekran-kartlari/en-ucuz-gigabyte-aorus-geforce-rtx-5080-master-ice-gv-n5080aorusm-ice-16gd-16gb-gddr7-ekran-karti-fiyatlari,2431946455",
+   "sepet_fiyati": 164999.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 9,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30861,
+   "site": "Hepsiburada",
+   "satici": "Hepsiburada",
+   "baslik": "Gainward Geforce Rtx 5080 Python Iıı 16GB Gddr7 256BIT Gaming (Oyuncu) Ekran Kartı (NE75080019T2-GB2035T)",
+   "url": "https://www.akakce.com/r/?pr=1635556946&vd=12088&pg=1827244365",
+   "sepet_fiyati": 169999.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30862,
+   "site": "amazon",
+   "satici": null,
+   "baslik": "GamersArena Asga RTX 5080 Ryzen 7 7800X3D 16 GB 1 TB M2 SSD 850W OEM PAKET",
+   "url": "https://www.amazon.com.tr/GamersArena-Asga-Ryzen-7800X3D-PAKET/dp/B0HP2192L6",
+   "sepet_fiyati": 169999.0,
+   "liste_fiyati": 179000.0,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30871,
+   "site": "teknosa",
+   "satici": null,
+   "baslik": "MSI Ventus 3X Plus GeForce RTX 5080 OC 16GB GDDR7 256Bit HDMI/DP Ekran Kartı",
+   "url": "https://www.teknosa.com/msi-ventus-3x-plus-geforce-rtx-5080-oc-16gb-gddr7-256bit-hdmidp-ekran-karti-p-784956954",
+   "sepet_fiyati": 175723.83,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30894,
+   "site": "idefix",
+   "satici": "cimri üzerinden",
+   "baslik": "Asus ProArt GeForce RTX 5080 OC PROART-RTX5080-O16G 16GB GDDR7 Ekran Kartı",
+   "url": "https://www.cimri.com/ekran-kartlari/en-ucuz-asus-proart-geforce-rtx-5080-oc-proart-rtx5080-o16g-16gb-gddr7-ekran-karti-fiyatlari,2516884694",
+   "sepet_fiyati": 187999.06,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30908,
+   "site": "n11",
+   "satici": "cimri üzerinden",
+   "baslik": "MSI GeForce RTX 5080 16G Suprim SOC 16GB GDDR7 Ekran Kartı",
+   "url": "https://www.cimri.com/ekran-kartlari/en-ucuz-msi-geforce-rtx-5080-16g-suprim-soc-gddr7-ekran-karti-fiyatlari,2431941310",
+   "sepet_fiyati": 197799.08,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30936,
+   "site": "trendyol",
+   "satici": null,
+   "baslik": "4X61U02755 Ws Gddr7 256Bit Hdmı Dp Geforce Rtx5080 16 Gb Gaming (Oyuncu) Ekran Kartı",
+   "url": "https://www.trendyol.com/lenovo/4x61u02755-ws-gddr7-256bit-hdmi-dp-geforce-rtx5080-16-gb-gaming-oyuncu-ekran-karti-p-1236230747?boutiqueId=61&merchantId=201140",
+   "sepet_fiyati": 211488.9,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 9,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30959,
+   "site": "vatan",
+   "satici": null,
+   "baslik": "ZOTAC GeForce RTX 5080 GAMING AMP EXTREME INFINITY 16GB GDDR7 256Bit DLSS 4 Ekran Kartı",
+   "url": "https://www.vatanbilgisayar.com/zotac-geforce-rtx-5080-gaming-amp-extreme-infinity-16gb-gddr7-256bit-dlss-4-ekran-karti.html",
+   "sepet_fiyati": 235879.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30964,
+   "site": "pttavm",
+   "satici": null,
+   "baslik": "ASUS ProArt OC Edition GDDR7 GeForce RTX™ 5080 16 GB Ekran Kartı",
+   "url": "https://www.pttavm.com/asus-proart-oc-edition-gddr7-geforce-rtx-5080-16-gb-ekran-karti-p-1529302425",
+   "sepet_fiyati": 243177.99,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30965,
+   "site": "pazarama",
+   "satici": null,
+   "baslik": "Acer Predator PH18-73 Core Ultra9 275HX 128 GB 3tb RTX5080 18''wqxga IPS 250Hz Freedos NH.QVZEY.001*",
+   "url": "https://www.pazarama.com/acer-predator-ph18-73-core-ultra9-275hx-128-gb-3tb-rtx5080-18wqxga-ips-250hz-freedos-nhqvzey001-p-4711474441843",
+   "sepet_fiyati": 247599.0,
+   "liste_fiyati": 249999.0,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30975,
+   "site": "gamegaraj",
+   "satici": null,
+   "baslik": "November 7A - RTX5080",
+   "url": "https://www.gamegaraj.com/oem-paketler/november-7a-rtx5080/",
+   "sepet_fiyati": 253917.53,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30976,
+   "site": "sinerji",
+   "satici": null,
+   "baslik": "Horizon v2 - RTX5080",
+   "url": "https://www.sinerji.gen.tr/sinerji-horizon-v2-gigabyte-geforce-rtx5080-windforce-oc-sff-16gb-amd-ryzen-9-9950x3d-16gb-ddr5-1tb-nvme-m2-ssd-oem-paket-p-56312",
+   "sepet_fiyati": 254085.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30983,
+   "site": "Hepsiburada",
+   "satici": "cimri üzerinden",
+   "baslik": "Asus ROG Astral GeForce RTX 5080 OC White ROG-ASTRAL-RTX5080-O16G-WHITE 16GB GDDR7 Ekran Kartı",
+   "url": "https://www.cimri.com/ekran-kartlari/en-ucuz-asus-rog-astral-geforce-rtx-5080-oc-white-rog-astral-rtx5080-o16g-white-16gb-gddr7-ekran-karti-fiyatlari,2508408289",
+   "sepet_fiyati": 257000.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30984,
+   "site": "epey",
+   "satici": null,
+   "baslik": "Asus ROG Astral GeForce RTX 5080 16GB GDDR7 OC White Edition (ROG-ASTRAL-RTX5080-O16G-WHITE) Ekran Kartı",
+   "url": "https://www.epey.com/ekran-karti/asus-rog-astral-geforce-rtx-5080-16gb-gddr7-oc-white-edition.html",
+   "sepet_fiyati": 257000.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30986,
+   "site": "hepsiburada",
+   "satici": null,
+   "baslik": "Marmara Qumasch Asus Geforce PRIME-RTX5080-O16G 16GB Gddr7 256BIT 1xhdmı 3xdp Ekran Kartı",
+   "url": "https://www.hepsiburada.com/asus-geforce-prime-rtx5080-o16g-16gb-gddr7-256bit-1xhdmi-3xdp-ekran-karti-pm-HBC0000HF419F",
+   "sepet_fiyati": 257176.93,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 7,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30987,
+   "site": "akakce",
+   "satici": null,
+   "baslik": "MSI Msı Vector 16 Hx Aı A2XWIG-090XTR Intel Core Ultra 9-275HX 24GB Ram 512GB SSD Geforce Rtx 5080 16GB 175W Freedos K13 - 512 GB - 24 GB",
+   "url": "https://www.akakce.com/oyun-bilgisayari/en-ucuz-msi-msi-vector-16-hx-ai-a2xwig-090xtr-intel-core-ultra-9-275hx-24gb-ram-512gb-ssd-geforce-rtx-5080-16gb-175w-freedos-k13-512-gb-24-gb-fiyati,1276564369.html",
+   "sepet_fiyati": 257635.5,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30989,
+   "site": "idefix",
+   "satici": null,
+   "baslik": "ASUS Rog Strıx G18 Intel Core Ultra 9 275HX 32GB 1tb SSD Rtx 5080 16GB 18\" Wqxga 240Hz 2.5k Windows 11 Pro Taşınabilir Bilgisayar G815LW-S9129-A1",
+   "url": "https://www.idefix.com/asus-rog-strix-g18-intel-core-ultra-9-275hx-32gb-1tb-ssd-rtx-5080-16gb-18-wqxga-240hz-25k-windows-11-pro-tasinabilir-bilgisayar-g815lw-s9129-a1-p-25949151#sortId=25949151",
+   "sepet_fiyati": 258400.0,
+   "liste_fiyati": 272000.0,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30990,
+   "site": "gaminggentr",
+   "satici": null,
+   "baslik": "VOLKAN ÖGE-5080",
+   "url": "https://www.gaming.gen.tr/urun/997462/volkan-oge-5080-amd-ryzen-7-7800x3d-tray-msi-geforce-rtx-5080-16g-inspire-3x-oc-16gb-32gb-ram-1tb-m-2-ssd-sistem-tavsiyesi/",
+   "sepet_fiyati": 259999.0,
+   "liste_fiyati": 305991.03,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  }
+ ],
+ "gecmis": [
+  {
+   "gun": "2026-11-14",
+   "en_dusuk": 109999.0,
+   "ortalama": 169273.9
+  }
+ ]
+}

@@ -1,0 +1,339 @@
+{
+ "guncelleme": "2026-11-14T16:40:46+03:00",
+ "urunler": [
+  {
+   "id": "anakart_x870",
+   "ad": "Anakart Gigabyte X870 Aorus Elite WIFI7",
+   "kategori": "anakart",
+   "sistemde": true,
+   "hedef_fiyat": 13000.0,
+   "ozet": {
+    "ortalama": 19210.060999999998,
+    "medyan": 18913.629999999997,
+    "adet": 36
+   },
+   "en_iyi": {
+    "teklif_id": 30193,
+    "site": "Amazon Türkiye",
+    "satici": "incehesap",
+    "baslik": "GIGABYTE X870 AORUS Elite WIFI7 AM5 LGA 1718, ATX, DDR5, 4X M.2, PCIe 5.0, USB4, Wi-Fi 7, 2.5GbE LAN, EZ-Mandal, Q-Flaş",
+    "url": "https://www.akakce.com/r/?pr=778720647&vd=10001&pg=1803097911",
+    "sepet_fiyati": 14199.0,
+    "liste_fiyati": null,
+    "stok": null,
+    "taksit": {
+     "pesin_fiyatina": 6,
+     "tablo": []
+    },
+    "kaynak_katmani": "K0",
+    "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+    "teyit_durumu": "bekliyor",
+    "teyit_zamani": null,
+    "kanit_goruntusu": null,
+    "hedef_altinda": false
+   },
+   "son_tarama": "2026-11-14T15:20:00+03:00"
+  },
+  {
+   "id": "cpu_9800x3d",
+   "ad": "İşlemci Ryzen 7 9800X3D",
+   "kategori": "cpu",
+   "sistemde": true,
+   "hedef_fiyat": 21000.0,
+   "ozet": {
+    "ortalama": 25000.631,
+    "medyan": 24773.205,
+    "adet": 24
+   },
+   "en_iyi": {
+    "teklif_id": 30032,
+    "site": "Amazon Türkiye",
+    "satici": "DFS Bilgisayar",
+    "baslik": "AMD Ryzen 7 9800X3D TRAY 5.20GHz 96MB AM5 Kutusuz Fansız İşlemci (Distiribütör Garantili)",
+    "url": "https://www.akakce.com/r/?pr=870902139&vd=10001&pg=1680819180",
+    "sepet_fiyati": 22697.03,
+    "liste_fiyati": null,
+    "stok": null,
+    "taksit": {
+     "pesin_fiyatina": 6,
+     "tablo": []
+    },
+    "kaynak_katmani": "K0",
+    "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+    "teyit_durumu": "bekliyor",
+    "teyit_zamani": null,
+    "kanit_goruntusu": null,
+    "hedef_altinda": false
+   },
+   "son_tarama": "2026-11-14T15:20:00+03:00"
+  },
+  {
+   "id": "cpu_9850x3d",
+   "ad": "İşlemci Ryzen 7 9850X3D",
+   "kategori": "cpu",
+   "sistemde": false,
+   "hedef_fiyat": 23000.0,
+   "ozet": {
+    "ortalama": 28757.419473684207,
+    "medyan": 29019.0,
+    "adet": 23
+   },
+   "en_iyi": {
+    "teklif_id": 30066,
+    "site": "n11",
+    "satici": "dfsbilgisayar",
+    "baslik": "Amd Ryzen 7 9850x3d 8 Core, 4,70-5.60ghz, 104mb Cache, 120w, Am5 Soket, Tray, Dahili Grafik Var, Fan Yok",
+    "url": "https://www.akakce.com/r/?pr=1332274979&vd=11070&pg=1669945554",
+    "sepet_fiyati": 25069.0,
+    "liste_fiyati": null,
+    "stok": true,
+    "taksit": {
+     "pesin_fiyatina": 6,
+     "tablo": []
+    },
+    "kaynak_katmani": "K0",
+    "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+    "teyit_durumu": "bekliyor",
+    "teyit_zamani": null,
+    "kanit_goruntusu": null,
+    "hedef_altinda": false
+   },
+   "son_tarama": "2026-11-14T15:20:00+03:00"
+  },
+  {
+   "id": "cpu_9950x3d",
+   "ad": "İşlemci Ryzen 9 9950X3D",
+   "kategori": "cpu",
+   "sistemde": false,
+   "hedef_fiyat": 33000.0,
+   "ozet": {
+    "ortalama": 41324.29,
+    "medyan": 39678.0,
+    "adet": 31
+   },
+   "en_iyi": {
+    "teklif_id": 30100,
+    "site": "Bizdehesapli",
+    "satici": "akakce üzerinden",
+    "baslik": "AMD RYZEN 9 9950X3D 16 Core, 4,30-5.70GHz, 128Mb Cache, 170W, AM5 Soket, TRAY, (Dahili Grafik VAR, Fan YOK) TÜRKİYE Distibütör GARANTİLİ",
+    "url": "https://www.akakce.com/r/?pr=904043816&vd=581&pg=1769664483",
+    "sepet_fiyati": 36393.0,
+    "liste_fiyati": null,
+    "stok": null,
+    "taksit": {
+     "pesin_fiyatina": null,
+     "tablo": []
+    },
+    "kaynak_katmani": "K0",
+    "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+    "teyit_durumu": "bekliyor",
+    "teyit_zamani": null,
+    "kanit_goruntusu": null,
+    "hedef_altinda": false
+   },
+   "son_tarama": "2026-11-14T15:20:00+03:00"
+  },
+  {
+   "id": "gpu_rtx5080",
+   "ad": "Ekran kartı RTX 5080",
+   "kategori": "gpu",
+   "sistemde": true,
+   "hedef_fiyat": 110000.0,
+   "ozet": {
+    "ortalama": 182297.14555555556,
+    "medyan": 169999.0,
+    "adet": 33
+   },
+   "en_iyi": {
+    "teklif_id": 30674,
+    "site": "Hepsiburada",
+    "satici": "BerayBilgisayar",
+    "baslik": "INNO3D Geforce Rtx 5080 X3 16GB Gddr7 256BIT Dlss 4 Ekran Kartı",
+    "url": "https://www.akakce.com/r/?pr=925262493&vd=12088&pg=1826977757",
+    "sepet_fiyati": 120807.0,
+    "liste_fiyati": null,
+    "stok": true,
+    "taksit": {
+     "pesin_fiyatina": 6,
+     "tablo": []
+    },
+    "kaynak_katmani": "K0",
+    "gozlem_zamani": "2026-11-14T16:05:40+03:00",
+    "teyit_durumu": "bekliyor",
+    "teyit_zamani": null,
+    "kanit_goruntusu": null,
+    "hedef_altinda": false
+   },
+   "son_tarama": "2026-11-14T16:05:40+03:00"
+  },
+  {
+   "id": "kasa_lancool3",
+   "ad": "Kasa Lian Li Lancool III",
+   "kategori": "kasa",
+   "sistemde": true,
+   "hedef_fiyat": 8500.0,
+   "ozet": {
+    "ortalama": 11743.221363636363,
+    "medyan": 10941.04,
+    "adet": 26
+   },
+   "en_iyi": {
+    "teklif_id": 26378,
+    "site": "Amazon",
+    "satici": "cimri üzerinden",
+    "baslik": "Lian Li Lancool III ARGB Fanlı E-ATX Gaming Bilgisayar Kasası",
+    "url": "https://www.cimri.com/pc-kasalari/en-ucuz-lian-li-lancool-iii-argb-fanli-e-atx-gaming-bilgisayar-kasasi-fiyatlari,a2604611636",
+    "sepet_fiyati": 9799.0,
+    "liste_fiyati": null,
+    "stok": null,
+    "taksit": {
+     "pesin_fiyatina": 9,
+     "tablo": []
+    },
+    "kaynak_katmani": "K2",
+    "gozlem_zamani": "2026-11-14T07:36:39+03:00",
+    "teyit_durumu": "bekliyor",
+    "teyit_zamani": null,
+    "kanit_goruntusu": null,
+    "hedef_altinda": false
+   },
+   "son_tarama": "2026-11-14T15:20:00+03:00"
+  },
+  {
+   "id": "psu_1000w",
+   "ad": "Güç kaynağı 1000W 80+ Gold ATX 3.x (12V-2x6 yerel kablo)",
+   "kategori": "psu",
+   "sistemde": true,
+   "hedef_fiyat": 9000.0,
+   "ozet": {
+    "ortalama": 12306.324545454547,
+    "medyan": 11999.0,
+    "adet": 39
+   },
+   "en_iyi": {
+    "teklif_id": 30282,
+    "site": "n11",
+    "satici": "eternal",
+    "baslik": "ASUS TUF Gaming 1000G 80+ GOLD 1000W ATX 3.1 Tam Modüler Güç Kaynağı",
+    "url": "https://www.akakce.com/r/?pr=315294411&vd=11070&pg=1768369882",
+    "sepet_fiyati": 8999.0,
+    "liste_fiyati": null,
+    "stok": true,
+    "taksit": {
+     "pesin_fiyatina": 6,
+     "tablo": []
+    },
+    "kaynak_katmani": "K0",
+    "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+    "teyit_durumu": "bekliyor",
+    "teyit_zamani": null,
+    "kanit_goruntusu": null,
+    "hedef_altinda": false
+   },
+   "son_tarama": "2026-11-14T15:20:00+03:00"
+  },
+  {
+   "id": "ram_64gb_ddr5",
+   "ad": "RAM 64GB (2×32) DDR5-6000 CL30 EXPO — Gigabyte QVL'li",
+   "kategori": "ram",
+   "sistemde": true,
+   "hedef_fiyat": 62000.0,
+   "ozet": {
+    "ortalama": 101194.6685,
+    "medyan": 100736.365,
+    "adet": 24
+   },
+   "en_iyi": {
+    "teklif_id": 30159,
+    "site": "Ucuzbudur.com",
+    "satici": "akakce üzerinden",
+    "baslik": "G.Skill Trident Z5 Neo RGB 64 GB (2x32) 6000 MHz CL30 F5-6000J3040G32GX2-TZ5NR DDR5 Ram",
+    "url": "https://www.akakce.com/r/?pr=198485687&vd=1538&pg=1743001634",
+    "sepet_fiyati": 92950.0,
+    "liste_fiyati": null,
+    "stok": true,
+    "taksit": {
+     "pesin_fiyatina": null,
+     "tablo": []
+    },
+    "kaynak_katmani": "K0",
+    "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+    "teyit_durumu": "bekliyor",
+    "teyit_zamani": null,
+    "kanit_goruntusu": null,
+    "hedef_altinda": false
+   },
+   "son_tarama": "2026-11-14T15:20:00+03:00"
+  },
+  {
+   "id": "sogutucu_lf3_360",
+   "ad": "Sıvı soğutucu Arctic Liquid Freezer III Pro 360",
+   "kategori": "sogutucu",
+   "sistemde": true,
+   "hedef_fiyat": 5300.0,
+   "ozet": {
+    "ortalama": 6658.313529411765,
+    "medyan": 6099.01,
+    "adet": 21
+   },
+   "en_iyi": {
+    "teklif_id": 30321,
+    "site": "akakce",
+    "satici": null,
+    "baslik": "Arctic Liquid Freezer III Pro 360 ARGB ACFRE00188A Beyaz İşlemci Sıvı Soğutucu",
+    "url": "https://www.akakce.com/islemci-sogutucu/en-ucuz-arctic-liquid-freezer-iii-pro-360-argb-beyaz-acfre00188a-islemci-sivi-sogutucu-fiyati,1084674267.html",
+    "sepet_fiyati": 5789.0,
+    "liste_fiyati": null,
+    "stok": true,
+    "taksit": {
+     "pesin_fiyatina": null,
+     "tablo": []
+    },
+    "kaynak_katmani": "K0",
+    "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+    "teyit_durumu": "bekliyor",
+    "teyit_zamani": null,
+    "kanit_goruntusu": null,
+    "hedef_altinda": false
+   },
+   "son_tarama": "2026-11-14T15:20:00+03:00"
+  },
+  {
+   "id": "ssd_gen5_1tb",
+   "ad": "SSD 1TB PCIe 5.0 NVMe (Samsung 9100 Pro / Crucial T705)",
+   "kategori": "ssd",
+   "sistemde": true,
+   "hedef_fiyat": 12500.0,
+   "ozet": {
+    "ortalama": 15972.117272727273,
+    "medyan": 15403.725,
+    "adet": 26
+   },
+   "en_iyi": {
+    "teklif_id": 30230,
+    "site": "incehesap.com",
+    "satici": "akakce üzerinden",
+    "baslik": "Samsung 9100 PRO MZ-VAP1T0BW 1TB 14700/13300MB/sn PCIe NVMe M.2 SSD Disk",
+    "url": "https://www.akakce.com/r/?pr=983826198&vd=317&pg=1345741412",
+    "sepet_fiyati": 13949.0,
+    "liste_fiyati": null,
+    "stok": null,
+    "taksit": {
+     "pesin_fiyatina": 3,
+     "tablo": []
+    },
+    "kaynak_katmani": "K0",
+    "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+    "teyit_durumu": "bekliyor",
+    "teyit_zamani": null,
+    "kanit_goruntusu": null,
+    "hedef_altinda": false
+   },
+   "son_tarama": "2026-11-14T15:20:00+03:00"
+  }
+ ],
+ "sistem_toplami": {
+  "tutar": 289189.03,
+  "eksik": []
+ }
+}

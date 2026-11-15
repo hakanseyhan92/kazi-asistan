@@ -1,0 +1,426 @@
+{
+ "not_": "Örnek ürün kuralları (test fikstürü): sorgular, dahil/hariç desenleri, fiyat bandı.",
+ "urunler": [
+  {
+   "id": "gpu_rtx5080",
+   "ad": "Ekran kartı RTX 5080",
+   "kategori": "gpu",
+   "sorgular": [
+    "rtx 5080"
+   ],
+   "dahil": [
+    "5080"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "kasa\\b",
+    "fan\\b",
+    "adapt[oö]r",
+    "kablo",
+    "su so[gğ]utma",
+    "bracket",
+    "tutucu",
+    "5080\\s*ti",
+    "waterblock",
+    "blok",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl"
+   ],
+   "min_fiyat": 90000,
+   "max_fiyat": 260000,
+   "hedef_fiyat": 110000,
+   "sistemde": true,
+   "siteler": "hepsi",
+   "sayfa": 2,
+   "satici_teyit_esigi": 110000,
+   "firsat_esigi": 105000
+  },
+  {
+   "id": "cpu_9800x3d",
+   "ad": "İşlemci Ryzen 7 9800X3D",
+   "kategori": "cpu",
+   "sorgular": [
+    "ryzen 7 9800x3d"
+   ],
+   "dahil": [
+    "9800\\s*x3d"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "anakart",
+    "bundle",
+    "\\bset\\b",
+    "rtx",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl"
+   ],
+   "min_fiyat": 15000,
+   "max_fiyat": 40000,
+   "hedef_fiyat": 21000,
+   "sistemde": true,
+   "siteler": "hepsi",
+   "sayfa": 1
+  },
+  {
+   "id": "cpu_9850x3d",
+   "ad": "İşlemci Ryzen 7 9850X3D",
+   "kategori": "cpu",
+   "sorgular": [
+    "ryzen 7 9850x3d"
+   ],
+   "dahil": [
+    "9850\\s*x3d"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "anakart",
+    "bundle",
+    "\\bset\\b",
+    "rtx",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl"
+   ],
+   "min_fiyat": 16000,
+   "max_fiyat": 45000,
+   "hedef_fiyat": 23000,
+   "sistemde": false,
+   "siteler": "hepsi",
+   "sayfa": 1
+  },
+  {
+   "id": "cpu_9950x3d",
+   "ad": "İşlemci Ryzen 9 9950X3D",
+   "kategori": "cpu",
+   "sorgular": [
+    "ryzen 9 9950x3d"
+   ],
+   "dahil": [
+    "9950\\s*x3d"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "anakart",
+    "bundle",
+    "\\bset\\b",
+    "rtx",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl"
+   ],
+   "min_fiyat": 25000,
+   "max_fiyat": 60000,
+   "hedef_fiyat": 33000,
+   "sistemde": false,
+   "siteler": "hepsi",
+   "sayfa": 1
+  },
+  {
+   "id": "ram_64gb_ddr5",
+   "ad": "RAM 64GB (2×32) DDR5-6000 CL30 EXPO — Gigabyte QVL'li",
+   "kategori": "ram",
+   "sorgular": [
+    "trident z5 neo rgb 64gb 6000 cl30",
+    "xpg lancer 64gb 6000 cl30",
+    "kingston fury beast 64gb 6000 cl30 expo",
+    "64gb ddr5 6000 cl30"
+   ],
+   "dahil": [
+    "64\\s*gb",
+    "6000",
+    "(cl\\s*30|c30|j3040|z30)"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "so-?dimm",
+    "1\\s*x\\s*64",
+    "cl(3[6-9]|4\\d)",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl",
+    "tz5rk",
+    "tz5rw",
+    "\\btz5rs\\b",
+    "32gb\\s*\\(2x16",
+    "2\\s*x\\s*16"
+   ],
+   "min_fiyat": 45000,
+   "max_fiyat": 130000,
+   "hedef_fiyat": 62000,
+   "sistemde": true,
+   "siteler": "hepsi",
+   "sayfa": 1,
+   "not": "14.11: Gigabyte X870 AORUS ELITE WIFI7 QVL (Ryzen 9000, 10.11.2026) — yalnız 32GB modül + EXPO=v + 2 DIMM=V doğrulanmış kitler. Örn. G.Skill Trident Z5 Neo RGB F5-6000J3040G32GX2-TZ5NR, XPG Lancer AX5U6000C3032G-*, Kingston FURY Beast EXPO KF560C30BBE(A)K2-64. En ucuz QVL'li kit seçilir. 7200: AM5'te 1:2'ye düşer, seçilmedi.",
+   "qvl": "bellek"
+  },
+  {
+   "id": "anakart_x870",
+   "ad": "Anakart Gigabyte X870 Aorus Elite WIFI7",
+   "kategori": "anakart",
+   "sorgular": [
+    "gigabyte x870 aorus elite wifi7",
+    "x870 aorus elite wifi7"
+   ],
+   "dahil": [
+    "x870",
+    "aorus\\s*el[iı]te",
+    "(wi-?fi\\s*7|w[ıi]f[ıi]\\s*7|wifi7|wf7)"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "ryzen",
+    "9800x3d",
+    "bundle",
+    "rtx",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl",
+    "wi-?fi\\s*6",
+    "w[ıi]f[ıi]\\s*6",
+    "wifi6",
+    "wf6",
+    "colorful",
+    "\\bcvn\\b",
+    "battle-?ax",
+    "biostar",
+    "micro\\s*atx",
+    "m-?atx",
+    "\\bitx\\b",
+    "x870e",
+    "x870\\s*e\\b",
+    "x3d",
+    "stealth"
+   ],
+   "min_fiyat": 9000,
+   "max_fiyat": 40000,
+   "hedef_fiyat": 13000,
+   "sistemde": true,
+   "siteler": "hepsi",
+   "sayfa": 1,
+   "not": "14.11 kullanıcı SEÇTİ: Gigabyte X870 Aorus Elite WIFI7 (ICE = aynı kartın beyaz sürümü, dahil). X870E Aorus Elite ve X870 Aorus Elite X3D farklı model → hariç. Z890 Intel → AM5 ile uyumsuz. QVL/CPU listesi: 9800X3D rev 1.0/1.1'de BIOS F1+, rev 1.2'de BIOS FA3+ ile destekli (gigabyte.com, 14.11)."
+  },
+  {
+   "id": "ssd_gen5_1tb",
+   "ad": "SSD 1TB PCIe 5.0 NVMe (Samsung 9100 Pro / Crucial T705)",
+   "kategori": "ssd",
+   "sorgular": [
+    "samsung 9100 pro 1tb",
+    "crucial t705 1tb"
+   ],
+   "dahil": [
+    "1\\s*tb",
+    "(9100\\s*pro|t705|gen\\s*5|pcie\\s*5)"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "harici",
+    "external",
+    "\\b[24]\\s*tb",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl"
+   ],
+   "min_fiyat": 8000,
+   "max_fiyat": 25000,
+   "hedef_fiyat": 12500,
+   "sistemde": true,
+   "siteler": "hepsi",
+   "sayfa": 1,
+   "qvl": "ssd",
+   "not": "14.11: Gigabyte QVL'de Gen5x4: Samsung 9100 PRO MZ-VAP1T0BW/CW, Crucial T705 CT1000T705SSD3/SSD5 doğrulanmış."
+  },
+  {
+   "id": "psu_1000w",
+   "ad": "Güç kaynağı 1000W 80+ Gold ATX 3.x (12V-2x6 yerel kablo)",
+   "kategori": "psu",
+   "sorgular": [
+    "corsair rm1000x",
+    "asus tuf gaming 1000g"
+   ],
+   "dahil": [
+    "(1000\\s*w|1000g|rm1000)",
+    "(atx\\s*3|12v-?2x6|12vhpwr|pcie\\s*5|tuf[\\s-]*gaming[\\s-]*1000g|rm1000e|shift)"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "kasa\\b",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl"
+   ],
+   "min_fiyat": 6000,
+   "max_fiyat": 20000,
+   "hedef_fiyat": 9000,
+   "sistemde": true,
+   "siteler": "hepsi",
+   "sayfa": 1,
+   "not": "14.11: RTX 5080 12V-2x6 kablosu adaptörsüz; ATX 3.0/3.1 geçici yük (transient) dayanımı."
+  },
+  {
+   "id": "sogutucu_lf3_360",
+   "ad": "Sıvı soğutucu Arctic Liquid Freezer III Pro 360",
+   "kategori": "sogutucu",
+   "sorgular": [
+    "arctic liquid freezer iii pro 360"
+   ],
+   "dahil": [
+    "liquid freezer\\s*iii",
+    "360"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "fan\\s*paketi",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl"
+   ],
+   "min_fiyat": 3500,
+   "max_fiyat": 12000,
+   "hedef_fiyat": 5300,
+   "sistemde": true,
+   "siteler": "hepsi",
+   "sayfa": 1
+  },
+  {
+   "id": "kasa_lancool3",
+   "ad": "Kasa Lian Li Lancool III",
+   "kategori": "kasa",
+   "sorgular": [
+    "lian li lancool iii"
+   ],
+   "dahil": [
+    "lancool\\s*(iii|3)\\b"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "\\b20[0-9]\\b",
+    "\\b21[0-9]\\b",
+    "fan\\b",
+    "panel",
+    "kablo",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl"
+   ],
+   "min_fiyat": 5000,
+   "max_fiyat": 16000,
+   "hedef_fiyat": 8500,
+   "sistemde": true,
+   "siteler": "hepsi",
+   "sayfa": 1
+  }
+ ],
+ "uyum_notu": "🔧 Uyum (Gigabyte resmî listeleri, 14.11): 9800X3D destekli (BIOS rev1.2: FA3+, rev1.0/1.1: F1+) · RAM yalnız QVL'li 2×32 EXPO kit, DDR5_A2+DDR5_B2 yuvaları, BIOS'ta EXPO aç · SSD QVL'li Gen5 (9100 PRO / T705), CPU'ya bağlı ilk M.2 (M2A) · RTX 5080'e PSU'nun kendi 12V-2x6 kablosu · LF III 360 tavana · tam yük ≈650 W → 1000 W'ta %35 pay"
+}

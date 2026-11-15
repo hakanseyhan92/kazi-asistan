@@ -1,0 +1,528 @@
+{
+ "urun": {
+  "id": "cpu_9800x3d",
+  "ad": "İşlemci Ryzen 7 9800X3D",
+  "kategori": "cpu",
+  "hedef_fiyat": 21000.0,
+  "kurallar": {
+   "dahil": [
+    "9800\\s*x3d"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "anakart",
+    "bundle",
+    "\\bset\\b",
+    "rtx",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl"
+   ]
+  }
+ },
+ "ozet": {
+  "ortalama": 25000.631,
+  "medyan": 24773.205,
+  "adet": 24
+ },
+ "teklifler": [
+  {
+   "teklif_id": 30032,
+   "site": "Amazon Türkiye",
+   "satici": "DFS Bilgisayar",
+   "baslik": "AMD Ryzen 7 9800X3D TRAY 5.20GHz 96MB AM5 Kutusuz Fansız İşlemci (Distiribütör Garantili)",
+   "url": "https://www.akakce.com/r/?pr=870902139&vd=10001&pg=1680819180",
+   "sepet_fiyati": 22697.03,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30031,
+   "site": "akakce",
+   "satici": null,
+   "baslik": "AMD Ryzen 7 9800X3D Sekiz Çekirdek 4.7 GHz Kutusuz Fansız İşlemci",
+   "url": "https://www.akakce.com/islemci/en-ucuz-amd-ryzen-7-9800x3d-sekiz-cekirdek-4-7-ghz-kutusuz-fansiz-fiyati,870902139.html",
+   "sepet_fiyati": 22697.03,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30033,
+   "site": "n11",
+   "satici": "dfsbilgisayar",
+   "baslik": "Amd Ryzen 7 9800X3D 5.20 GHz AM5 96 MB V-Cache 120 W Tray İşlemci",
+   "url": "https://www.akakce.com/r/?pr=812013733&vd=11070&pg=1769641547",
+   "sepet_fiyati": 23261.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30035,
+   "site": "idefix",
+   "satici": "DFSBilgisayar",
+   "baslik": "AMD Ryzen 7 9800X3D Sekiz Çekirdek 5.2 GHz 96MB (Kutusuz/Fansız) TRAY İşlemci",
+   "url": "https://www.akakce.com/r/?pr=812013733&vd=13275&pg=1184051598",
+   "sepet_fiyati": 23504.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30037,
+   "site": "Hepsiburada",
+   "satici": "Dfs Bilgisayar",
+   "baslik": "Amd Ryzen 7 9800X3D 4.70GHZ 8 Çekirdek 96MB Önbellek Soket Am5 Tray Işlemci",
+   "url": "https://www.akakce.com/r/?pr=870902139&vd=12088&pg=1647755385",
+   "sepet_fiyati": 23750.42,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30038,
+   "site": "Pazarama",
+   "satici": "DFSBilgisayar",
+   "baslik": "AMD Ryzen 7 9800X3D Sekiz Çekirdek 5.2 GHz 96MB (Kutusuz/Fansız) TRAY İşlemci",
+   "url": "https://www.akakce.com/r/?pr=870902139&vd=10694&pg=988592246",
+   "sepet_fiyati": 23874.93,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30040,
+   "site": "Hepsiburada",
+   "satici": "Fay-Teknoloji",
+   "baslik": "Amd Ryzen 7 9800X3D 4.70GHZ 8 Çekirdek 96MB Önbellek Soket Am5 Tray Işlemci",
+   "url": "https://www.akakce.com/r/?pr=870902139&vd=12088&pg=1804943911",
+   "sepet_fiyati": 24380.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25437,
+   "site": "Xaser Bilgisayar",
+   "satici": "akakce üzerinden",
+   "baslik": "Amd Ryzen 7 9800x3d 5.20 Ghz 8 Çekirdek 104mb Am5 4nm İşlemci(tray)",
+   "url": "https://www.akakce.com/r/?pr=870902139&vd=6098&pg=1805331940",
+   "sepet_fiyati": 24399.99,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25438,
+   "site": "Maksimumbilgisayar.com",
+   "satici": "akakce üzerinden",
+   "baslik": "AMD Ryzen 7 9800X3D TRAY 5.20 GHz 8 Çekirdek 96MB AM5 4nm Kutusuz İşlemci",
+   "url": "https://www.akakce.com/r/?pr=812013733&vd=302&pg=1687596044",
+   "sepet_fiyati": 24531.67,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30041,
+   "site": "Revert Teknoloji",
+   "satici": "akakce üzerinden",
+   "baslik": "AMD RYZEN 7 9800X3D 4.7GHZ 96MB 120W AM5 FANSIZ (TRAY)",
+   "url": "https://www.akakce.com/r/?pr=812013733&vd=5386&pg=1769668937",
+   "sepet_fiyati": 24600.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30042,
+   "site": "Lowell.com.tr",
+   "satici": "akakce üzerinden",
+   "baslik": "AMD Ryzen 7 9800X3D 8C 4.7GHz 96MB AM5 Kutusuz Fansız İşlemci",
+   "url": "https://www.akakce.com/r/?pr=812013733&vd=5234&pg=1691556654",
+   "sepet_fiyati": 24649.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30043,
+   "site": "Trendyol",
+   "satici": "DFS Bilgisayar",
+   "baslik": "Amd Ryzen 7 9800x3d 100-1000001084 (4.7ghz - 5.2ghz) 104mb 120w Am5 Tray Işlemci",
+   "url": "https://www.akakce.com/r/?pr=812013733&vd=11707&pg=1270929697",
+   "sepet_fiyati": 24707.33,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30045,
+   "site": "Hepsiburada",
+   "satici": "QUEENCK",
+   "baslik": "Amd Ryzen 7 9800X3D 4,7 GHz 96 MB Cache AM5 İşlemci",
+   "url": "https://www.akakce.com/r/?pr=870902139&vd=12088&pg=1686474592",
+   "sepet_fiyati": 24839.08,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30044,
+   "site": "n11",
+   "satici": "hayatbilgisayar",
+   "baslik": "Amd Ryzen 7 9800X3D 5.20 GHz AM5 96 MB V-Cache 120 W Tray İşlemci",
+   "url": "https://www.akakce.com/r/?pr=870902139&vd=11070&pg=1660569810",
+   "sepet_fiyati": 24839.08,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30046,
+   "site": "Ucuzbudur.com",
+   "satici": "akakce üzerinden",
+   "baslik": "AMD Ryzen 7 9800X3D AM5 İşlemci - Tray",
+   "url": "https://www.akakce.com/r/?pr=812013733&vd=1538&pg=1766900971",
+   "sepet_fiyati": 24950.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30047,
+   "site": "Sinerji Bilgisayar",
+   "satici": "akakce üzerinden",
+   "baslik": "AMD Ryzen 7 9800X3D 5.20 Ghz 8 Çekirdek 104MB AM5 4nm İşlemci(Tray)",
+   "url": "https://www.akakce.com/r/?pr=812013733&vd=795&pg=1687451428",
+   "sepet_fiyati": 24958.75,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30048,
+   "site": "Tebilon.com",
+   "satici": "akakce üzerinden",
+   "baslik": "AMD Ryzen 7 9800X3D Tray Soket AM5 4.7/5.2GHz 96MB 120W 5nm 100-1000001084 Kutusuz işlemci",
+   "url": "https://www.akakce.com/r/?pr=812013733&vd=4636&pg=1687616707",
+   "sepet_fiyati": 25198.8,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30050,
+   "site": "Hepsiburada",
+   "satici": "Lowell Teknoloji",
+   "baslik": "Amd Ryzen 7 9800X3D 4,7 GHz 96 MB Cache AM5 İşlemci",
+   "url": "https://www.akakce.com/r/?pr=812013733&vd=12088&pg=1766901163",
+   "sepet_fiyati": 25253.08,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30049,
+   "site": "n11",
+   "satici": "lowellteknoloji",
+   "baslik": "Amd Ryzen 7 9800X3D 5.20 GHz AM5 96 MB V-Cache 120 W Tray İşlemci",
+   "url": "https://www.akakce.com/r/?pr=812013733&vd=11070&pg=1006966023",
+   "sepet_fiyati": 25253.08,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30051,
+   "site": "pazarama",
+   "satici": null,
+   "baslik": "RYZEN 7 9800X3D 4.7GHz 104MB AM5 (120W) Radeon VGA TRAY [FAN YOK]",
+   "url": "https://www.pazarama.com/ryzen-7-9800x3d-47ghz-104mb-am5-120w-radeon-vga-tray-fan-yok-p-SKU55217045142",
+   "sepet_fiyati": 26473.41,
+   "liste_fiyati": 28014.18,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25450,
+   "site": "trendyol",
+   "satici": null,
+   "baslik": "Ryzen 7 9800x3d Tray Soket Am5 4.7/5.2ghz 96mb 120w 5nm 100-1000001084 Kutusuz Işlemci",
+   "url": "https://www.trendyol.com/amd/ryzen-7-9800x3d-tray-soket-am5-4-7-5-2ghz-96mb-120w-5nm-100-1000001084-kutusuz-islemci-p-889628592?boutiqueId=61&merchantId=458642",
+   "sepet_fiyati": 27390.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30054,
+   "site": "gaminggentr",
+   "satici": null,
+   "baslik": "AMD Ryzen 7 9800X3D Tray 5.2GHz 8 Çekirdek 96MB Önbellek Soket AM5 4nm İşlemci",
+   "url": "https://www.gaming.gen.tr/urun/578427/amd-ryzen-7-9800x3d-tray-5-2ghz-8-cekirdek-96mb-onbellek-soket-am5-4nm-islemci/",
+   "sepet_fiyati": 29199.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30061,
+   "site": "vatan",
+   "satici": null,
+   "baslik": "AMD Ryzen™ 7 9800X3D Soket AM5 5.2GHz 96MB 120W 4nm İşlemci",
+   "url": "https://www.vatanbilgisayar.com/amd-ryzen-9-9800x3d-soket-am5-5-2ghz-64mb-120w-4nm-islemci.html",
+   "sepet_fiyati": 32359.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30063,
+   "site": "n11",
+   "satici": null,
+   "baslik": "Amd Ryzen 7 9800x3d 4.7ghz 96mb Am5 Tray Fansız 120w +radeon Graphıcs",
+   "url": "https://www.n11.com/urun/amd-ryzen-7-9800x3d-47ghz-96mb-am5-tray-fansiz-120w-radeon-graphics-145464169",
+   "sepet_fiyati": 33517.59,
+   "liste_fiyati": 36432.16,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  }
+ ],
+ "gecmis": [
+  {
+   "gun": "2026-11-14",
+   "en_dusuk": 22697.03,
+   "ortalama": 26425.16
+  }
+ ]
+}

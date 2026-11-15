@@ -1,0 +1,123 @@
+{
+ "data": {
+  "products": [
+   {
+    "id": 1230675125,
+    "name": "RTX 5080 Gaming Solid Core OC ZT-B50800J2-10P 256 Bit GDDR7 16 GB Ekran Kartı",
+    "url": "/zotac/rtx-5080-gaming-solid-core-oc-zt-b50800j2-10p-256-bit-gddr7-16-gb-ekran-karti-p-1230675125?boutiqueId=61&merchantId=107513",
+    "brand": "Zotac",
+    "merchantId": 107513,
+    "price": {
+     "old": 0,
+     "oldText": "0",
+     "currency": "TL",
+     "current": 145465,
+     "currentText": "145.465",
+     "originalPrice": 130918.5,
+     "originalPriceText": "130.918,50",
+     "discountedPrice": 130918.5,
+     "discountedPriceText": "130.918,50",
+     "currencySymbol": "TL"
+    },
+    "tagDetails": [
+     {
+      "displayName": "Peşin Fiyatına 9 Taksit",
+      "hasStamp": true,
+      "tag": "installment_pft9",
+      "tagId": 5006,
+      "tagType": "InstallmentBadge"
+     }
+    ],
+    "stock": {}
+   },
+   {
+    "id": 921526896,
+    "name": "GeForce RTX 5080 16GB SHADOW 3X OC GDDR7 256Bit DX12 Gaming (Oyuncu) Ekran Kartı",
+    "url": "/msi/geforce-rtx-5080-16gb-shadow-3x-oc-gddr7-256bit-dx12-gaming-oyuncu-ekran-karti-p-921526896?boutiqueId=61&merchantId=108281",
+    "brand": "MSI",
+    "merchantId": 108281,
+    "price": {
+     "old": 0,
+     "oldText": "0",
+     "currency": "TL",
+     "current": 141237.34,
+     "currentText": "141.237,34",
+     "originalPrice": 141187.34,
+     "originalPriceText": "141.187,34",
+     "discountedPrice": 141187.34,
+     "discountedPriceText": "141.187,34",
+     "currencySymbol": "TL"
+    },
+    "tagDetails": [
+     {
+      "displayName": "Peşin Fiyatına 9 Taksit",
+      "hasStamp": true,
+      "tag": "installment_pft9",
+      "tagId": 5006,
+      "tagType": "InstallmentBadge"
+     }
+    ],
+    "stock": {}
+   },
+   {
+    "id": 896321626,
+    "name": "Nvidia Geforce Rtx5080 X3 N50803-16d7-176068n 16 Gb Gddr7 256 Bit Ekran Kartı",
+    "url": "/inno3d/nvidia-geforce-rtx5080-x3-n50803-16d7-176068n-16-gb-gddr7-256-bit-ekran-karti-p-896321626?boutiqueId=61&merchantId=124551",
+    "brand": "INNO3D",
+    "merchantId": 124551,
+    "price": {
+     "old": 0,
+     "oldText": "0",
+     "currency": "TL",
+     "current": 121999,
+     "currentText": "121.999",
+     "originalPrice": 121999,
+     "originalPriceText": "121.999",
+     "discountedPrice": 121999,
+     "discountedPriceText": "121.999",
+     "currencySymbol": "TL"
+    },
+    "tagDetails": [
+     {
+      "displayName": "Peşin Fiyatına 9 Taksit",
+      "hasStamp": true,
+      "tag": "installment_pft9",
+      "tagId": 5006,
+      "tagType": "InstallmentBadge"
+     }
+    ],
+    "stock": {}
+   },
+   {
+    "id": 899930768,
+    "name": "TUF Gaming GeForce RTX 5080 OC 16GB GDDR7 256Bit HDMI/DP Ekran Kartı",
+    "url": "/asus/tuf-gaming-geforce-rtx-5080-oc-16gb-gddr7-256bit-hdmi-dp-ekran-karti-p-899930768?boutiqueId=61&merchantId=815914",
+    "brand": "ASUS",
+    "merchantId": 815914,
+    "price": {
+     "old": 0,
+     "oldText": "0",
+     "currency": "TL",
+     "current": 171269,
+     "currentText": "171.269",
+     "originalPrice": 171269,
+     "originalPriceText": "171.269",
+     "discountedPrice": 171269,
+     "discountedPriceText": "171.269",
+     "currencySymbol": "TL"
+    },
+    "tagDetails": [
+     {
+      "displayName": "Peşin Fiyatına 9 Taksit",
+      "hasStamp": true,
+      "tag": "installment_pft9",
+      "tagId": 5006,
+      "tagType": "InstallmentBadge"
+     }
+    ],
+    "stock": {}
+   }
+  ],
+  "total": 3659
+ }
+}

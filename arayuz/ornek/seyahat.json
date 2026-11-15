@@ -1,0 +1,309 @@
+{
+ "guncelleme": "2026-11-14T15:15:00+03:00",
+ "yolcular": [
+  {
+   "id": "ali",
+   "ad": "Ali",
+   "uyruklar": [
+    "TR"
+   ],
+   "izinler": []
+  },
+  {
+   "id": "ayse",
+   "ad": "Ayşe",
+   "uyruklar": [
+    "TR"
+   ],
+   "izinler": []
+  }
+ ],
+ "bacaklar": [
+  {
+   "id": "ist_tyo",
+   "baslik": "İstanbul → Tokyo",
+   "en_erken": "2026-12-25",
+   "en_gec": "2026-12-29",
+   "yolcular": [
+    "ali",
+    "ayse"
+   ],
+   "esik": {
+    "direkt_uc": 20000,
+    "direkt_bir": 25000,
+    "aktarmali_uc": 10000,
+    "aktarmali_bir": 13000
+   },
+   "secenekler": [
+    {
+     "id": "u101",
+     "tarih": "2026-12-27",
+     "kalkis": "2026-12-27T11:20:00+03:00",
+     "varis": "2026-12-28T06:50:00+09:00",
+     "kalkis_nokta": "IST",
+     "varis_nokta": "NRT",
+     "aktarmalar": [
+      "DOH"
+     ],
+     "aktarma_sayisi": 1,
+     "sure_dk": 810,
+     "firma": "Qatar Airways",
+     "kisi_basi": 12450.0,
+     "toplam": 24900.0,
+     "kaynak": "skyscanner",
+     "link": "https://www.skyscanner.com.tr/ucak-bileti/ist/tyo/u101",
+     "gozlem_zamani": "2026-11-14T15:10:00+03:00",
+     "yildiz": {
+      "seviye": 1,
+      "etiket": "★ Kelepir",
+      "gerekce": "Aktarmalı eşik ≤ 13.000 TL (12.450 TL)"
+     },
+     "uyarilar": [
+      "⚠ JP vizesi varsayım (henüz alınmadı)",
+      "2. yolcu (Ayşe): Katar transit: airside serbest (tek bilet)"
+     ],
+     "ayri_bilet": false,
+     "aktarma_bekleme_dk": [
+      150
+     ],
+     "akilli": {
+      "maliyet": 23050.0,
+      "sira": 1,
+      "aciklama": "fiyat 12.450 TL · süre 13 sa 30 dk ≈ 9.000 TL · 1 aktarma +1.000 TL · 2 uyarı +600 TL ⇒ 23.050 TL"
+     }
+    },
+    {
+     "id": "u123",
+     "tarih": "2026-12-27",
+     "kalkis": "2026-12-27T01:55:00+03:00",
+     "varis": "2026-12-27T19:40:00+09:00",
+     "kalkis_nokta": "IST",
+     "varis_nokta": "HND",
+     "aktarmalar": [],
+     "aktarma_sayisi": 0,
+     "sure_dk": 705,
+     "firma": "Turkish Airlines",
+     "kisi_basi": 23800.0,
+     "toplam": 47600.0,
+     "kaynak": "kayak",
+     "link": "https://www.kayak.com.tr/flights/IST-HND/2026-12-27",
+     "gozlem_zamani": "2026-11-14T15:12:00+03:00",
+     "yildiz": {
+      "seviye": 1,
+      "etiket": "★ Kelepir",
+      "gerekce": "Direkt uçuş eşiği 20.000–25.000 TL"
+     },
+     "uyarilar": [
+      "⚠ JP vizesi varsayım (henüz alınmadı)"
+     ],
+     "ayri_bilet": false,
+     "aktarma_bekleme_dk": null,
+     "akilli": {
+      "maliyet": 31933.0,
+      "sira": 2,
+      "aciklama": "fiyat 23.800 TL · süre 11 sa 45 dk ≈ 7.833 TL · 1 uyarı +300 TL ⇒ 31.933 TL"
+     }
+    },
+    {
+     "id": "u129",
+     "tarih": "2026-12-28",
+     "kalkis": "2026-12-28T01:55:00+03:00",
+     "varis": "2026-12-28T19:40:00+09:00",
+     "kalkis_nokta": "IST",
+     "varis_nokta": "HND",
+     "aktarmalar": [
+      "DOH"
+     ],
+     "aktarma_sayisi": 1,
+     "sure_dk": 1185,
+     "firma": "Qatar Airways",
+     "kisi_basi": 31541.0,
+     "toplam": 63082.0,
+     "kaynak": "kayak",
+     "link": "https://www.kayak.com.tr/flights/IST-HND/2026-12-28",
+     "gozlem_zamani": "2026-11-14T15:12:00+03:00",
+     "yildiz": {
+      "seviye": 0,
+      "etiket": "",
+      "gerekce": null
+     },
+     "uyarilar": [
+      "2. yolcu (Ayşe): Katar transit: airside serbest"
+     ],
+     "ayri_bilet": false,
+     "aktarma_bekleme_dk": [
+      320
+     ],
+     "akilli": {
+      "maliyet": 46008.0,
+      "sira": 3,
+      "aciklama": "fiyat 31.541 TL · süre 19 sa 45 dk ≈ 13.167 TL · 1 aktarma +1.000 TL · 1 uyarı +300 TL ⇒ 46.008 TL"
+     }
+    }
+   ],
+   "elenen_sayisi": 52,
+   "elenen_ornekleri": []
+  },
+  {
+   "id": "tyo_ist",
+   "baslik": "Tokyo → İstanbul",
+   "en_erken": "2027-01-04",
+   "en_gec": "2027-01-08",
+   "yolcular": [
+    "ali",
+    "ayse"
+   ],
+   "esik": {
+    "direkt_uc": 20000,
+    "direkt_bir": 25000,
+    "aktarmali_uc": 10000,
+    "aktarmali_bir": 13000
+   },
+   "secenekler": [
+    {
+     "id": "u201",
+     "tarih": "2027-01-06",
+     "kalkis": "2027-01-06T22:50:00+09:00",
+     "varis": "2027-01-07T06:10:00+03:00",
+     "kalkis_nokta": "HND",
+     "varis_nokta": "IST",
+     "aktarmalar": [],
+     "aktarma_sayisi": 0,
+     "sure_dk": 800,
+     "firma": "ANA / Turkish Airlines",
+     "kisi_basi": 19850.0,
+     "toplam": 39700.0,
+     "kaynak": "google_flights",
+     "link": "https://www.google.com/travel/flights/u201",
+     "gozlem_zamani": "2026-11-14T15:14:00+03:00",
+     "yildiz": {
+      "seviye": 3,
+      "etiket": "★★★ Hedef",
+      "gerekce": "Direkt uçuş ≤ 20.000 TL (19.850 TL)"
+     },
+     "uyarilar": []
+    }
+   ],
+   "elenen_sayisi": 38,
+   "elenen_ornekleri": []
+  }
+ ],
+ "yan_turlar": [
+  {
+   "baslik": "Tokyo ↔ Seul (yalnız Ali, 2 gece)",
+   "pencere": [
+    "2026-12-28",
+    "2027-01-05"
+   ],
+   "yolcular": [
+    "ali"
+   ],
+   "ciftler": [
+    {
+     "gidis": {
+      "id": "yt_g1",
+      "tarih": "2027-01-03",
+      "kalkis": "2027-01-03T09:15:00+09:00",
+      "varis": "2027-01-03T11:50:00+09:00",
+      "kalkis_nokta": "NRT",
+      "varis_nokta": "ICN",
+      "aktarmalar": [],
+      "aktarma_sayisi": 0,
+      "sure_dk": 155,
+      "firma": "Zipair",
+      "kisi_basi": 5420.0,
+      "toplam": 5420.0,
+      "kaynak": "skyscanner",
+      "link": "https://www.skyscanner.com.tr/ucak-bileti/nrt/icn/yt_g1",
+      "gozlem_zamani": "2026-11-14T15:11:00+03:00",
+      "yildiz": {
+       "seviye": 3,
+       "etiket": "★★★ Hedef",
+       "gerekce": "Direkt ≤ 6.000 TL"
+      },
+      "uyarilar": []
+     },
+     "donus": {
+      "id": "yt_d1",
+      "tarih": "2027-01-05",
+      "kalkis": "2027-01-05T15:30:00+09:00",
+      "varis": "2027-01-05T17:55:00+09:00",
+      "kalkis_nokta": "ICN",
+      "varis_nokta": "NRT",
+      "aktarmalar": [],
+      "aktarma_sayisi": 0,
+      "sure_dk": 145,
+      "firma": "Jeju Air",
+      "kisi_basi": 6190.0,
+      "toplam": 6190.0,
+      "kaynak": "kayak",
+      "link": "https://www.kayak.com.tr/flights/ICN-NRT/yt_d1",
+      "gozlem_zamani": "2026-11-14T15:11:00+03:00",
+      "yildiz": {
+       "seviye": 1,
+       "etiket": "★ Kelepir",
+       "gerekce": "Direkt 6.000–8.000 TL"
+      },
+      "uyarilar": []
+     },
+     "gece": 2,
+     "kisi_basi_toplam": 11610.0,
+     "toplam_sure_dk": 300,
+     "uyarilar": []
+    },
+    {
+     "gidis": {
+      "id": "yt_g2",
+      "tarih": "2026-12-30",
+      "kalkis": "2026-12-30T12:40:00+09:00",
+      "varis": "2026-12-30T14:40:00+09:00",
+      "kalkis_nokta": "HND",
+      "varis_nokta": "GMP",
+      "aktarmalar": [],
+      "aktarma_sayisi": 0,
+      "sure_dk": 120,
+      "firma": "Korean Air",
+      "kisi_basi": 8150.0,
+      "toplam": 8150.0,
+      "kaynak": "kayak",
+      "link": "https://www.kayak.com.tr/flights/HND-GMP/yt_g2",
+      "gozlem_zamani": "2026-11-14T15:11:00+03:00",
+      "yildiz": {
+       "seviye": 0,
+       "etiket": "",
+       "gerekce": null
+      },
+      "uyarilar": []
+     },
+     "donus": {
+      "id": "yt_d2",
+      "tarih": "2027-01-01",
+      "kalkis": "2027-01-01T16:10:00+09:00",
+      "varis": "2027-01-01T18:00:00+09:00",
+      "kalkis_nokta": "GMP",
+      "varis_nokta": "HND",
+      "aktarmalar": [],
+      "aktarma_sayisi": 0,
+      "sure_dk": 110,
+      "firma": "Asiana Airlines",
+      "kisi_basi": 8167.0,
+      "toplam": 8167.0,
+      "kaynak": "kayak",
+      "link": "https://www.kayak.com.tr/flights/GMP-HND/yt_d2",
+      "gozlem_zamani": "2026-11-14T15:11:00+03:00",
+      "yildiz": {
+       "seviye": 0,
+       "etiket": "",
+       "gerekce": null
+      },
+      "uyarilar": []
+     },
+     "gece": 2,
+     "kisi_basi_toplam": 16317.0,
+     "toplam_sure_dk": 230,
+     "uyarilar": []
+    }
+   ]
+  }
+ ]
+}

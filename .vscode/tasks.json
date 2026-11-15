@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "Çekirdeği başlat (127.0.0.1:8770)", "type": "shell",
+      "command": "uv run kazi-cekirdek serve", "options": { "cwd": "${workspaceFolder}/cekirdek" },
+      "isBackground": true, "problemMatcher": [] },
+    { "label": "Arayüzü çalıştır", "type": "shell",
+      "command": "PATH=$HOME/.cargo/bin:$PATH cargo run --release", "options": { "cwd": "${workspaceFolder}/arayuz" },
+      "problemMatcher": ["$rustc"] },
+    { "label": "Testler (çekirdek)", "type": "shell",
+      "command": "uv run --group dev pytest -q tests", "options": { "cwd": "${workspaceFolder}/cekirdek" },
+      "group": { "kind": "test", "isDefault": true }, "problemMatcher": [] },
+    { "label": "OpenAPI üret", "type": "shell",
+      "command": "uv run kazi-cekirdek openapi --cikti ../api/openapi.json", "options": { "cwd": "${workspaceFolder}/cekirdek" },
+      "problemMatcher": [] }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+ "urun": {
+  "id": "kasa_lancool3",
+  "ad": "Kasa Lian Li Lancool III",
+  "kategori": "kasa",
+  "hedef_fiyat": 8500.0,
+  "kurallar": {
+   "dahil": [
+    "lancool\\s*(iii|3)\\b"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "\\b20[0-9]\\b",
+    "\\b21[0-9]\\b",
+    "fan\\b",
+    "panel",
+    "kablo",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl"
+   ]
+  }
+ },
+ "ozet": {
+  "ortalama": 11743.221363636363,
+  "medyan": 10941.04,
+  "adet": 26
+ },
+ "teklifler": [
+  {
+   "teklif_id": 26378,
+   "site": "Amazon",
+   "satici": "cimri üzerinden",
+   "baslik": "Lian Li Lancool III ARGB Fanlı E-ATX Gaming Bilgisayar Kasası",
+   "url": "https://www.cimri.com/pc-kasalari/en-ucuz-lian-li-lancool-iii-argb-fanli-e-atx-gaming-bilgisayar-kasasi-fiyatlari,a2604611636",
+   "sepet_fiyati": 9799.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 9,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T07:36:39+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30348,
+   "site": "Hepsiburada",
+   "satici": "Hepsiburada",
+   "baslik": "Lian Li Lancool Iii Mid-Tower White E-Atx Kasa",
+   "url": "https://www.akakce.com/r/?pr=102928029&vd=12088&pg=1686113113",
+   "sepet_fiyati": 9799.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 26381,
+   "site": "hepsiburada",
+   "satici": null,
+   "baslik": "Lian Li Lancool Iii Mid-Tower White E-Atx Kasa",
+   "url": "https://www.hepsiburada.com/lian-li-lancool-iii-mid-tower-white-e-atx-kasa-pm-HBC00003BQV81",
+   "sepet_fiyati": 9799.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T07:36:39+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30350,
+   "site": "akakce",
+   "satici": null,
+   "baslik": "Lian Li Lancool III ARGB Fanlı Siyah E-ATX Oyuncu Kasası",
+   "url": "https://www.akakce.com/bilgisayar-kasasi/en-ucuz-lian-li-lancool-iii-x-argb-3-fanli-black-e-atx-oyuncu-kasasi-fiyati,120885614.html",
+   "sepet_fiyati": 10399.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 26386,
+   "site": "epey",
+   "satici": null,
+   "baslik": "Lian Li Lancool III RGB Bilgisayar Kasası",
+   "url": "https://www.epey.com/bilgisayar-kasasi/lian-li-lancool-iii-rgb-siyah.html",
+   "sepet_fiyati": 10399.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T07:36:39+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30352,
+   "site": "incehesap.com",
+   "satici": "akakce üzerinden",
+   "baslik": "Lian Li Lancool III Siyah RGB Mid-Tower E-ATX Gaming (Oyuncu) Kasa (G99.LAN3RX.00)",
+   "url": "https://www.akakce.com/r/?pr=120885614&vd=317&pg=1806199164",
+   "sepet_fiyati": 10399.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 3,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 26385,
+   "site": "İnce Hesap",
+   "satici": "cimri üzerinden",
+   "baslik": "Lian Li Lancool III G99.LAN3RX.00 ARGB Fanlı Siyah E-ATX Gaming Bilgisayar Kasası",
+   "url": "https://www.cimri.com/pc-kasalari/en-ucuz-lian-li-lancool-iii-mid-tower-rgb-siyah-e-atx-kasa-fiyatlari,2189444512",
+   "sepet_fiyati": 10399.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T07:36:39+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 26388,
+   "site": "idefix",
+   "satici": null,
+   "baslik": "Lian Li Lancool III Beyaz RGB Mid-Tower E-ATX Gaming (Oyuncu) Kasa (G99.LAN3RW.00)",
+   "url": "https://www.idefix.com/lian-li-lancool-iii-beyaz-rgb-mid-tower-e-atx-gaming-oyuncu-kasa-g99lan3rw00-p-5438165#sortId=5438165",
+   "sepet_fiyati": 10720.71,
+   "liste_fiyati": 10829.0,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T07:36:39+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30353,
+   "site": "idefix",
+   "satici": "incehesap",
+   "baslik": "Lian Li Lancool III Beyaz RGB Mid-Tower E-ATX Gaming (Oyuncu) Kasa (G99.LAN3RW.00)",
+   "url": "https://www.akakce.com/r/?pr=102928029&vd=13275&pg=859824838",
+   "sepet_fiyati": 10720.71,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30354,
+   "site": "Amazon Türkiye",
+   "satici": "incehesap",
+   "baslik": "Lian Li LANCOOL III Midi-Tower, RGB - Siyah Orta Boy Kasa, Bilgisayar Kasası, Siyah",
+   "url": "https://www.akakce.com/r/?pr=120885614&vd=10001&pg=1807208941",
+   "sepet_fiyati": 10769.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 26390,
+   "site": "amazon",
+   "satici": null,
+   "baslik": "Lian Li LANCOOL III Midi-Tower, RGB - Siyah Orta Boy Kasa, Bilgisayar Kasası, Siyah",
+   "url": "https://www.amazon.com.tr/Lian-Li-Lancool-III-siyah/dp/B0B469JRGC",
+   "sepet_fiyati": 10769.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T07:36:39+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30356,
+   "site": "Trendyol",
+   "satici": "incehesap",
+   "baslik": "Lian Li Lancool III Siyah RGB Mid-Tower E-ATX Gaming (Oyuncu) Kasa (G99.LAN3RX.00)",
+   "url": "https://www.akakce.com/r/?pr=120885614&vd=11707&pg=1806625594",
+   "sepet_fiyati": 10889.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 26394,
+   "site": "trendyol",
+   "satici": null,
+   "baslik": "Lancool III Beyaz RGB Mid-Tower E-ATX Gaming (Oyuncu) Kasa (G99.LAN3RW.00)",
+   "url": "https://www.trendyol.com/lian-li/lancool-iii-beyaz-rgb-mid-tower-e-atx-gaming-oyuncu-kasa-g99-lan3rw-00-p-435988283?boutiqueId=61&merchantId=106248",
+   "sepet_fiyati": 10889.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 9,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T07:36:39+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30358,
+   "site": "n11",
+   "satici": null,
+   "baslik": "Lian Li Lancool III Mid-Tower E-Atx White Bilgisayar Kasası",
+   "url": "https://www.n11.com/urun/lian-li-lancool-iii-mid-tower-e-atx-white-bilgisayar-kasasi-34673707",
+   "sepet_fiyati": 10993.08,
+   "liste_fiyati": 11949.0,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30357,
+   "site": "n11",
+   "satici": "incehesap",
+   "baslik": "Lian Li Lancool III Mid-Tower E-Atx White Bilgisayar Kasası",
+   "url": "https://www.akakce.com/r/?pr=102928029&vd=11070&pg=736481822",
+   "sepet_fiyati": 10993.08,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30359,
+   "site": "n11",
+   "satici": "prostore",
+   "baslik": "Lian Li Lancool III Mid-Tower E-Atx White Bilgisayar Kasası",
+   "url": "https://www.akakce.com/r/?pr=102928029&vd=11070&pg=1420414169",
+   "sepet_fiyati": 12420.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30360,
+   "site": "n11",
+   "satici": "teknostok",
+   "baslik": "Lian Li Lancool III Mid-Tower E-Atx White Bilgisayar Kasası",
+   "url": "https://www.akakce.com/r/?pr=102928029&vd=11070&pg=1420415066",
+   "sepet_fiyati": 12851.65,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30361,
+   "site": "Trendyol",
+   "satici": "ProStore Teknoloji",
+   "baslik": "Lian Li Lancool III Beyaz RGB Mid-Tower E-ATX Gaming (Oyuncu) Kasa (G99.LAN3RW.00)",
+   "url": "https://www.akakce.com/r/?pr=102928029&vd=11707&pg=1802731591",
+   "sepet_fiyati": 12999.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30362,
+   "site": "Pazarama",
+   "satici": "UZMANLARPC",
+   "baslik": "LANCOOL III MID-TOWER WHITE E-ATX KASA",
+   "url": "https://www.akakce.com/r/?pr=102928029&vd=10694&pg=1777034304",
+   "sepet_fiyati": 13378.31,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30363,
+   "site": "pazarama",
+   "satici": null,
+   "baslik": "LANCOOL III MID-TOWER WHITE E-ATX KASA",
+   "url": "https://www.pazarama.com/lancool-iii-mid-tower-white-e-atx-kasa-p-TET19788894479",
+   "sepet_fiyati": 13378.31,
+   "liste_fiyati": 14156.94,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30364,
+   "site": "n11",
+   "satici": "onlinealisverisyap",
+   "baslik": "Lian Li Lancool III Mid-Tower E-Atx White Bilgisayar Kasası",
+   "url": "https://www.akakce.com/r/?pr=102928029&vd=11070&pg=1472813389",
+   "sepet_fiyati": 13412.35,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30365,
+   "site": "idefix",
+   "satici": "onlinealisverisyap",
+   "baslik": "Lian Li Lancool III Beyaz RGB Mid-Tower E-ATX Gaming (Oyuncu) Kasa (G99.LAN3RW.00)",
+   "url": "https://www.akakce.com/r/?pr=102928029&vd=13275&pg=1592281482",
+   "sepet_fiyati": 13467.74,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30366,
+   "site": "Pttavm",
+   "satici": "Uzmanlar Bilgisayar",
+   "baslik": "Lıan Lı Lancool Iıı Mıd-Tower Whıte E-Atx Kasa",
+   "url": "https://www.akakce.com/r/?pr=102928029&vd=11281&pg=1316006305",
+   "sepet_fiyati": 13922.92,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 2,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30367,
+   "site": "idefix",
+   "satici": "ZMTEKNOLOJİ",
+   "baslik": "Lian Li Lancool III Beyaz RGB Mid-Tower E-ATX Gaming (Oyuncu) Kasa (G99.LAN3RW.00)",
+   "url": "https://www.akakce.com/r/?pr=102928029&vd=13275&pg=1721760929",
+   "sepet_fiyati": 14382.01,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30368,
+   "site": "MediaMarkt Pazaryeri",
+   "satici": "akakce üzerinden",
+   "baslik": "LIAN LI Lancool III RGB Tempered Glass USB 3.0 ATX Mid Tower Beyaz Bilgisayar Kasası",
+   "url": "https://www.akakce.com/r/?pr=102928029&vd=5460&pg=1533309129",
+   "sepet_fiyati": 14449.37,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 5,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 26407,
+   "site": "mediamarkt",
+   "satici": null,
+   "baslik": "LIAN LI Lancool III RGB Tempered Glass USB 3.0 ATX Mid Tower Beyaz Bilgisayar Kasası",
+   "url": "https://www.mediamarkt.com.tr/tr/product/_lian-li-lancool-iii-rgb-tempered-glass-usb-30-atx-mid-tower-beyaz-bilgisayar-kasasi-152009260.html",
+   "sepet_fiyati": 14449.37,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 3,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T07:36:39+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  }
+ ],
+ "gecmis": [
+  {
+   "gun": "2026-11-14",
+   "en_dusuk": 9799.0,
+   "ortalama": 11563.84
+  }
+ ]
+}

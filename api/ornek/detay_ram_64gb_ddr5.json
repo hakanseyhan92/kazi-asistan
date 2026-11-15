@@ -1,0 +1,534 @@
+{
+ "urun": {
+  "id": "ram_64gb_ddr5",
+  "ad": "RAM 64GB (2×32) DDR5-6000 CL30 EXPO — Gigabyte QVL'li",
+  "kategori": "ram",
+  "hedef_fiyat": 62000.0,
+  "kurallar": {
+   "dahil": [
+    "64\\s*gb",
+    "6000",
+    "(cl\\s*30|c30|j3040|z30)"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "so-?dimm",
+    "1\\s*x\\s*64",
+    "cl(3[6-9]|4\\d)",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl",
+    "tz5rk",
+    "tz5rw",
+    "\\btz5rs\\b",
+    "32gb\\s*\\(2x16",
+    "2\\s*x\\s*16"
+   ]
+  }
+ },
+ "ozet": {
+  "ortalama": 101194.6685,
+  "medyan": 100736.365,
+  "adet": 24
+ },
+ "teklifler": [
+  {
+   "teklif_id": 30159,
+   "site": "Ucuzbudur.com",
+   "satici": "akakce üzerinden",
+   "baslik": "G.Skill Trident Z5 Neo RGB 64 GB (2x32) 6000 MHz CL30 F5-6000J3040G32GX2-TZ5NR DDR5 Ram",
+   "url": "https://www.akakce.com/r/?pr=198485687&vd=1538&pg=1743001634",
+   "sepet_fiyati": 92950.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30160,
+   "site": "idefix",
+   "satici": "netsipariş",
+   "baslik": "G Skill Gskıll Tz5 Neo Rgb Ddr5-6000mhz Cl30 64gb (2x32gb) Dual 1.40v F5-6000j3040g32gx2-tz5nr",
+   "url": "https://www.akakce.com/r/?pr=198485687&vd=13275&pg=1697723690",
+   "sepet_fiyati": 92969.46,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30163,
+   "site": "akakce",
+   "satici": null,
+   "baslik": "Kingston Beast Expo 64Gb Ddr5 6000Mhz Cl30 Masaustu Performans Ram Kit (2X32gb)",
+   "url": "https://www.akakce.com/ram/en-ucuz-kingston-beast-expo-64gb-ddr5-6000mhz-cl30-masaustu-performans-kit-2x32gb-fiyati,702165131.html",
+   "sepet_fiyati": 93417.5,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30164,
+   "site": "idefix",
+   "satici": "Kraft online",
+   "baslik": "Kingston Beast Expo 64Gb Ddr5 6000Mhz Cl30 Masaüstü Performans Ram Kit (2X32Gb)",
+   "url": "https://www.akakce.com/r/?pr=702165131&vd=13275&pg=1661439318",
+   "sepet_fiyati": 93417.5,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30165,
+   "site": "n11",
+   "satici": "netsiparis",
+   "baslik": "G.Skill Trident Neo RGB F5-6000J3040G32GX2-TZ5NR 64 GB (2x32) DDR5 6000 MHz CL30 Ram",
+   "url": "https://www.akakce.com/r/?pr=198485687&vd=11070&pg=1697433615",
+   "sepet_fiyati": 95132.6,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30169,
+   "site": "n11",
+   "satici": "onlinealisverisyap",
+   "baslik": "G.Skill Trident Neo RGB F5-6000J3040G32GX2-TZ5NR 64 GB (2x32) DDR5 6000 MHz CL30 Ram",
+   "url": "https://www.akakce.com/r/?pr=198485687&vd=11070&pg=1741651328",
+   "sepet_fiyati": 97144.01,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30170,
+   "site": "n11",
+   "satici": "zmteknoloji",
+   "baslik": "G.Skill Trident Neo RGB F5-6000J3040G32GX2-TZ5NR 64 GB (2x32) DDR5 6000 MHz CL30 Ram",
+   "url": "https://www.akakce.com/r/?pr=198485687&vd=11070&pg=1741652953",
+   "sepet_fiyati": 97463.28,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30171,
+   "site": "Sinerji Bilgisayar",
+   "satici": "akakce üzerinden",
+   "baslik": "G.Skill 64GB(2x32) Trident Z5 Neo RGB 6000Mhz CL30 DDR5 EXPO Ram (F5-6000J3040G32GX2-TZ5NR)",
+   "url": "https://www.akakce.com/r/?pr=198485687&vd=795&pg=1697566639",
+   "sepet_fiyati": 97881.26,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30172,
+   "site": "lnvmarket.com",
+   "satici": "akakce üzerinden",
+   "baslik": "Kingston Beast Expo 64GB DDR5 6000MHz CL30 Masaüstü Performans Ram Kit (2x32GB)",
+   "url": "https://www.akakce.com/r/?pr=702165131&vd=5516&pg=1679718543",
+   "sepet_fiyati": 98138.45,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 2,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30173,
+   "site": "idefix",
+   "satici": "onlinealisverisyap",
+   "baslik": "Kingston Beast Expo 64Gb Ddr5 6000Mhz Cl30 Masaüstü Performans Ram Kit (2X32Gb)",
+   "url": "https://www.akakce.com/r/?pr=702165131&vd=13275&pg=1808459928",
+   "sepet_fiyati": 98390.19,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30174,
+   "site": "n11",
+   "satici": "rotamnet",
+   "baslik": "G.Skill Trident Neo RGB F5-6000J3040G32GX2-TZ5NR 64 GB (2x32) DDR5 6000 MHz CL30 Ram",
+   "url": "https://www.akakce.com/r/?pr=198485687&vd=11070&pg=1811415735",
+   "sepet_fiyati": 98695.93,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30176,
+   "site": "Pttavm",
+   "satici": "ZmTeknoloji",
+   "baslik": "G.skıll Trident Z5 Neo Rgb 64 Gb (2X 32 Gb) Ddr5 6000Mhz Dual Kit Pc Ram F5-6000J3040g32gx2-Tz5nr",
+   "url": "https://www.akakce.com/r/?pr=198485687&vd=11281&pg=1741745455",
+   "sepet_fiyati": 100093.6,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 2,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30177,
+   "site": "Teknosa",
+   "satici": "onlinealisverisyap",
+   "baslik": "G.Skill TZ5 Neo RGB F5-6000J3040G32GX2-TZ5NR 64 GB (2x32 GB) Dual DDR5 6000 MHz CL30 RAM",
+   "url": "https://www.akakce.com/r/?pr=198485687&vd=10402&pg=1808492450",
+   "sepet_fiyati": 101379.13,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30178,
+   "site": "idefix",
+   "satici": "ZMTEKNOLOJİ",
+   "baslik": "Kingston Beast Expo 64Gb Ddr5 6000Mhz Cl30 Masaüstü Performans Ram Kit (2X32Gb)",
+   "url": "https://www.akakce.com/r/?pr=702165131&vd=13275&pg=1808459930",
+   "sepet_fiyati": 101534.91,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30179,
+   "site": "Pttavm",
+   "satici": "onlinealisverisyap",
+   "baslik": "G.skıll Trident Z5 Neo Rgb 64 Gb (2X 32 Gb) Ddr5 6000Mhz Dual Kit Pc Ram F5-6000J3040g32gx2-Tz5nr",
+   "url": "https://www.akakce.com/r/?pr=198485687&vd=11281&pg=1741721100",
+   "sepet_fiyati": 101887.91,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 2,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30180,
+   "site": "Teknosa",
+   "satici": "Netsipariş",
+   "baslik": "G.Skill TZ5 Neo RGB F5-6000J3040G32GX2-TZ5NR 64 GB (2x32 GB) Dual DDR5 6000 MHz CL30 RAM",
+   "url": "https://www.akakce.com/r/?pr=198485687&vd=10402&pg=1808492431",
+   "sepet_fiyati": 102310.7,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30181,
+   "site": "idefix",
+   "satici": "LowellTeknoloji",
+   "baslik": "Kingston Beast Expo 64Gb Ddr5 6000Mhz Cl30 Masaüstü Performans Ram Kit (2X32Gb)",
+   "url": "https://www.akakce.com/r/?pr=702165131&vd=13275&pg=1808557396",
+   "sepet_fiyati": 103352.06,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30182,
+   "site": "Trendyol",
+   "satici": "Kraft Online",
+   "baslik": "G Skill Gskıll Tz5 Neo Rgb DDR5-6000MHZ CL30 64GB (2X32GB) Dual 1.40V F5-6000J3040G32GX2-TZ5NR",
+   "url": "https://www.akakce.com/r/?pr=198485687&vd=11707&pg=1790671996",
+   "sepet_fiyati": 103866.4,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30183,
+   "site": "Hepsiburada",
+   "satici": "Rvotec Teknoloji",
+   "baslik": "Gskıll Tz5 Neo Rgb DDR5-6000MHZ CL30 64GB (2X32GB) Dual 1.40V F5-6000J3040G32GX2-TZ5NR",
+   "url": "https://www.akakce.com/r/?pr=198485687&vd=12088&pg=1701933345",
+   "sepet_fiyati": 104639.6,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30184,
+   "site": "Teknosa",
+   "satici": "RotamNet",
+   "baslik": "G.Skill TZ5 Neo RGB F5-6000J3040G32GX2-TZ5NR 64 GB (2x32 GB) Dual DDR5 6000 MHz CL30 RAM",
+   "url": "https://www.akakce.com/r/?pr=198485687&vd=10402&pg=1815471790",
+   "sepet_fiyati": 106320.34,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30186,
+   "site": "pazarama",
+   "satici": null,
+   "baslik": "Kingston KF560C30BBEK2/64TR 64 GB (2x32) DDR5 6000Mhz CL30 Beast Expo Bilgisayar Bellek",
+   "url": "https://www.pazarama.com/kingston-kf560c30bbek264tr-64-gb-2x32-ddr5-6000mhz-cl30-beast-expo-bilgisayar-bellek-p-0740617345001",
+   "sepet_fiyati": 108469.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30188,
+   "site": "vatan",
+   "satici": null,
+   "baslik": "XPG Lancer Beyaz RGB DDR5-6000Mhz CL30 64GB (2x32GB) Dual Kit Ram",
+   "url": "https://www.vatanbilgisayar.com/xpg-lancer-beyaz-rgb-ddr5-6000mhz-cl30-64gb-2x32gb-dual-kit-ram.html",
+   "sepet_fiyati": 120359.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30191,
+   "site": "n11",
+   "satici": null,
+   "baslik": "Xpg Lancer 64gb 2x32gb Rgb 6000mhz Cl30 Intel Xmp/ Amd Expo Ddr5 Siyah Dual Kit Ram",
+   "url": "https://www.n11.com/urun/xpg-lancer-64gb-2x32gb-rgb-6000mhz-cl30-intel-xmp-amd-expo-ddr5-siyah-dual-kit-ram-130378822",
+   "sepet_fiyati": 127271.71,
+   "liste_fiyati": 138338.81,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25582,
+   "site": "trendyol",
+   "satici": null,
+   "baslik": "Xpg Lancer Rgb Ddr5 64gb(2x32gb) 6000mhz Cl30 Ram Bellek (ax5u6000c3032g-dclarwh)",
+   "url": "https://www.trendyol.com/adata/xpg-lancer-rgb-ddr5-64gb-2x32gb-6000mhz-cl30-ram-bellek-ax5u6000c3032g-dclarwh-p-674176265?boutiqueId=61&merchantId=504783",
+   "sepet_fiyati": 129000.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 9,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  }
+ ],
+ "gecmis": [
+  {
+   "gun": "2026-11-14",
+   "en_dusuk": 85999.0,
+   "ortalama": 102000.66
+  }
+ ]
+}

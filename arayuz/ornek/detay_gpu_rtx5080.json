@@ -1,0 +1,164 @@
+{
+  "urun": {
+    "id": "gpu_rtx5080",
+    "ad": "Ekran kartı RTX 5080",
+    "kategori": "gpu",
+    "hedef_fiyat": 110000.0,
+    "kurallar": {
+      "dahil": ["RTX 5080", "16GB"],
+      "haric": ["su soğutma bloğu", "kablo", "hazır sistem", "RTX 5070"]
+    }
+  },
+  "ozet": {
+    "ortalama": 124350.0,
+    "medyan": 122849.0,
+    "adet": 41
+  },
+  "teklifler": [
+    {
+      "teklif_id": 812,
+      "site": "trendyol",
+      "satici": "GarajOnline",
+      "baslik": "Inno3D GeForce RTX 5080 X3 OC 16GB GDDR7 256Bit DLSS 4 Ekran Kartı",
+      "url": "https://www.trendyol.com/inno3d/rtx-5080-x3-p-812",
+      "sepet_fiyati": 111549.03,
+      "liste_fiyati": 114999.0,
+      "stok": true,
+      "taksit": {
+        "pesin_fiyatina": 9,
+        "tablo": [
+          {
+            "banka": "Maximum",
+            "taksit_sayisi": 9,
+            "aylik": 12394.34,
+            "toplam": 111549.03,
+            "vade_farki_yuzde": 0.0
+          },
+          {
+            "banka": "Bonus",
+            "taksit_sayisi": 12,
+            "aylik": 10500.0,
+            "toplam": 126000.0,
+            "vade_farki_yuzde": 13.0
+          },
+          {
+            "banka": "World",
+            "taksit_sayisi": 6,
+            "aylik": 19521.0,
+            "toplam": 117126.0,
+            "vade_farki_yuzde": 5.0
+          }
+        ]
+      },
+      "kaynak_katmani": "K2",
+      "gozlem_zamani": "2026-11-14T15:07:00+03:00",
+      "teyit_durumu": "teyitli",
+      "teyit_zamani": "2026-11-14T15:08:12+03:00",
+      "kanit_goruntusu": "~/.local/share/kazi/kanitlar/teklif_812.png",
+      "yildiz": {
+        "seviye": 1,
+        "etiket": "★ Kelepir",
+        "gerekce": "ort. 124.350 TL, −%10,3 · hedef 110.000 TL, üstünde 1.549 TL"
+      },
+      "akilli": {
+        "maliyet": 96504.0,
+        "sira": 1,
+        "taksit_avantaji": 15045.0,
+        "aciklama": "sepet 111.549 TL · 9× peşin fiyatına taksit −15.045 TL (aylık %3,0 iskonto) ⇒ 96.504 TL"
+      }
+    },
+    {
+      "teklif_id": 815,
+      "site": "hepsiburada",
+      "satici": "Hepsiburada",
+      "baslik": "Palit GeForce RTX 5080 GamingPro 16GB GDDR7 256Bit",
+      "url": "https://www.hepsiburada.com/palit-rtx-5080-p-815",
+      "sepet_fiyati": 116899.0,
+      "liste_fiyati": 119999.0,
+      "stok": true,
+      "taksit": {
+        "pesin_fiyatina": 6,
+        "tablo": [
+          {
+            "banka": "World",
+            "taksit_sayisi": 6,
+            "aylik": 19483.17,
+            "toplam": 116899.0,
+            "vade_farki_yuzde": 0.0
+          }
+        ]
+      },
+      "kaynak_katmani": "K2",
+      "gozlem_zamani": "2026-11-14T15:06:00+03:00",
+      "teyit_durumu": "teyitli",
+      "teyit_zamani": "2026-11-14T15:07:30+03:00",
+      "kanit_goruntusu": "~/.local/share/kazi/kanitlar/teklif_815.png",
+      "yildiz": {
+        "seviye": 1,
+        "etiket": "★ Kelepir",
+        "gerekce": "ort. 124.350 TL, −%6,0 · hedef 110.000 TL, üstünde 6.899 TL"
+      },
+      "akilli": {
+        "maliyet": 105548.0,
+        "sira": 2,
+        "taksit_avantaji": 11351.0,
+        "aciklama": "sepet 116.899 TL · 6× peşin fiyatına taksit −11.351 TL (aylık %3,0 iskonto) ⇒ 105.548 TL"
+      }
+    },
+    {
+      "teklif_id": 819,
+      "site": "n11",
+      "satici": "TeknoMarket",
+      "baslik": "Gainward RTX 5080 Phoenix 16GB GDDR7",
+      "url": "https://www.n11.com/urun/gainward-rtx-5080-819",
+      "sepet_fiyati": 109500.0,
+      "liste_fiyati": 112000.0,
+      "stok": false,
+      "taksit": {
+        "pesin_fiyatina": 3,
+        "tablo": []
+      },
+      "kaynak_katmani": "K0",
+      "gozlem_zamani": "2026-11-14T14:55:00+03:00",
+      "teyit_durumu": "stok_yok",
+      "teyit_zamani": "2026-11-14T14:56:10+03:00",
+      "kanit_goruntusu": null,
+      "yildiz": {
+        "seviye": 0,
+        "etiket": "⚠ Şüpheli",
+        "gerekce": "2. okumada stok tükendi (stok_yok)"
+      }
+    },
+    {
+      "teklif_id": 822,
+      "site": "itopya",
+      "satici": "İtopya",
+      "baslik": "ASUS TUF Gaming GeForce RTX 5080 OC 16GB GDDR7",
+      "url": "https://www.itopya.com/asus-tuf-rtx-5080-oc",
+      "sepet_fiyati": 128999.0,
+      "liste_fiyati": 128999.0,
+      "stok": true,
+      "taksit": {
+        "pesin_fiyatina": 0,
+        "tablo": []
+      },
+      "kaynak_katmani": "K0",
+      "gozlem_zamani": "2026-11-14T15:02:00+03:00",
+      "teyit_durumu": "bekliyor",
+      "teyit_zamani": null,
+      "kanit_goruntusu": null,
+      "yildiz": {
+        "seviye": 0,
+        "etiket": "",
+        "gerekce": null
+      }
+    }
+  ],
+  "gecmis": [
+    {"gun": "2026-11-10", "en_dusuk": 115900.0, "ortalama": 126500.0},
+    {"gun": "2026-11-11", "en_dusuk": 114200.0, "ortalama": 125800.0},
+    {"gun": "2026-11-12", "en_dusuk": 113500.0, "ortalama": 125100.0},
+    {"gun": "2026-11-13", "en_dusuk": 112400.0, "ortalama": 124900.0},
+    {"gun": "2026-11-14", "en_dusuk": 111549.0, "ortalama": 124350.0}
+  ]
+}

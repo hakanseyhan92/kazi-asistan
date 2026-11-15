@@ -1,0 +1,40 @@
+{
+  "İstanbul": [
+    {"kod": "IST", "ad": "İstanbul Havalimanı", "tur": "havalimani", "ulke": "TR"},
+    {"kod": "SAW", "ad": "Sabiha Gökçen Havalimanı", "tur": "havalimani", "ulke": "TR"},
+    {"kod": "SOGUTLUCE", "ad": "Söğütlüçeşme YHT", "tur": "yht", "ulke": "TR"},
+    {"kod": "PENDIK", "ad": "Pendik YHT", "tur": "yht", "ulke": "TR"},
+    {"kod": "HALKALI", "ad": "Halkalı YHT", "tur": "yht", "ulke": "TR"},
+    {"kod": "BAKIRKOY", "ad": "Bakırköy YHT", "tur": "yht", "ulke": "TR"},
+    {"kod": "ESENLER", "ad": "Esenler Otogarı", "tur": "otogar", "ulke": "TR"}
+  ],
+  "Ankara": [
+    {"kod": "ESB", "ad": "Esenboğa Havalimanı", "tur": "havalimani", "ulke": "TR"},
+    {"kod": "ANKARA_YHT", "ad": "Ankara YHT Garı", "tur": "yht", "ulke": "TR"},
+    {"kod": "ASTI", "ad": "AŞTİ", "tur": "otogar", "ulke": "TR"}
+  ],
+  "Eskişehir": [
+    {"kod": "ESK_YHT", "ad": "Eskişehir YHT Garı", "tur": "yht", "ulke": "TR"},
+    {"kod": "ESK_OTOGAR", "ad": "Eskişehir Otogarı", "tur": "otogar", "ulke": "TR"}
+  ],
+  "Konya": [
+    {"kod": "KNY_YHT", "ad": "Konya YHT Garı", "tur": "yht", "ulke": "TR"},
+    {"kod": "KNY_OTOGAR", "ad": "Konya Otogarı", "tur": "otogar", "ulke": "TR"}
+  ],
+  "İzmir": [
+    {"kod": "ADB", "ad": "Adnan Menderes Havalimanı", "tur": "havalimani", "ulke": "TR"},
+    {"kod": "IZM_OTOGAR", "ad": "İzmir Otogarı", "tur": "otogar", "ulke": "TR"}
+  ],
+  "Tokyo": [
+    {"kod": "NRT", "ad": "Narita Airport", "tur": "havalimani", "ulke": "JP"},
+    {"kod": "HND", "ad": "Haneda Airport", "tur": "havalimani", "ulke": "JP"}
+  ],
+  "Seul": [
+    {"kod": "ICN", "ad": "Incheon International Airport", "tur": "havalimani", "ulke": "KR"},
+    {"kod": "GMP", "ad": "Gimpo International Airport", "tur": "havalimani", "ulke": "KR"}
+  ],
+  "Osaka": [
+    {"kod": "KIX", "ad": "Kansai International Airport", "tur": "havalimani", "ulke": "JP"},
+    {"kod": "ITM", "ad": "Itami Airport", "tur": "havalimani", "ulke": "JP"}
+  ]
+}

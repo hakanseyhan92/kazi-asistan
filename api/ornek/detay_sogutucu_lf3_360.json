@@ -1,0 +1,466 @@
+{
+ "urun": {
+  "id": "sogutucu_lf3_360",
+  "ad": "Sıvı soğutucu Arctic Liquid Freezer III Pro 360",
+  "kategori": "sogutucu",
+  "hedef_fiyat": 5300.0,
+  "kurallar": {
+   "dahil": [
+    "liquid freezer\\s*iii",
+    "360"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "fan\\s*paketi",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl"
+   ]
+  }
+ },
+ "ozet": {
+  "ortalama": 6658.313529411765,
+  "medyan": 6099.01,
+  "adet": 21
+ },
+ "teklifler": [
+  {
+   "teklif_id": 30321,
+   "site": "akakce",
+   "satici": null,
+   "baslik": "Arctic Liquid Freezer III Pro 360 ARGB ACFRE00188A Beyaz İşlemci Sıvı Soğutucu",
+   "url": "https://www.akakce.com/islemci-sogutucu/en-ucuz-arctic-liquid-freezer-iii-pro-360-argb-beyaz-acfre00188a-islemci-sivi-sogutucu-fiyati,1084674267.html",
+   "sepet_fiyati": 5789.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30323,
+   "site": "n11",
+   "satici": null,
+   "baslik": "Arctic Acfre00188a Liquid Freezer Iıı Pro 360 Argb White Intel/a",
+   "url": "https://www.n11.com/urun/arctic-acfre00188a-liquid-freezer-iii-pro-360-argb-white-intela-86380889",
+   "sepet_fiyati": 5789.0,
+   "liste_fiyati": 7009.78,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30322,
+   "site": "n11",
+   "satici": "magic",
+   "baslik": "Arctic Acfre00188a Liquid Freezer Iıı Pro 360 Argb White Intel/a",
+   "url": "https://www.akakce.com/r/?pr=1084674267&vd=11070&pg=1748277835",
+   "sepet_fiyati": 5789.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 3,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30324,
+   "site": "n11",
+   "satici": "teknobiyotik",
+   "baslik": "Arctic Acfre00188a Liquid Freezer Iıı Pro 360 Argb White Intel/a",
+   "url": "https://www.akakce.com/r/?pr=1084674267&vd=11070&pg=1633441056",
+   "sepet_fiyati": 5795.08,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 3,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30326,
+   "site": "n11",
+   "satici": "elmacik",
+   "baslik": "Arctic Acfre00188a Liquid Freezer Iıı Pro 360 Argb White Intel/a",
+   "url": "https://www.akakce.com/r/?pr=1084674267&vd=11070&pg=1735195913",
+   "sepet_fiyati": 5799.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 3,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30327,
+   "site": "idefix",
+   "satici": "Piksel Bilgisayar",
+   "baslik": "Arctic Liquid Freezer III Pro 360 ARGB ACFRE00184A Siyah İşlemci Sıvı Soğutucu",
+   "url": "https://www.akakce.com/r/?pr=1036595396&vd=13275&pg=1757756369",
+   "sepet_fiyati": 5899.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30328,
+   "site": "Amazon Türkiye",
+   "satici": "Magıc Teknolojı",
+   "baslik": "Arctic Liquid Freezer III Pro 360 A-RGB White Intel/AMD Uyumlu, 360mm Radyatörlü, 3x12cm P12 PRO A-RGB PWM Fanlı, Sıvı İşlemci Soğutucu Beyaz (ACFRE00188A)",
+   "url": "https://www.akakce.com/r/?pr=1084674267&vd=10001&pg=1765935473",
+   "sepet_fiyati": 5949.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30329,
+   "site": "n11",
+   "satici": "peghome",
+   "baslik": "Arctic Acfre00188a Liquid Freezer Iıı Pro 360 Argb White Intel/a",
+   "url": "https://www.akakce.com/r/?pr=1084674267&vd=11070&pg=1797926360",
+   "sepet_fiyati": 5999.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 3,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30330,
+   "site": "idefix",
+   "satici": "MAGIC TEKNOLOJİ",
+   "baslik": "Arctic Liquid Freezer III Pro 360 ARGB ACFRE00184A Siyah İşlemci Sıvı Soğutucu",
+   "url": "https://www.akakce.com/r/?pr=1036595396&vd=13275&pg=1748320143",
+   "sepet_fiyati": 6037.4,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30331,
+   "site": "Pazarama",
+   "satici": "Magic Teknoloji",
+   "baslik": "Arctic Liquid Freezer III Pro 360 A-RGB Intel / AMD Uyumlu, 360mm Radyatörlü, 3x12cm P12 PRO A-RGB PWM Fanlı, Sıvı İşlemci Soğutucu Siyah (ACFRE00184A)",
+   "url": "https://www.akakce.com/r/?pr=1036595396&vd=10694&pg=1748416308",
+   "sepet_fiyati": 6099.01,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30332,
+   "site": "pazarama",
+   "satici": null,
+   "baslik": "Arctic Liquid Freezer III Pro 360 A-RGB Intel / AMD Uyumlu, 360mm Radyatörlü, 3x12cm P12 PRO A-RGB PWM Fanlı, Sıvı İşlemci Soğutucu Siyah (ACFRE00184A)",
+   "url": "https://www.pazarama.com/arctic-liquid-freezer-iii-pro-360-a-rgb-intel-amd-uyumlu-360mm-radyatorlu-3x12cm-p12-pro-a-rgb-pwm-fanli-sivi-islemci-sogutucu-siyah-acfre00184a-p-4895265000256",
+   "sepet_fiyati": 6099.01,
+   "liste_fiyati": 6488.3,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30334,
+   "site": "Hepsiburada",
+   "satici": "magicteknoloji",
+   "baslik": "Arctic Liquid Freezer Iıı Pro 360 A-Rgb White Intel / Amd Uyumlu, 360MM Radyatörlü, 3X12CM P12 Pro A-Rgb Pwm Fanlı, Sıvı Işlemci Soğutucu Beyaz (ACFRE00188A)",
+   "url": "https://www.akakce.com/r/?pr=1084674267&vd=12088&pg=1673595656",
+   "sepet_fiyati": 6199.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30335,
+   "site": "Hepsiburada",
+   "satici": "Teknobiyotik",
+   "baslik": "Arctic Liquid Freezer Iıı Pro 360 A-Rgb Intel / Amd Uyumlu, 360MM Radyatörlü, 3X12CM P12 Pro A-Rgb Pwm Fanlı, Sıvı Işlemci Soğutucu Siyah (ACFRE00184A)",
+   "url": "https://www.akakce.com/r/?pr=1036595396&vd=12088&pg=1670666432",
+   "sepet_fiyati": 6230.07,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30337,
+   "site": "TeknoBiyotik",
+   "satici": "akakce üzerinden",
+   "baslik": "Arctic Liquid Freezer III Pro 360 A-RGB White Intel / AMD Uyumlu, 360mm Radyatörlü, 3x12cm P12 PRO A-RGB PWM Fanlı, Sıvı İşlemci Soğutucu Beyaz (ACFRE00188A)",
+   "url": "https://www.akakce.com/r/?pr=1084674267&vd=786&pg=1630947625",
+   "sepet_fiyati": 6398.78,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30338,
+   "site": "Hepsiburada",
+   "satici": "FilamentLazim",
+   "baslik": "Arctic Liquid Freezer Iıı Pro 360 A-Rgb Intel / Amd Uyumlu, 360MM Radyatörlü, 3X12CM P12 Pro A-Rgb Pwm Fanlı, Sıvı Işlemci Soğutucu Siyah (ACFRE00184A)",
+   "url": "https://www.akakce.com/r/?pr=1036595396&vd=12088&pg=1776169206",
+   "sepet_fiyati": 6649.41,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30339,
+   "site": "Amazon Türkiye",
+   "satici": "Teknobiyotik",
+   "baslik": "ARCTIC Liquid Freezer III Pro 360 - AIO CPU Soğutucu, 3 x 120 mm Su Soğutma, 38 mm Radyatör, PWM Pompa, VRM Fan, AMD AM5/AM4, Intel LGA1851/1700 Kontak Çerçevesi - Siyah",
+   "url": "https://www.akakce.com/r/?pr=1094956510&vd=10001&pg=1284595211",
+   "sepet_fiyati": 6699.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30342,
+   "site": "Hepsiburada",
+   "satici": "Hepsiburada",
+   "baslik": "Arctic Liquid Freezer III Pro 360 AM4, AM5, LGA 1700, LGA 1851 Uyumlu, 360mm Radyatörlü, 3x12cm P12 PRO PWM Fanlı, Sıvı İşlemci Soğutucu Siyah (ACFRE00180A)",
+   "url": "https://www.akakce.com/r/?pr=1094956510&vd=12088&pg=1812672685",
+   "sepet_fiyati": 7108.8,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30343,
+   "site": "Hepsiburada",
+   "satici": "Çarşıda",
+   "baslik": "Liquid Freezer Iıı Pro 360 A-Rgb White Intel/amd Uyumlu, 360MM Radyatörlü, 3X12CM P12 Pro A-Rgb Pwm Fanlı, Sıvı Işlemci Soğutucu Beyaz (ACFRE00188A)",
+   "url": "https://www.akakce.com/r/?pr=1084674267&vd=12088&pg=1817056442",
+   "sepet_fiyati": 10178.74,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30344,
+   "site": "Hepsiburada",
+   "satici": "syncticaret",
+   "baslik": "Liquid Freezer Iıı Pro 360 A-Rgb White Intel/amd Uyumlu, 360MM Radyatörlü, 3X12CM P12 Pro A-Rgb Pwm Fanlı, Sıvı Işlemci Soğutucu Beyaz (ACFRE00188A)",
+   "url": "https://www.akakce.com/r/?pr=1084674267&vd=12088&pg=1829705025",
+   "sepet_fiyati": 10262.03,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25743,
+   "site": "trendyol",
+   "satici": null,
+   "baslik": "Liquid Freezer III Pro 360 A-RGB - AIO CPU Soğutucu, 3 x 120 mm Su Soğutma, 38 mm Radyatör, P",
+   "url": "https://www.trendyol.com/arctic/liquid-freezer-iii-pro-360-a-rgb-aio-cpu-sogutucu-3-x-120-mm-su-sogutma-38-mm-radyator-p-p-1187377687?boutiqueId=61&merchantId=1117264",
+   "sepet_fiyati": 10497.99,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30345,
+   "site": "Pttavm",
+   "satici": "odea e-ticaret",
+   "baslik": "Liquid Freezer Iıı Pro 360 A-Rgb - Aıo Cpu Soğutucu, 3 X 120 Mm Su Soğutma, 38 Mm Radyatör, Pwm Pompa, Vrm Fan, Amd Am5/Am4, Intel Lga1851/1700 Kontak Çerçevesi - Siyah",
+   "url": "https://www.akakce.com/r/?pr=1036595396&vd=11281&pg=1760420739",
+   "sepet_fiyati": 11128.22,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 2,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  }
+ ],
+ "gecmis": [
+  {
+   "gun": "2026-11-14",
+   "en_dusuk": 5629.0,
+   "ortalama": 6622.28
+  }
+ ]
+}

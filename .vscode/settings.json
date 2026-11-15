@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/cekirdek/.venv/bin/python",
+  "python.testing.pytestEnabled": true,
+  "python.testing.cwd": "${workspaceFolder}/cekirdek",
+  "python.testing.pytestArgs": ["tests", "-q"],
+  "rust-analyzer.linkedProjects": ["${workspaceFolder}/arayuz/Cargo.toml"],
+  "files.exclude": { "**/__pycache__": true, "**/.pytest_cache": true },
+  "files.encoding": "utf8"
+}

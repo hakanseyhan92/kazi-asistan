@@ -1,0 +1,14 @@
+# systemd kullanıcı birimi ŞABLONU — kurulum: kur.sh (A6). Elle: ~/.config/systemd/user/ altına kopyala,
+# `systemctl --user daemon-reload && systemctl --user enable --now kazi-cekirdek`
+[Unit]
+Description=kazi-cekirdek (kişisel kazıma asistanı çekirdeği, 127.0.0.1:8770)
+After=network-online.target
+
+[Service]
+ExecStart=%h/.local/bin/uv run --project %h/kazi-asistan/cekirdek kazi-cekirdek serve
+WorkingDirectory=%h/kazi-asistan/cekirdek
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=default.target

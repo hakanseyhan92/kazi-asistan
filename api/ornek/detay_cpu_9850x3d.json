@@ -1,0 +1,508 @@
+{
+ "urun": {
+  "id": "cpu_9850x3d",
+  "ad": "İşlemci Ryzen 7 9850X3D",
+  "kategori": "cpu",
+  "hedef_fiyat": 23000.0,
+  "kurallar": {
+   "dahil": [
+    "9850\\s*x3d"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "anakart",
+    "bundle",
+    "\\bset\\b",
+    "rtx",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl"
+   ]
+  }
+ },
+ "ozet": {
+  "ortalama": 28757.419473684207,
+  "medyan": 29019.0,
+  "adet": 23
+ },
+ "teklifler": [
+  {
+   "teklif_id": 30066,
+   "site": "n11",
+   "satici": "dfsbilgisayar",
+   "baslik": "Amd Ryzen 7 9850x3d 8 Core, 4,70-5.60ghz, 104mb Cache, 120w, Am5 Soket, Tray, Dahili Grafik Var, Fan Yok",
+   "url": "https://www.akakce.com/r/?pr=1332274979&vd=11070&pg=1669945554",
+   "sepet_fiyati": 25069.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30068,
+   "site": "Amazon Türkiye",
+   "satici": "DFS Bilgisayar",
+   "baslik": "AMD Ryzen 7 9850X3D TRAY 5.60GHz 120MB AM5 İşlemci (Grafik Kart VAR, Fan YOK)",
+   "url": "https://www.akakce.com/r/?pr=1356263628&vd=10001&pg=1433059142",
+   "sepet_fiyati": 25581.58,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30069,
+   "site": "idefix",
+   "satici": "DFSBilgisayar",
+   "baslik": "AMD Ryzen 7 9850X3D 4.7 GHz 96MB Önbellek 8 Çekirdek AM5 4nm Tray İşlemci",
+   "url": "https://www.akakce.com/r/?pr=1332274979&vd=13275&pg=1359225062",
+   "sepet_fiyati": 25904.02,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30070,
+   "site": "Hepsiburada",
+   "satici": "Dfs Bilgisayar",
+   "baslik": "Amd Ryzen 7 9850X3D 5.60GHz AM5 İşlemci 9.Nesil Yüksek Performanslı Tray",
+   "url": "https://www.akakce.com/r/?pr=1356263628&vd=12088&pg=1702389089",
+   "sepet_fiyati": 26170.46,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30071,
+   "site": "Pazarama",
+   "satici": "DFSBilgisayar",
+   "baslik": "AMD RYZEN 7 9850X3D 8 Core, 4,70-5.60GHz, 104Mb Cache, 120W,  AM5 Soket, TRAY, (Dahili Grafik VAR, Fan YOK)",
+   "url": "https://www.akakce.com/r/?pr=1356263628&vd=10694&pg=1425939212",
+   "sepet_fiyati": 26314.92,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30073,
+   "site": "Pttavm",
+   "satici": "Dfsbilgisayar",
+   "baslik": "Amd Ryzen 7 9850X3d 8 Core, 4,70-5.60Ghz, 104Mb Cache, 120W,  Am5 Soket, Tray, (Dahili Grafik Var, Fan Yok)",
+   "url": "https://www.akakce.com/r/?pr=1332274979&vd=11281&pg=1669915191",
+   "sepet_fiyati": 26995.59,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 2,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30074,
+   "site": "Trendyol",
+   "satici": "DFS Bilgisayar",
+   "baslik": "Amd RYZEN 7 9850X3D 8 Core, 4,70-5.60GHz, 104Mb Cache, 120W, AM5 Soket, TRAY, (Dahili Grafik VAR, F",
+   "url": "https://www.akakce.com/r/?pr=1356263628&vd=11707&pg=1463215714",
+   "sepet_fiyati": 27235.33,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25474,
+   "site": "trendyol",
+   "satici": null,
+   "baslik": "RYZEN 7 9850X3D 8 Core, 4,70-5.60GHz, 104Mb Cache, 120W, AM5 Soket, TRAY, (Dahili Grafik VAR, F",
+   "url": "https://www.trendyol.com/amd/ryzen-7-9850x3d-8-core-4-70-5-60ghz-104mb-cache-120w-am5-soket-tray-dahili-grafik-var-f-p-1115241314?boutiqueId=61&merchantId=108281",
+   "sepet_fiyati": 27235.33,
+   "liste_fiyati": 27285.33,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30075,
+   "site": "Muyubi.com",
+   "satici": "akakce üzerinden",
+   "baslik": "Amd Ryzen 7 9850X3D AM5Pin 120W Fansız (Tray)",
+   "url": "https://www.akakce.com/r/?pr=1356263628&vd=5088&pg=1465612885",
+   "sepet_fiyati": 28238.49,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30076,
+   "site": "Hepsiburada",
+   "satici": "QUEENCK",
+   "baslik": "Amd Ryzen 7 9850X3D 5.60GHz AM5 İşlemci 9.Nesil Yüksek Performanslı Tray",
+   "url": "https://www.akakce.com/r/?pr=1356263628&vd=12088&pg=1764760112",
+   "sepet_fiyati": 28519.08,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30077,
+   "site": "Sinerji Bilgisayar",
+   "satici": "akakce üzerinden",
+   "baslik": "AMD Ryzen 7 9850X3D 5.60 Ghz 8 Çekirdek 104MB AM5 4nm İşlemci (Tray)",
+   "url": "https://www.akakce.com/r/?pr=1332274979&vd=795&pg=1770445485",
+   "sepet_fiyati": 29016.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30078,
+   "site": "Lowell.com.tr",
+   "satici": "akakce üzerinden",
+   "baslik": "AMD Ryzen 7 9850X3D 8C 4.7GHz 96MB AM5 Kutusuz Fansız İşlemci",
+   "url": "https://www.akakce.com/r/?pr=1356263628&vd=5234&pg=1646519528",
+   "sepet_fiyati": 29019.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30080,
+   "site": "Pttavm",
+   "satici": "Lowell Teknoloji",
+   "baslik": "Amd Ryzen 7 9850X3d 8C 4.7Ghz 96Mb Am5 Kutulu Fansız İşlemci",
+   "url": "https://www.akakce.com/r/?pr=1332274979&vd=11281&pg=1825359516",
+   "sepet_fiyati": 29591.43,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 2,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30079,
+   "site": "akakce",
+   "satici": null,
+   "baslik": "AMD Ryzen 7 9850X3D Sekiz Çekirdek 4.7 GHz Kutulu İşlemci",
+   "url": "https://www.akakce.com/islemci/en-ucuz-amd-ryzen-7-9850x3d-sekiz-cekirdek-4-7-ghz-kutulu-fiyati,1356263491.html",
+   "sepet_fiyati": 29591.43,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30081,
+   "site": "indeokurumsal",
+   "satici": "akakce üzerinden",
+   "baslik": "Amd Ryzen 7 9850X3D AM5Pin 120W Fansız (Tray)",
+   "url": "https://www.akakce.com/r/?pr=1356263628&vd=3886&pg=1436321434",
+   "sepet_fiyati": 29602.61,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30082,
+   "site": "n11",
+   "satici": "lowellteknoloji",
+   "baslik": "Amd Ryzen 7 9850x3d Tray 5.60ghz 120mb Am5 İşlemci Grafik Kart Var, Fan Yok",
+   "url": "https://www.akakce.com/r/?pr=1356263628&vd=11070&pg=1770425228",
+   "sepet_fiyati": 29733.48,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30084,
+   "site": "Pckolik.com.tr",
+   "satici": "akakce üzerinden",
+   "baslik": "AMD Ryzen 7 9850X3D 4.70 GHz 8 Çekirdek 96MB AM5 4nm Tray İşlemci",
+   "url": "https://www.akakce.com/r/?pr=1332274979&vd=4284&pg=1766904618",
+   "sepet_fiyati": 30157.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30085,
+   "site": "MediaMarkt Pazaryeri",
+   "satici": "akakce üzerinden",
+   "baslik": "AMD 4.7GHz 96MB AM5 120 W Tray Ryzen 7 9850X3D İşlemci",
+   "url": "https://www.akakce.com/r/?pr=1356263628&vd=5460&pg=1746549546",
+   "sepet_fiyati": 30282.8,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 5,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30086,
+   "site": "idefix",
+   "satici": "Pckolik",
+   "baslik": "AMD Ryzen 7 9850X3D 4.7 GHz 96MB Önbellek 8 Çekirdek AM5 4nm Tray İşlemci",
+   "url": "https://www.akakce.com/r/?pr=1356263628&vd=13275&pg=1631873496",
+   "sepet_fiyati": 30576.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30087,
+   "site": "vatan",
+   "satici": null,
+   "baslik": "AMD Ryzen™ 7 9850X3D Soket AM5 5.6GHz 96MB 120W 4nm Tray Kutusuz İşlemci",
+   "url": "https://www.vatanbilgisayar.com/amd-ryzen-7-9850x3d-soket-am5-5-6ghz-96mb-120w-4nm-tray-kutusuz-islemci.html",
+   "sepet_fiyati": 30809.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30089,
+   "site": "gaminggentr",
+   "satici": null,
+   "baslik": "AMD Ryzen 7 9850X3D Tray 5.6GHz 8 Çekirdek 96MB Önbellek AM5 4nm İşlemci",
+   "url": "https://www.gaming.gen.tr/urun/868752/amd-ryzen-7-9850x3d-tray-5-6ghz-8-cekirdek-96mb-onbellek-am5-4nm-islemci/",
+   "sepet_fiyati": 31399.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30096,
+   "site": "n11",
+   "satici": null,
+   "baslik": "Amd Ryzen 7 9850x3d 96mb 8çekirdekli Vga Yok Am5 120w Kutusuz+fansız",
+   "url": "https://www.n11.com/urun/amd-ryzen-7-9850x3d-96mb-8cekirdekli-vga-yok-am5-120w-kutusuzfansiz-145025801",
+   "sepet_fiyati": 38272.15,
+   "liste_fiyati": 41600.16,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30097,
+   "site": "pazarama",
+   "satici": null,
+   "baslik": "AMD RYZEN 7 9850X3D 4.7GHZ 96MB 120W AM5 FANSIZ",
+   "url": "https://www.pazarama.com/amd-ryzen-7-9850x3d-islemci-4-7ghz-96mb-120w-am5-frtpc730143318280-p-FRTPC730143318280",
+   "sepet_fiyati": 40858.47,
+   "liste_fiyati": 43858.47,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  }
+ ],
+ "gecmis": [
+  {
+   "gun": "2026-11-14",
+   "en_dusuk": 25069.0,
+   "ortalama": 29887.46
+  }
+ ]
+}

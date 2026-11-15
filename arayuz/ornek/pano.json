@@ -1,0 +1,166 @@
+{
+  "guncelleme": "2026-11-14T15:20:00+03:00",
+  "urunler": [
+    {
+      "id": "gpu_rtx5080",
+      "ad": "Ekran kartı RTX 5080",
+      "kategori": "gpu",
+      "sistemde": true,
+      "hedef_fiyat": 110000.0,
+      "ozet": {
+        "ortalama": 124350.0,
+        "medyan": 122849.0,
+        "adet": 41
+      },
+      "en_iyi": {
+        "teklif_id": 812,
+        "site": "trendyol",
+        "satici": "GarajOnline",
+        "baslik": "Inno3D RTX 5080 X3 OC 16GB GDDR7 256Bit",
+        "sepet_fiyati": 111549.03,
+        "liste_fiyati": 114999.0,
+        "url": "https://www.trendyol.com/inno3d/rtx-5080-x3-p-812",
+        "gozlem_zamani": "2026-11-14T15:07:00+03:00",
+        "teyit_durumu": "teyitli",
+        "yildiz": {
+          "seviye": 1,
+          "etiket": "★ Kelepir",
+          "gerekce": "ort. 124.350 TL, −%10,3 · hedef 110.000 TL, üstünde 1.549 TL"
+        },
+        "akilli": {
+          "maliyet": 96504.0,
+          "sira": 1,
+          "taksit_avantaji": 15045.0,
+          "aciklama": "sepet 111.549 TL · 9× peşin fiyatına taksit −15.045 TL (aylık %3,0 iskonto) ⇒ 96.504 TL"
+        }
+      },
+      "en_akilli": {
+        "teklif_id": 812,
+        "site": "trendyol",
+        "satici": "GarajOnline",
+        "baslik": "Inno3D RTX 5080 X3 OC 16GB GDDR7 256Bit",
+        "sepet_fiyati": 111549.03,
+        "liste_fiyati": 114999.0,
+        "url": "https://www.trendyol.com/inno3d/rtx-5080-x3-p-812",
+        "gozlem_zamani": "2026-11-14T15:07:00+03:00",
+        "teyit_durumu": "teyitli",
+        "yildiz": {
+          "seviye": 1,
+          "etiket": "★ Kelepir",
+          "gerekce": "ort. 124.350 TL, −%10,3 · hedef 110.000 TL, üstünde 1.549 TL"
+        },
+        "akilli": {
+          "maliyet": 96504.0,
+          "sira": 1,
+          "taksit_avantaji": 15045.0,
+          "aciklama": "sepet 111.549 TL · 9× peşin fiyatına taksit −15.045 TL (aylık %3,0 iskonto) ⇒ 96.504 TL"
+        }
+      },
+      "yildiz_sayilari": {
+        "3": 0,
+        "1": 2
+      },
+      "son_tarama": "2026-11-14T15:09:00+03:00"
+    },
+    {
+      "id": "cpu_9800x3d",
+      "ad": "AMD Ryzen 7 9800X3D İşlemci",
+      "kategori": "cpu",
+      "sistemde": true,
+      "hedef_fiyat": 21500.0,
+      "ozet": {
+        "ortalama": 23400.0,
+        "medyan": 23199.0,
+        "adet": 19
+      },
+      "en_iyi": {
+        "teklif_id": 514,
+        "site": "hepsiburada",
+        "satici": "Hepsiburada",
+        "baslik": "AMD Ryzen 7 9800X3D 4.7GHz 96MB AM5",
+        "sepet_fiyati": 20999.0,
+        "liste_fiyati": 21999.0,
+        "url": "https://www.hepsiburada.com/amd-ryzen-7-9800x3d-p-514",
+        "gozlem_zamani": "2026-11-14T15:05:00+03:00",
+        "teyit_durumu": "teyitli",
+        "yildiz": {
+          "seviye": 3,
+          "etiket": "★★★ Hedef",
+          "gerekce": "hedef 21.500 TL yakalandı (−501 TL) · ort. 23.400 TL, −%10,3"
+        }
+      },
+      "yildiz_sayilari": {
+        "3": 1,
+        "1": 3
+      },
+      "son_tarama": "2026-11-14T15:08:00+03:00"
+    },
+    {
+      "id": "ram_64gb_cl30",
+      "ad": "2x32GB DDR5-6000 CL30 RAM (QVL)",
+      "kategori": "ram",
+      "sistemde": true,
+      "hedef_fiyat": 9500.0,
+      "ozet": {
+        "ortalama": 10850.0,
+        "medyan": 10799.0,
+        "adet": 14
+      },
+      "en_iyi": {
+        "teklif_id": 603,
+        "site": "itopya",
+        "satici": "İtopya",
+        "baslik": "G.Skill Trident Z5 Neo RGB 64GB (2x32) 6000MHz CL30 EXPO",
+        "sepet_fiyati": 10299.0,
+        "liste_fiyati": 10699.0,
+        "url": "https://www.itopya.com/gskill-64gb-ddr5-6000-cl30",
+        "gozlem_zamani": "2026-11-14T15:04:00+03:00",
+        "teyit_durumu": "teyitli",
+        "yildiz": {
+          "seviye": 1,
+          "etiket": "★ Kelepir",
+          "gerekce": "ort. 10.850 TL, −%5,1 · hedef 9.500 TL, üstünde 799 TL"
+        },
+        "akilli": {
+          "maliyet": 10299.0,
+          "sira": 2,
+          "taksit_avantaji": 0.0,
+          "aciklama": "sepet 10.299 TL ⇒ 10.299 TL"
+        }
+      },
+      "en_akilli": {
+        "teklif_id": 605,
+        "site": "hepsiburada",
+        "satici": "Hepsiburada",
+        "baslik": "G.Skill Trident Z5 Neo RGB 64GB (2x32) 6000MHz CL30 EXPO",
+        "sepet_fiyati": 10499.0,
+        "liste_fiyati": 10999.0,
+        "url": "https://www.hepsiburada.com/gskill-64gb-ddr5-6000-cl30",
+        "gozlem_zamani": "2026-11-14T15:04:00+03:00",
+        "teyit_durumu": "teyitli",
+        "yildiz": {
+          "seviye": 1,
+          "etiket": "★ Kelepir",
+          "gerekce": "ort. 10.850 TL, −%3,2 · hedef 9.500 TL, üstünde 999 TL"
+        },
+        "akilli": {
+          "maliyet": 9480.0,
+          "sira": 1,
+          "taksit_avantaji": 1019.0,
+          "aciklama": "sepet 10.499 TL · 6× peşin fiyatına taksit −1.019 TL (aylık %3,0 iskonto) ⇒ 9.480 TL"
+        }
+      },
+      "yildiz_sayilari": {
+        "3": 0,
+        "1": 1
+      },
+      "son_tarama": "2026-11-14T15:06:00+03:00"
+    }
+  ],
+  "sistem_toplami": {
+    "tutar": 261800.0,
+    "eksik": [
+      "PSU 1000W ATX 3.1"
+    ]
+  }
+}

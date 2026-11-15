@@ -1,0 +1,668 @@
+{
+ "urun": {
+  "id": "cpu_9950x3d",
+  "ad": "İşlemci Ryzen 9 9950X3D",
+  "kategori": "cpu",
+  "hedef_fiyat": 33000.0,
+  "kurallar": {
+   "dahil": [
+    "9950\\s*x3d"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "anakart",
+    "bundle",
+    "\\bset\\b",
+    "rtx",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl"
+   ]
+  }
+ },
+ "ozet": {
+  "ortalama": 41324.29,
+  "medyan": 39678.0,
+  "adet": 31
+ },
+ "teklifler": [
+  {
+   "teklif_id": 30100,
+   "site": "Bizdehesapli",
+   "satici": "akakce üzerinden",
+   "baslik": "AMD RYZEN 9 9950X3D 16 Core, 4,30-5.70GHz, 128Mb Cache, 170W, AM5 Soket, TRAY, (Dahili Grafik VAR, Fan YOK) TÜRKİYE Distibütör GARANTİLİ",
+   "url": "https://www.akakce.com/r/?pr=904043816&vd=581&pg=1769664483",
+   "sepet_fiyati": 36393.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30103,
+   "site": "Amazon Türkiye",
+   "satici": "DFS Bilgisayar",
+   "baslik": "Ryzen 9 9950X3D 5.0ghz 128MB 170W Am5 Fansız Tray",
+   "url": "https://www.akakce.com/r/?pr=976034504&vd=10001&pg=1765935228",
+   "sepet_fiyati": 36683.75,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30107,
+   "site": "Ucuzbudur.com",
+   "satici": "akakce üzerinden",
+   "baslik": "AMD Ryzen 9 9950X3D AM5 İşlemci - Tray",
+   "url": "https://www.akakce.com/r/?pr=976034504&vd=1538&pg=1680945055",
+   "sepet_fiyati": 37950.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30108,
+   "site": "idefix",
+   "satici": "MAGIC TEKNOLOJİ",
+   "baslik": "AMD Ryzen 9 9950X3D TRAY 4.30GHz 64MB AM5 İşlemci (Grafik Kart VAR, Fan YOK)",
+   "url": "https://www.akakce.com/r/?pr=904043816&vd=13275&pg=1814406512",
+   "sepet_fiyati": 37999.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30109,
+   "site": "Pazarama",
+   "satici": "Magic Teknoloji",
+   "baslik": "AMD Ryzen 9 9950X3D TRAY 4.30GHz 64MB AM5 İşlemci (Grafik Kart VAR, Fan YOK)",
+   "url": "https://www.akakce.com/r/?pr=904043816&vd=10694&pg=1780763388",
+   "sepet_fiyati": 37999.01,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30111,
+   "site": "akakce",
+   "satici": null,
+   "baslik": "AMD Ryzen 9 9950X3D On Altı Çekirdek 4.3 GHz Kutulu Fansız İşlemci",
+   "url": "https://www.akakce.com/islemci/en-ucuz-amd-ryzen-9-9950x3d-on-alti-cekirdek-4-3-ghz-kutulu-fansiz-fiyati,976011948.html",
+   "sepet_fiyati": 38390.2,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30112,
+   "site": "idefix",
+   "satici": "DFSBilgisayar",
+   "baslik": "Amd Ryzen 9 9950X3D AM5Pin 170W Fansız (Box)",
+   "url": "https://www.akakce.com/r/?pr=904043816&vd=13275&pg=1810611845",
+   "sepet_fiyati": 38390.2,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30113,
+   "site": "n11",
+   "satici": "magic",
+   "baslik": "AMD Ryzen 9 9950X3D 5.70 Ghz 16 Çekirdek 128 MB AM5 4nm İşlemci(Tray)",
+   "url": "https://www.akakce.com/r/?pr=976034504&vd=11070&pg=1780737494",
+   "sepet_fiyati": 38416.57,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30115,
+   "site": "idefix",
+   "satici": "netsipariş",
+   "baslik": "AMD Ryzen 9 9950X3D TRAY 4.30GHz 64MB AM5 İşlemci (Grafik Kart VAR, Fan YOK)",
+   "url": "https://www.akakce.com/r/?pr=976034504&vd=13275&pg=1318580602",
+   "sepet_fiyati": 38795.36,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30116,
+   "site": "Hepsiburada",
+   "satici": "Dfs Bilgisayar",
+   "baslik": "Amd Ryzen 9 9950X3D (4.3ghz - 5.7ghz) 144MB Am5 Kutulu Işlemci 100-100000719WOF",
+   "url": "https://www.akakce.com/r/?pr=976011948&vd=12088&pg=1810617916",
+   "sepet_fiyati": 38849.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30117,
+   "site": "Hepsiburada",
+   "satici": "OVY",
+   "baslik": "Amd Ryzen 9 9950X3D (4.3ghz - 5.7ghz) 144MB Am5 Kutulu Işlemci 100-100000719WOF",
+   "url": "https://www.akakce.com/r/?pr=904043816&vd=12088&pg=1716759026",
+   "sepet_fiyati": 38899.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30118,
+   "site": "Sinerji Bilgisayar",
+   "satici": "akakce üzerinden",
+   "baslik": "AMD Ryzen 9 9950X3D 5.70 Ghz 16 Çekirdek 128 MB AM5 4nm İşlemci(Tray)",
+   "url": "https://www.akakce.com/r/?pr=904043816&vd=795&pg=1687662525",
+   "sepet_fiyati": 38998.75,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30119,
+   "site": "n11",
+   "satici": "ovy",
+   "baslik": "AMD Ryzen 9 9950X3D Granite Ridge AM5 5.70 GHz 16 Çekirdekli İşlemci",
+   "url": "https://www.akakce.com/r/?pr=904043816&vd=11070&pg=1778073119",
+   "sepet_fiyati": 38999.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30121,
+   "site": "Pazarama",
+   "satici": "DFSBilgisayar",
+   "baslik": "Amd Ryzen 9 9950X3D AM5Pin 170W Fansız (Box)",
+   "url": "https://www.akakce.com/r/?pr=976011948&vd=10694&pg=1810590256",
+   "sepet_fiyati": 39009.09,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30123,
+   "site": "n11",
+   "satici": "dfsbilgisayar",
+   "baslik": "AMD Ryzen 9 9950X3D Granite Ridge AM5 5.70 GHz 16 Çekirdekli İşlemci",
+   "url": "https://www.akakce.com/r/?pr=976011948&vd=11070&pg=1810574078",
+   "sepet_fiyati": 39083.68,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30125,
+   "site": "Teknomerkezim.com",
+   "satici": "akakce üzerinden",
+   "baslik": "AMD RYZEN 9 9950X3D 16 Core, 4,30-5.70GHz, 128Mb Cache, 170W,  AM5 Soket, TRAY, (Dahili Grafik VAR, Fan YOK) TÜRKİYE Distibütör GARANTİLİ",
+   "url": "https://www.akakce.com/r/?pr=976034504&vd=3768&pg=1727464040",
+   "sepet_fiyati": 39678.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30126,
+   "site": "Lowell.com.tr",
+   "satici": "akakce üzerinden",
+   "baslik": "AMD Ryzen 9 9950X3D 16C 4.3GHz 128MB AM5 Kutusuz Fansız İşlemci",
+   "url": "https://www.akakce.com/r/?pr=976034504&vd=5234&pg=1688848697",
+   "sepet_fiyati": 39829.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30127,
+   "site": "Gaming.Gen.TR",
+   "satici": "akakce üzerinden",
+   "baslik": "AMD Ryzen 9 9950X3D Tray 5.7GHz 16 Çekirdek 128MB Önbellek AM5 4nm İşlemci",
+   "url": "https://www.akakce.com/r/?pr=976034504&vd=3651&pg=1815655552",
+   "sepet_fiyati": 39999.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30129,
+   "site": "Pttavm",
+   "satici": "Dfsbilgisayar",
+   "baslik": "Amd Ryzen 9 9950X3d Am5pin 170W Fansız (Box)",
+   "url": "https://www.akakce.com/r/?pr=976011948&vd=11281&pg=1810583000",
+   "sepet_fiyati": 40033.41,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 2,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30130,
+   "site": "n11",
+   "satici": "gokkusagibilgisayar",
+   "baslik": "AMD Ryzen 9 9950X3D 5.70 Ghz 16 Çekirdek 128 MB AM5 4nm İşlemci(Tray)",
+   "url": "https://www.akakce.com/r/?pr=976034504&vd=11070&pg=1420397995",
+   "sepet_fiyati": 40217.28,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30131,
+   "site": "Trendyol",
+   "satici": "DFS Bilgisayar",
+   "baslik": "Amd Ryzen 9 9950X3D 16C 4.3GHz 128MB AM5 Kutulu Fansız İşlemci",
+   "url": "https://www.akakce.com/r/?pr=976011948&vd=11707&pg=1810569425",
+   "sepet_fiyati": 40387.33,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30132,
+   "site": "Hepsiburada",
+   "satici": "PEG HOME",
+   "baslik": "Amd Ryzen 9 9950X3D (4.3ghz - 5.7ghz) 144MB Am5 Kutulu Işlemci 100-100000719WOF",
+   "url": "https://www.akakce.com/r/?pr=976011948&vd=12088&pg=1798294501",
+   "sepet_fiyati": 41549.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30135,
+   "site": "n11",
+   "satici": "peghome",
+   "baslik": "AMD Ryzen 9 9950X3D Granite Ridge AM5 5.70 GHz 16 Çekirdekli İşlemci",
+   "url": "https://www.akakce.com/r/?pr=976011948&vd=11070&pg=1797926813",
+   "sepet_fiyati": 42964.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30136,
+   "site": "Hepsiburada",
+   "satici": "Hepsiburada",
+   "baslik": "Amd Ryzen 9 9950X3D (4.3ghz - 5.7ghz) 144MB Am5 Kutulu Işlemci 100-100000719WOF",
+   "url": "https://www.akakce.com/r/?pr=976011948&vd=12088&pg=1576422964",
+   "sepet_fiyati": 43749.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30141,
+   "site": "Trendyol",
+   "satici": "OVY",
+   "baslik": "Amd Ryzen 9 9950X3D 16C 4.3GHz 128MB AM5 Kutulu Fansız İşlemci",
+   "url": "https://www.akakce.com/r/?pr=976011948&vd=11707&pg=1778669008",
+   "sepet_fiyati": 45999.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30142,
+   "site": "vatan",
+   "satici": null,
+   "baslik": "AMD Ryzen™ 9 9950X3D Soket AM5 4.3GHz 128MB 170W 4nm İşlemci",
+   "url": "https://www.vatanbilgisayar.com/amd-ryzen-9-9950x3d-soket-am5-4-3ghz-128mb-170w-4nm-islemci.html",
+   "sepet_fiyati": 46579.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30148,
+   "site": "pazarama",
+   "satici": null,
+   "baslik": "AMD Ryzen 9 9950X3D (16 Çekirdek) Up to 5.7 GHz 128mb AM5 İşlemci Tray (Fansız)",
+   "url": "https://www.pazarama.com/amd-ryzen-9-9950x3d-islemci-16-cekirdek-5-7ghz-128mb-am5-tx1e94b75c159901-p-TX1E94B75C159901",
+   "sepet_fiyati": 53536.26,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25553,
+   "site": "trendyol",
+   "satici": null,
+   "baslik": "RYZEN 9 9950X3D 144MB 16çekirdekli O/B UHD AM5 170w Kutusuz+Fansız",
+   "url": "https://www.trendyol.com/amd/ryzen-9-9950x3d-144mb-16cekirdekli-o-b-uhd-am5-170w-kutusuz-fansiz-p-939009416?boutiqueId=61&merchantId=162201",
+   "sepet_fiyati": 54758.11,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30149,
+   "site": "gamegaraj",
+   "satici": null,
+   "baslik": "AMD Ryzen 9 9950X3D2 4.3GHz - 5.6GHz 208MB AM5 200W Tray İşlemci",
+   "url": "https://www.gamegaraj.com/bilgisayar-parcalari/amd-ryzen-9-9950x3d2-43ghz-56ghz-208mb-am5-200w-tray-islemci/",
+   "sepet_fiyati": 57216.5,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30152,
+   "site": "gaminggentr",
+   "satici": null,
+   "baslik": "AMD Ryzen 9 9950X3D2 Dual Edition Tray 5.6GHz 16 Çekirdek 192MB Önbellek AM5 4nm İşlemci",
+   "url": "https://www.gaming.gen.tr/urun/910664/amd-ryzen-9-9950x3d2-dual-edition-tray-56-6ghz-16-cekirdek-192mb-onbellek-am5-4nm-islemci/",
+   "sepet_fiyati": 59599.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30153,
+   "site": "n11",
+   "satici": null,
+   "baslik": "Amd Ryzen 9 9950x3d2 192mb 16çekirdekli O/b Uhd Am5 200w Kutusuz+fansız",
+   "url": "https://www.n11.com/urun/amd-ryzen-9-9950x3d2-192mb-16cekirdekli-ob-uhd-am5-200w-kutusuzfansiz-132111917",
+   "sepet_fiyati": 59999.04,
+   "liste_fiyati": 65216.35,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  }
+ ],
+ "gecmis": [
+  {
+   "gun": "2026-11-14",
+   "en_dusuk": 36393.0,
+   "ortalama": 42601.59
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "kurallar": [
+  {
+   "uyruk": "TR",
+   "ulke": "JP",
+   "durum": "serbest",
+   "not": "TR vatandaşı Japonya vizesiz (kısa süreli)"
+  },
+  {
+   "uyruk": "TR",
+   "ulke": "KR",
+   "durum": "serbest",
+   "not": "TR vatandaşı Kore vizesiz (K-ETA durumunu teyit et)"
+  },
+  {
+   "uyruk": "TR",
+   "ulke": "QA",
+   "durum": "serbest",
+   "not": "TR vatandaşı Katar vizesiz"
+  },
+  {
+   "uyruk": "TR",
+   "ulke": "KZ",
+   "durum": "serbest",
+   "not": "TR vatandaşı Kazakistan vizesiz"
+  },
+  {
+   "uyruk": "XX",
+   "ulke": "AE",
+   "durum": "yasak",
+   "not": "kullanıcı kuralı (BAE transit yasak)"
+  },
+  {
+   "uyruk": "XX",
+   "ulke": "CN",
+   "durum": "yasak",
+   "not": "kullanıcı kuralı (Çin aktarması yasak)"
+  },
+  {
+   "uyruk": "XX",
+   "ulke": "HK",
+   "durum": "yasak",
+   "not": "Çin kapsamında sayıldı (eski süzgeç Cathay'i eliyordu)"
+  },
+  {
+   "uyruk": "XX",
+   "ulke": "KR",
+   "durum": "yasak",
+   "not": "Kore vizesi/K-ETA yok"
+  },
+  {
+   "uyruk": "XX",
+   "ulke": "QA",
+   "durum": "airside",
+   "not": "Katar transit: havalimanından çıkmadan XX vatandaşına vize gerekmiyor (ikincil kaynak) — Qatar Airways'ten teyit"
+  },
+  {
+   "uyruk": "XX",
+   "ulke": "KZ",
+   "durum": "serbest",
+   "not": "Almatı/Astana: XX vatandaşı 14 gün vizesiz (teyit önerilir)"
+  },
+  {
+   "uyruk": "XX",
+   "ulke": "TM",
+   "durum": "bilinmiyor",
+   "not": "Aşgabat transit: yolcu için vize gerekip gerekmediği belirsiz — Turkmenistan Airlines'a sor"
+  },
+  {
+   "uyruk": "XX",
+   "ulke": "JP",
+   "durum": "vize_gerekli",
+   "not": "Japonya: vize gerekir"
+  }
+ ]
+}

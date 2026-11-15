@@ -1,0 +1,568 @@
+{
+ "urun": {
+  "id": "ssd_gen5_1tb",
+  "ad": "SSD 1TB PCIe 5.0 NVMe (Samsung 9100 Pro / Crucial T705)",
+  "kategori": "ssd",
+  "hedef_fiyat": 12500.0,
+  "kurallar": {
+   "dahil": [
+    "1\\s*tb",
+    "(9100\\s*pro|t705|gen\\s*5|pcie\\s*5)"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "harici",
+    "external",
+    "\\b[24]\\s*tb",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl"
+   ]
+  }
+ },
+ "ozet": {
+  "ortalama": 15972.117272727273,
+  "medyan": 15403.725,
+  "adet": 26
+ },
+ "teklifler": [
+  {
+   "teklif_id": 30230,
+   "site": "incehesap.com",
+   "satici": "akakce üzerinden",
+   "baslik": "Samsung 9100 PRO MZ-VAP1T0BW 1TB 14700/13300MB/sn PCIe NVMe M.2 SSD Disk",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=317&pg=1345741412",
+   "sepet_fiyati": 13949.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 3,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30231,
+   "site": "n11",
+   "satici": "karusbilgisayar",
+   "baslik": "Samsung 1TB 9100 PRO MZ-VAP1T0BW Okuma 14700MB Yazma 13300MB PCIe 5.0 NVMe M.2 SSD",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=11070&pg=1830763099",
+   "sepet_fiyati": 14250.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30233,
+   "site": "idefix",
+   "satici": "incehesap",
+   "baslik": "Samsung 9100 Pro 1Tb Nvme Ssd 14700/13300 Mz-Vap1T0Bw",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=13275&pg=1428943472",
+   "sepet_fiyati": 14383.71,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30235,
+   "site": "idefix",
+   "satici": "Perfektmarket",
+   "baslik": "Crucial CT1000T705SSD5 T705 1 TB 13600-10200 PCIe NVMe Gen5 M.2 22x80 SSD Harddisk",
+   "url": "https://www.akakce.com/r/?pr=645217525&vd=13275&pg=1777266325",
+   "sepet_fiyati": 14549.03,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30236,
+   "site": "Trendyol",
+   "satici": "Trendyol",
+   "baslik": "Samsung 1TB 9100 PRO M.2 PCle 5.0 14700/13300MB/s MZ-VAP1T0BW",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=11707&pg=1780826759",
+   "sepet_fiyati": 14558.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30237,
+   "site": "n11",
+   "satici": "ankabey06",
+   "baslik": "Samsung 1TB 9100 PRO MZ-VAP1T0BW Okuma 14700MB Yazma 13300MB PCIe 5.0 NVMe M.2 SSD",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=11070&pg=1832333439",
+   "sepet_fiyati": 14600.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30238,
+   "site": "Trendyol",
+   "satici": "incehesap",
+   "baslik": "Samsung 1TB 9100 PRO M.2 PCle 5.0 14700/13300MB/s MZ-VAP1T0BW",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=11707&pg=1826881180",
+   "sepet_fiyati": 14608.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30239,
+   "site": "n11",
+   "satici": "incehesap",
+   "baslik": "Samsung 1TB 9100 PRO MZ-VAP1T0BW Okuma 14700MB Yazma 13300MB PCIe 5.0 NVMe M.2 SSD",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=11070&pg=1669968365",
+   "sepet_fiyati": 14746.68,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30240,
+   "site": "n11",
+   "satici": "cosmonyteknoloji",
+   "baslik": "Samsung 1TB 9100 PRO MZ-VAP1T0BW Okuma 14700MB Yazma 13300MB PCIe 5.0 NVMe M.2 SSD",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=11070&pg=1728312544",
+   "sepet_fiyati": 14899.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30241,
+   "site": "n11",
+   "satici": "perfektmarket",
+   "baslik": "Crucial T705 CT1000T705SSD5 1 TB 13600/10200 MB/S PCIe Gen5 NVMe M.2 SSD",
+   "url": "https://www.akakce.com/r/?pr=645217525&vd=11070&pg=1776956359",
+   "sepet_fiyati": 14988.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25603,
+   "site": "n11",
+   "satici": "bilsoyteknoloji",
+   "baslik": "Samsung 1TB 9100 PRO MZ-VAP1T0BW Okuma 14700MB Yazma 13300MB PCIe 5.0 NVMe M.2 SSD",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=11070&pg=1814705499",
+   "sepet_fiyati": 15180.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30243,
+   "site": "idefix",
+   "satici": "DFSBilgisayar",
+   "baslik": "Samsung 9100 Pro 1Tb Nvme Ssd 14700/13300 Mz-Vap1T0Bw",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=13275&pg=1474042430",
+   "sepet_fiyati": 15301.4,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30244,
+   "site": "Hepsiburada",
+   "satici": "İncehesap",
+   "baslik": "Samsung 9100 Pro MZ-VAP1T0BW 1TB 14700/13300MB/SN Pcıe Nvme M.2 SSD",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=12088&pg=1831458898",
+   "sepet_fiyati": 15363.08,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30245,
+   "site": "Hepsiburada",
+   "satici": "Dfs Bilgisayar",
+   "baslik": "Samsung 9100 Pro MZ-VAP1T0BW 1TB 14700/13300MB/SN Pcıe Nvme M.2 SSD",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=12088&pg=1702371149",
+   "sepet_fiyati": 15444.37,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30246,
+   "site": "Hepsiburada",
+   "satici": "RMEEY",
+   "baslik": "Crucial T705 1TB PCIe Gen5 NVMe M.2 SSD CT1000T705SSD5 (13600-10200 MBs) Heatsink Soğutuculu",
+   "url": "https://www.akakce.com/r/?pr=645217525&vd=12088&pg=1774161379",
+   "sepet_fiyati": 15469.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30247,
+   "site": "Pazarama",
+   "satici": "DFSBilgisayar",
+   "baslik": "1TB SAMSUNG 9100 PRO M.2 MZ-VAP1T0BW",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=10694&pg=1474028620",
+   "sepet_fiyati": 15535.69,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30249,
+   "site": "Hepsiburada",
+   "satici": "CosmonyTeknoloji",
+   "baslik": "Samsung 9100 Pro MZ-VAP1T0BW 1TB 14700/13300MB/SN Pcıe Nvme M.2 SSD",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=12088&pg=1727218616",
+   "sepet_fiyati": 15639.08,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30250,
+   "site": "Hepsiburada",
+   "satici": "Hepsiburada",
+   "baslik": "Samsung 9100 Pro MZ-VAP1T0BW 1TB 14700/13300MB/SN Pcıe Nvme M.2 SSD",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=12088&pg=1575523503",
+   "sepet_fiyati": 15714.01,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30252,
+   "site": "Hepsiburada",
+   "satici": "VATAN BİLGİSAYAR",
+   "baslik": "Crucial T705 1TB PCIe Gen5 NVMe M.2 SSD (13600-10200 MBs) CT1000T705SSD3",
+   "url": "https://www.akakce.com/r/?pr=657442512&vd=12088&pg=1656213990",
+   "sepet_fiyati": 15729.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30255,
+   "site": "Güvenli Ticaret",
+   "satici": "akakce üzerinden",
+   "baslik": "1TB SAMSUNG 9100 PRO M.2 PCle 5.0 14700/13300MB/s MZ-VAP1T0BW",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=675&pg=1636607145",
+   "sepet_fiyati": 16206.9,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30256,
+   "site": "Trendruum.com",
+   "satici": "akakce üzerinden",
+   "baslik": "Samsung 9100 Pro MZ-VAP1T0BW 1TB (14700/13300MB/s) M.2 2280 PCIe 5.0 NVMe SSD",
+   "url": "https://www.akakce.com/r/?pr=983826198&vd=292&pg=1805983504",
+   "sepet_fiyati": 16424.55,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30258,
+   "site": "vatan",
+   "satici": null,
+   "baslik": "Samsung 1TB 9100 PRO GEN5 NVMe M.2 SSD (Okuma Hızı 14700MB / Yazma Hızı 13300MB)",
+   "url": "https://www.vatanbilgisayar.com/samsung-1tb-9100-pro-gen5-nvme-m-2-ssd-okuma-hizi-14700mb-yazma-hizi-13300mb.html",
+   "sepet_fiyati": 16859.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30269,
+   "site": "akakce",
+   "satici": null,
+   "baslik": "samsung 9100 pro 1tb m 2 nvme 14700 13300mb s",
+   "url": "https://www.akakce.com/ssd/en-ucuz-samsung-9100-pro-1tb-m-2-nvme-14700-13300mb-s-fiyati,1707915359.html",
+   "sepet_fiyati": 20754.99,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30279,
+   "site": "pazarama",
+   "satici": null,
+   "baslik": "1TB SAMSUNG 9100 PRO M.2 MZ-VAP1T0BW",
+   "url": "https://www.pazarama.com/1tb-samsung-9100-pro-m2-mz-vap1t0bw-p-ADAD6SAM0033",
+   "sepet_fiyati": 24433.09,
+   "liste_fiyati": 25719.04,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25656,
+   "site": "trendyol",
+   "satici": null,
+   "baslik": "1TB 9100 PRO M.2 14700/13300MB/s MZ-VAP1T0BW (Resmi Distribütör Garantili)",
+   "url": "https://www.trendyol.com/samsung/1tb-9100-pro-m-2-14700-13300mb-s-mz-vap1t0bw-resmi-distributor-garantili-p-939116973?boutiqueId=61&merchantId=1014347",
+   "sepet_fiyati": 24752.16,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30280,
+   "site": "n11",
+   "satici": null,
+   "baslik": "Samsung Uyumlu 1tb 9100 Pro Mz-vap1t0bw 14700-13300mb-sn Pcıe Nvme M.2 Ssd Disk 1",
+   "url": "https://www.n11.com/urun/samsung-uyumlu-1tb-9100-pro-mz-vap1t0bw-14700-13300mb-sn-pcie-nvme-m2-ssd-disk-1-148023807",
+   "sepet_fiyati": 24801.12,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  }
+ ],
+ "gecmis": [
+  {
+   "gun": "2026-11-14",
+   "en_dusuk": 13949.0,
+   "ortalama": 18009.37
+  }
+ ]
+}

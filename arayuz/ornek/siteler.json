@@ -1,0 +1,80 @@
+[
+  {
+    "ad": "trendyol",
+    "katman_tercihi": "K2",
+    "son_basari": "2026-11-14T15:09:00+03:00",
+    "son_hata": null,
+    "hata_turu": null,
+    "etkin": true,
+    "son_24s": {
+      "basarili": 12,
+      "hatali": 0,
+      "teklif": 304
+    }
+  },
+  {
+    "ad": "hepsiburada",
+    "katman_tercihi": "K2",
+    "son_basari": "2026-11-14T15:08:00+03:00",
+    "son_hata": "2026-11-14T09:12:00+03:00",
+    "hata_turu": "403",
+    "etkin": true,
+    "son_24s": {
+      "basarili": 11,
+      "hatali": 1,
+      "teklif": 218
+    }
+  },
+  {
+    "ad": "akakce",
+    "katman_tercihi": "K0",
+    "son_basari": "2026-11-14T15:07:00+03:00",
+    "son_hata": null,
+    "hata_turu": null,
+    "etkin": true,
+    "son_24s": {
+      "basarili": 24,
+      "hatali": 0,
+      "teklif": 512
+    }
+  },
+  {
+    "ad": "itopya",
+    "katman_tercihi": "K0",
+    "son_basari": "2026-11-14T15:06:00+03:00",
+    "son_hata": null,
+    "hata_turu": null,
+    "etkin": true,
+    "son_24s": {
+      "basarili": 18,
+      "hatali": 0,
+      "teklif": 96
+    }
+  },
+  {
+    "ad": "n11",
+    "katman_tercihi": "K1",
+    "son_basari": "2026-11-14T14:55:00+03:00",
+    "son_hata": "2026-11-14T15:01:00+03:00",
+    "hata_turu": "captcha",
+    "etkin": true,
+    "son_24s": {
+      "basarili": 8,
+      "hatali": 3,
+      "teklif": 140
+    }
+  },
+  {
+    "ad": "vatan",
+    "katman_tercihi": "K3",
+    "son_basari": "2026-11-13T22:10:00+03:00",
+    "son_hata": "2026-11-14T14:40:00+03:00",
+    "hata_turu": "captcha",
+    "etkin": false,
+    "son_24s": {
+      "basarili": 0,
+      "hatali": 5,
+      "teklif": 0
+    }
+  }
+]

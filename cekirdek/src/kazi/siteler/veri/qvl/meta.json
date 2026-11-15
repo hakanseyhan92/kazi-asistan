@@ -1,0 +1,10 @@
+{
+ "anakart": "GIGABYTE X870 AORUS ELITE WIFI7",
+ "kaynak": "https://www.gigabyte.com/Motherboard/X870-AORUS-ELITE-WIFI7-rev-12/support (Memory/Storage/CPU Support)",
+ "cekildi": "2026-11-14",
+ "revizyonlar": {"rev 1.2": {"urun_id": 10689, "bios_9800x3d_min": "FA3"}, "rev 1.0/1.1": {"urun_id": 9692, "bios_9800x3d_min": "F1"}},
+ "not": "İki revizyon AYNI bellek (tablo 2630, Ryzen 9000, güncelleme 2026-11-10) ve SSD (tablo 21232, güncelleme 2026-11-12) listesini kullanıyor.",
+ "bellek_tablo": {"id": 2630, "guncelleme": "2026-11-10T03:33:22Z", "dosya": "x870_aorus_elite_wifi7_bellek_ryzen9000.json"},
+ "ssd_tablo": {"id": 21232, "guncelleme": "2026-11-12T09:35:53Z", "dosya": "x870_aorus_elite_wifi7_ssd.json"},
+ "gigabyte_notlari": ["2 modül: DDR5_A2 + DDR5_B2 yuvalarına tak (en iyi uyum/performans)", "EXPO kapalıyken 2 DIMM aynı kanalda 5600'e, 4 DIMM'de 3600'e düşer", "EXPO 5600+ kararlılığı işlemci ve modül payına göre değişebilir", "6000 üstü performans kazancı AMD mimarisi nedeniyle orantılı değil"]
+}

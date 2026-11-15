@@ -1,0 +1,366 @@
+[
+ {
+  "ad": "akakce",
+  "tur": "urun",
+  "katman_tercihi": "K0",
+  "son_basari": "2026-11-14T16:35:12+03:00",
+  "son_hata": null,
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 51,
+   "hatali": 0,
+   "teklif": 1992
+  }
+ },
+ {
+  "ad": "amazon",
+  "tur": "urun",
+  "katman_tercihi": "K0",
+  "son_basari": "2026-11-14T16:35:12+03:00",
+  "son_hata": "2026-11-14T10:40:49+03:00",
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 19,
+   "hatali": 1,
+   "teklif": 72
+  }
+ },
+ {
+  "ad": "cimri",
+  "tur": "urun",
+  "katman_tercihi": "K0",
+  "son_basari": "2026-11-14T16:35:12+03:00",
+  "son_hata": "2026-11-14T10:40:49+03:00",
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 19,
+   "hatali": 1,
+   "teklif": 463
+  }
+ },
+ {
+  "ad": "enuygun",
+  "tur": "ucus",
+  "katman_tercihi": "K2",
+  "son_basari": "2026-11-14T15:50:05+03:00",
+  "son_hata": "2026-11-14T09:50:03+03:00",
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 28,
+   "hatali": 5,
+   "teklif": 1206
+  }
+ },
+ {
+  "ad": "epey",
+  "tur": "urun",
+  "katman_tercihi": "K0",
+  "son_basari": "2026-11-14T16:35:12+03:00",
+  "son_hata": "2026-11-14T10:40:49+03:00",
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 19,
+   "hatali": 1,
+   "teklif": 525
+  }
+ },
+ {
+  "ad": "gamegaraj",
+  "tur": "urun",
+  "katman_tercihi": "K0",
+  "son_basari": "2026-11-14T16:35:12+03:00",
+  "son_hata": null,
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 51,
+   "hatali": 0,
+   "teklif": 53
+  }
+ },
+ {
+  "ad": "gaminggentr",
+  "tur": "urun",
+  "katman_tercihi": "K0",
+  "son_basari": "2026-11-14T16:35:12+03:00",
+  "son_hata": null,
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 51,
+   "hatali": 0,
+   "teklif": 430
+  }
+ },
+ {
+  "ad": "google",
+  "tur": "ucus",
+  "katman_tercihi": "K0",
+  "son_basari": "2026-11-14T15:50:05+03:00",
+  "son_hata": null,
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 41,
+   "hatali": 0,
+   "teklif": 980
+  }
+ },
+ {
+  "ad": "hepsiburada",
+  "tur": "urun",
+  "katman_tercihi": "K0",
+  "son_basari": "2026-11-14T16:35:12+03:00",
+  "son_hata": "2026-11-14T09:05:02+03:00",
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 19,
+   "hatali": 1,
+   "teklif": 1290
+  }
+ },
+ {
+  "ad": "idefix",
+  "tur": "urun",
+  "katman_tercihi": "K0",
+  "son_basari": "2026-11-14T16:35:12+03:00",
+  "son_hata": "2026-11-14T14:35:07+03:00",
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 17,
+   "hatali": 3,
+   "teklif": 233
+  }
+ },
+ {
+  "ad": "incehesap",
+  "tur": "urun",
+  "katman_tercihi": "K0",
+  "son_basari": "2026-11-14T16:35:12+03:00",
+  "son_hata": "2026-11-14T10:40:49+03:00",
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 17,
+   "hatali": 3,
+   "teklif": 40
+  }
+ },
+ {
+  "ad": "itopya",
+  "tur": "urun",
+  "katman_tercihi": "K0",
+  "son_basari": "2026-11-14T16:35:12+03:00",
+  "son_hata": "2026-11-14T15:20:00+03:00",
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 49,
+   "hatali": 2,
+   "teklif": 64
+  }
+ },
+ {
+  "ad": "kayak",
+  "tur": "ucus",
+  "katman_tercihi": "K2",
+  "son_basari": "2026-11-14T15:50:05+03:00",
+  "son_hata": "2026-11-14T09:50:03+03:00",
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 28,
+   "hatali": 5,
+   "teklif": 4857
+  }
+ },
+ {
+  "ad": "mediamarkt",
+  "tur": "urun",
+  "katman_tercihi": "K2",
+  "son_basari": "2026-11-14T16:35:12+03:00",
+  "son_hata": null,
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 20,
+   "hatali": 0,
+   "teklif": 42
+  }
+ },
+ {
+  "ad": "n11",
+  "tur": "urun",
+  "katman_tercihi": "K0",
+  "son_basari": "2026-11-14T16:35:12+03:00",
+  "son_hata": null,
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 50,
+   "hatali": 0,
+   "teklif": 753
+  }
+ },
+ {
+  "ad": "pazarama",
+  "tur": "urun",
+  "katman_tercihi": "K0",
+  "son_basari": "2026-11-14T16:35:12+03:00",
+  "son_hata": null,
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 50,
+   "hatali": 0,
+   "teklif": 359
+  }
+ },
+ {
+  "ad": "pttavm",
+  "tur": "urun",
+  "katman_tercihi": "K0",
+  "son_basari": "2026-11-14T16:35:12+03:00",
+  "son_hata": "2026-11-14T10:40:49+03:00",
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 17,
+   "hatali": 2,
+   "teklif": 900
+  }
+ },
+ {
+  "ad": "qatar",
+  "tur": "ucus",
+  "katman_tercihi": "K3",
+  "son_basari": null,
+  "son_hata": "2026-11-14T15:50:05+03:00",
+  "hata_turu": "desteklenmiyor: derin bağlantı `/app/booking/?...` 'Something interrupted the booking journey' veriyor; arama widget'ı o",
+  "etkin": true,
+  "son_24s": {
+   "basarili": 0,
+   "hatali": 32,
+   "teklif": 0
+  }
+ },
+ {
+  "ad": "sinerji",
+  "tur": "urun",
+  "katman_tercihi": "K2",
+  "son_basari": "2026-11-14T16:05:40+03:00",
+  "son_hata": null,
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 18,
+   "hatali": 0,
+   "teklif": 130
+  }
+ },
+ {
+  "ad": "skyscanner",
+  "tur": "ucus",
+  "katman_tercihi": "K2",
+  "son_basari": "2026-11-14T09:50:03+03:00",
+  "son_hata": "2026-11-14T15:50:05+03:00",
+  "hata_turu": "RuntimeError: skyscanner kalkış seçilemedi: NRT",
+  "etkin": true,
+  "son_24s": {
+   "basarili": 22,
+   "hatali": 13,
+   "teklif": 8229
+  }
+ },
+ {
+  "ad": "teknosa",
+  "tur": "urun",
+  "katman_tercihi": "K2",
+  "son_basari": "2026-11-14T16:05:40+03:00",
+  "son_hata": null,
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 18,
+   "hatali": 0,
+   "teklif": 68
+  }
+ },
+ {
+  "ad": "thy",
+  "tur": "ucus",
+  "katman_tercihi": "K3",
+  "son_basari": null,
+  "son_hata": "2026-11-14T15:50:05+03:00",
+  "hata_turu": "desteklenmiyor: ana sayfa formu PerimeterX px-captcha-modal iframe ile korunuyor; ilk tıklamada modal tüm etkileşimi kes",
+  "etkin": true,
+  "son_24s": {
+   "basarili": 0,
+   "hatali": 32,
+   "teklif": 0
+  }
+ },
+ {
+  "ad": "trendyol",
+  "tur": "urun",
+  "katman_tercihi": "K0",
+  "son_basari": "2026-11-14T16:05:40+03:00",
+  "son_hata": null,
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 27,
+   "hatali": 0,
+   "teklif": 365
+  }
+ },
+ {
+  "ad": "tripcom",
+  "tur": "ucus",
+  "katman_tercihi": "K2",
+  "son_basari": "2026-11-14T15:50:05+03:00",
+  "son_hata": "2026-11-14T09:50:03+03:00",
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 28,
+   "hatali": 4,
+   "teklif": 70
+  }
+ },
+ {
+  "ad": "turkmenistan",
+  "tur": "ucus",
+  "katman_tercihi": "K3",
+  "son_basari": null,
+  "son_hata": "2026-11-14T15:50:05+03:00",
+  "hata_turu": "desteklenmiyor: arama formu zorunlu CAPTCHA (#captchaPopup / submitCaptcha) istiyor; doğrudan /tm/flights/search URL'si ",
+  "etkin": true,
+  "son_24s": {
+   "basarili": 0,
+   "hatali": 32,
+   "teklif": 0
+  }
+ },
+ {
+  "ad": "vatan",
+  "tur": "urun",
+  "katman_tercihi": "K0",
+  "son_basari": "2026-11-14T16:05:40+03:00",
+  "son_hata": null,
+  "hata_turu": null,
+  "etkin": true,
+  "son_24s": {
+   "basarili": 48,
+   "hatali": 0,
+   "teklif": 118
+  }
+ }
+]

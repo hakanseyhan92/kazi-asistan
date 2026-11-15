@@ -1,0 +1,98 @@
+{
+ "not_": "Örnek eski plan (test fikstürü): 2 kişilik ana bacaklar, tek kişilik yan tur.",
+ "bacaklar": [
+  {
+   "id": "ist_tyo",
+   "ad": "İstanbul → Tokyo (birlikte)",
+   "kalkis": "IST",
+   "varis": "TYO",
+   "tarih": "2026-12-27",
+   "esnek_gun": 2,
+   "yolcu": 2,
+   "yasak_ek": [
+    "ICN",
+    "GMP",
+    "PUS",
+    "CJU"
+   ]
+  },
+  {
+   "id": "tyo_sel",
+   "ad": "Tokyo → Seul (Ali solo, 2 gecelik yan tur; 28.12–03.01)",
+   "kalkis": "TYO",
+   "varis": "SEL",
+   "tarih": "2026-12-31",
+   "esnek_gun": 3,
+   "yolcu": 1,
+   "yasak_ek": [],
+   "rotasyon": true
+  },
+  {
+   "id": "sel_tyo",
+   "ad": "Seul → Tokyo (Ali solo, yan tur dönüşü; 30.12–05.01)",
+   "kalkis": "SEL",
+   "varis": "TYO",
+   "tarih": "2027-01-02",
+   "esnek_gun": 3,
+   "yolcu": 1,
+   "yasak_ek": [],
+   "rotasyon": true
+  },
+  {
+   "id": "tyo_ist",
+   "ad": "Tokyo → İstanbul (birlikte)",
+   "kalkis": "TYO",
+   "varis": "IST",
+   "tarih": "2027-01-06",
+   "esnek_gun": 2,
+   "yolcu": 2,
+   "yasak_ek": [
+    "ICN",
+    "GMP",
+    "PUS",
+    "CJU"
+   ]
+  }
+ ],
+ "yasak_aktarma": [
+  "CAN",
+  "PEK",
+  "PKX",
+  "PVG",
+  "SHA",
+  "CTU",
+  "TFU",
+  "SZX",
+  "XMN",
+  "KMG",
+  "CKG",
+  "HGH",
+  "WUH",
+  "URC",
+  "TSN",
+  "DXB",
+  "DWC",
+  "AUH",
+  "SHJ"
+ ],
+ "guvenli_aktarma": [
+  "IST",
+  "SAW",
+  "DOH",
+  "ALA",
+  "NQZ",
+  "HND",
+  "NRT",
+  "KIX",
+  "NGO",
+  "FUK",
+  "CTS"
+ ],
+ "uyari_aktarma": {
+  "DOH": "transit kuralını teyit et (örnek)",
+  "ASB": "transit kuralını teyit et (örnek)",
+  "ALA": "transit kuralını teyit et (örnek)",
+  "NQZ": "transit kuralını teyit et (örnek)"
+ },
+ "yan_tur_not_": "Örnek: Tokyo–Seul yan turu, yalnız Ali, Seul'de 2 gece."
+}

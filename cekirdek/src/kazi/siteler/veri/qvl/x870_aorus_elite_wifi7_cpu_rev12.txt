@@ -1,0 +1,88 @@
+Home
+Consumer
+Motherboard
+X870 AORUS ELITE WIFI7
+X870 AORUS ELITE WIFI7 (Rev. 1.2)Rev. 1.2Rev. 1.0/1.1
+Compare
+Buy Now
+Key Features
+Specifications
+Support
+News & Awards
+Gallery
+Support
+Driver (+22)
+BIOS (+6)
+Utility (+6)
+CPU Support
+Memory Support
+Storage Support
+Manual
+FAQ
+Online Support
+Product Registration
+Socket AM5 - AMD X870PCB - 1.2N/A = Not support
+Vendor
+	
+CPU Model
+	
+Cores / Thread
+	
+Frequency
+	
+L2 Cache
+	
+L3 Cache
+	
+GPU Info.
+	
+Core Name
+	
+Process
+	
+Wattage
+	
+Since BIOS Version
+
+AMD	Ryzen 9 PRO 9965X3D	16C/32T	4.3GHz / 5.5GHz	16MB	128MB	2200MHz	Granite Ridge	4nm	170W	FA4
+AMD	Ryzen 9 PRO 9965	16C/32T	4.3GHz / 5.5GHz	16MB	64MB	2200MHz	Granite Ridge	4nm	170W	FA4
+AMD	Ryzen 9 PRO 9955	12C/24T	3.4GHz / 5.4GHz	12MB	64MB	2200MHz	Granite Ridge	4nm	120W	FA4
+AMD	Ryzen 9 9950X3D2	16C/32T	4.3GHz / 5.6GHz	16MB	192MB	2200MHz	Granite Ridge	4nm	220W	FA3
+AMD	Ryzen 9 9950X3D	16C/32T	4.3GHz / 5.7GHz	16MB	128MB	2200MHz	Granite Ridge	4nm	170W	FA3
+AMD	Ryzen 9 9950X	16C/32T	4.3GHz / 5.7GHz	16MB	64MB	2200MHz	Granite Ridge	4nm	170W	FA3
+AMD	Ryzen 9 PRO 9945	12C/24T	3.4GHz / 5.4GHz	12MB	64MB	2200MHz	Granite Ridge	4nm	65W	FA3
+AMD	Ryzen 9 9900X3D	12C/24T	4.4GHz / 5.5GHz	12MB	128MB	2200MHz	Granite Ridge	4nm	120W	FA3
+AMD	Ryzen 9 9900X	12C/24T	4.4GHz / 5.6GHz	12MB	64MB	2200MHz	Granite Ridge	4nm	120W	FA3
+AMD	Ryzen 9 7950X3D	16C/32T	4.2GHz / 5.7GHz	16MB	128MB	2200MHz	Raphael	5nm	120W	FA3
+AMD	Ryzen 9 7950X	16C/32T	4.5GHz / 5.7GHz	16MB	64MB	2200MHz	Raphael	5nm	170W	FA3
+AMD	Ryzen 9 PRO 7945	12C/24T	3.7GHz / 5.4GHz	12MB	64MB	2200MHz	Raphael	5nm	65W	FA3
+AMD	Ryzen 9 7900X3D	12C/24T	4.4GHz / 5.6GHz	12MB	128MB	2200MHz	Raphael	5nm	120W	FA3
+AMD	Ryzen 9 7900X	12C/24T	4.7GHz / 5.6GHz	12MB	64MB	2200MHz	Raphael	5nm	170W	FA3
+AMD	Ryzen 9 7900	12C/24T	3.7GHz / 5.4GHz	12MB	64MB	2200MHz	Raphael	5nm	65W	FA3
+AMD	Ryzen 7 9850X3D	8C/16T	4.7GHz / 5.6GHz	8MB	96MB	2200MHz	Granite Ridge	4nm	120W	FA3
+AMD	Ryzen 7 9800X3D	8C/16T	4.7GHz / 5.2GHz	8MB	96MB	2200MHz	Granite Ridge	4nm	120W	FA3
+AMD	Ryzen 7 PRO 9755X3D	8C/16T	4.7GHz / 5.2GHz	8MB	96MB	2200MHz	Granite Ridge	4nm	120W	FA4
+AMD	Ryzen 7 PRO 9755	8C/16T	3.8GHz / 5.4GHz	8MB	32MB	2200MHz	Granite Ridge	4nm	120W	FA4
+AMD	Ryzen 7 PRO 9745	8C/16T	3.8GHz / 5.4GHz	8MB	32MB	2200MHz	Granite Ridge	4nm	65W	FA3
+AMD	Ryzen 7 9700X	8C/16T	3.8GHz / 5.5GHz	8MB	32MB	2200MHz	Granite Ridge	4nm	65W	FA3
+AMD	Ryzen 7 9700F	8C/16T	3.8GHz / 5.5GHz	8MB	32MB	N/A	Granite Ridge	4nm	65W	FA3
+AMD	Ryzen 7 8700G	8C/16T	4.2GHz / 5.1GHz	8MB	16MB	2900MHz	Phoenix 1	4nm	65W	FA3
+AMD	Ryzen 7 PRO 8700G	8C/16T	4.2GHz / 5.1GHz	8MB	16MB	2900MHz	Phoenix 1	4nm	65W	FA3
+AMD	Ryzen 7 PRO 8700GE	8C/16T	3.6GHz / 5.1GHz	8MB	16MB	2700MHz	Phoenix 1	4nm	35W	FA3
+AMD	Ryzen 7 8700F	8C/16T	4.1GHz / 5.0GHz	8MB	16MB	N/A	Phoenix 1	4nm	65W	FA3
+AMD	Ryzen 7 7800X3D	8C/16T	4.2GHz / 5.0GHz	8MB	96MB	2200MHz	Raphael	5nm	120W	FA3
+AMD	Ryzen 7 PRO 7745	8C/16T	3.8GHz / 5.3GHz	8MB	32MB	2200MHz	Raphael	5nm	65W	FA3
+AMD	Ryzen 7 7700X3D	8C/16T	4.0GHz / 4.5GHz	8MB	96MB	2200MHz	Raphael	5nm	120W	FA1
+AMD	Ryzen 7 7700X	8C/16T	4.5GHz / 5.4GHz	8MB	32MB	2200MHz	Raphael	5nm	105W	FA3
+1
+2
+Follow Us
+Global (English)
+Company
+Consumer
+Enterprise
+Solution
+Service / Support
+Resource
+©2026 GIGA-BYTE Technology Co., Ltd. All rights reserved.
+Term Of Use|Privacy Policy|Site Map

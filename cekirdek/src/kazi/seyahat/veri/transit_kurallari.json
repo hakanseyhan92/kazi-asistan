@@ -1,0 +1,29 @@
+{
+ "not_": "uyruk × ülke → serbest | airside | vize_gerekli | yasak | bilinmiyor. Güvenlik ağıdır, resmî kaynak değildir (IATA Travel Centre ile teyit). Arayüzden düzenlenir. Kişisel ek kurallar: ~/.config/kazi/transit_kurallari.json (aynı uyruk×ülke paket kuralını ezer).",
+ "kurallar": [
+  {
+   "uyruk": "TR",
+   "ulke": "JP",
+   "durum": "serbest",
+   "not": "TR vatandaşı Japonya vizesiz (kısa süreli)"
+  },
+  {
+   "uyruk": "TR",
+   "ulke": "KR",
+   "durum": "serbest",
+   "not": "TR vatandaşı Kore vizesiz (K-ETA durumunu teyit et)"
+  },
+  {
+   "uyruk": "TR",
+   "ulke": "QA",
+   "durum": "serbest",
+   "not": "TR vatandaşı Katar vizesiz"
+  },
+  {
+   "uyruk": "TR",
+   "ulke": "KZ",
+   "durum": "serbest",
+   "not": "TR vatandaşı Kazakistan vizesiz"
+  }
+ ]
+}

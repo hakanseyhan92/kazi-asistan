@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# Rust
+arayuz/target/
+# yerel veri
+*.db
+*.db-wal
+*.db-shm
+.claude/

@@ -1,0 +1,17 @@
+{
+ "not_": "Şehir içi transfer süreleri (dk), iki yönlü. Ayarlar'dan değiştirilebilir. SARTNAME §13.3.",
+ "sure_dk": {
+  "ESENLER|IST": 50,
+  "ESENLER|SAW": 75,
+  "SOGUTLUCE|SAW": 45,
+  "SOGUTLUCE|IST": 90,
+  "PENDIK|SAW": 25,
+  "HALKALI|IST": 40,
+  "IST|SAW": 90,
+  "ASTI|ESB": 45,
+  "ANKARA_YHT|ESB": 40,
+  "NRT|HND": 90,
+  "ICN|GMP": 70,
+  "KIX|ITM": 70
+ }
+}

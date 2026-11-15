@@ -1,0 +1,151 @@
+{
+ "data": {
+  "products": [
+   {
+    "productId": "HBC00007X1O9F",
+    "brand": "MSI",
+    "variantList": [
+     {
+      "sku": "HBCV00007X1O9G",
+      "name": "Msı VGA Geforce Rtx 5080 16G Ventus 3x Oc 16GB Gdrr7 256 B DX12 Pcıe 5.0 X16 Ekran Kartı",
+      "url": "/msi-vga-geforce-rtx-5080-16g-ventus-3x-oc-16gb-gdrr7-256-b-dx12-pcie-5-0-x16-ekran-karti-pm-HBC00007X1O9F",
+      "procurable": true,
+      "listing": {
+       "priceInfo": {
+        "price": 148664.06,
+        "priceTextColor": "",
+        "originalPrice": 148664.06,
+        "discountRate": 0,
+        "discountType": "NoDiscount"
+       },
+       "merchantName": "HAYATBİLGİSAYAR",
+       "campaignPriceInfo": null,
+       "categorizedLabels": {
+        "winner": [
+         {
+          "text": "Ek 25 TL Kupon",
+          "color": "#FFEFE6",
+          "textColor": "#FF6000",
+          "tagName": "PersonalizedCoupon",
+          "order": 4,
+          "type": "winner",
+          "typeGroup": "",
+          "tagGroup": ""
+         }
+        ],
+        "affordability": [
+         {
+          "text": "Peşin fiyatına 7 x 21.237 TL",
+          "installmentCount": 7,
+          "installmentAmount": 21237,
+          "isCashPrice": true
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "productId": "HBC000082Q20G",
+    "brand": "MSI",
+    "variantList": [
+     {
+      "sku": "HBCV000082Q20H",
+      "name": "MSI GEFORCE RTX 5080 16G SHADOW 3X OC  16G 256 Bit GDDR7  HDMI Ekran Kartı",
+      "url": "/geforce-rtx-5080-16g-shadow-3x-oc-16g-256-bit-gddr7-hdmi-ekran-karti-pm-HBC000082Q20G",
+      "procurable": true,
+      "listing": {
+       "priceInfo": {
+        "price": 135778.27,
+        "priceTextColor": "",
+        "originalPrice": 135778.27,
+        "discountRate": 0,
+        "discountType": "NoDiscount"
+       },
+       "merchantName": "Dfs Bilgisayar",
+       "campaignPriceInfo": {
+        "contentType": "Basket",
+        "labelText": "Sepete özel",
+        "textColor": "#009319",
+        "campaignText": "",
+        "discountedPrice": 135728.27,
+        "discountDetail": null
+       },
+       "categorizedLabels": {
+        "winner": null,
+        "affordability": [
+         {
+          "text": "Peşin fiyatına 7 x 19.389 TL",
+          "installmentCount": 7,
+          "installmentAmount": 19389,
+          "isCashPrice": true
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "productId": "HBC0000Q6AARH",
+    "brand": "Kaia Life",
+    "variantList": [
+     {
+      "sku": "HBCV0000Q6AARI",
+      "name": "Kaia Life ASUS-PRIME-RTX5080-O16G-NVIDIA-GEFORCE-RTX 5080-16GB GDDR7-256BİT--OC-HDMI-3XDP-DLSS4 Ekran Kartı",
+      "url": "/asus-prime-rtx5080-o16g-nvidia-geforce-rtx-5080-16gb-gddr7-256bit-oc-hdmi-3xdp-dlss4-ekran-karti-pm-HBC0000Q6AARH",
+      "procurable": true,
+      "listing": {
+       "priceInfo": {
+        "price": 271953.92,
+        "priceTextColor": "",
+        "originalPrice": 271953.92,
+        "discountRate": 0,
+        "discountType": "NoDiscount"
+       },
+       "merchantName": "Kaia Life",
+       "campaignPriceInfo": {
+        "contentType": "Premium",
+        "labelText": "Premium ile",
+        "textColor": "#DF0485",
+        "campaignText": "",
+        "discountedPrice": 247858.8,
+        "discountDetail": {
+         "type": "premium",
+         "rate": 9
+        }
+       },
+       "categorizedLabels": {
+        "winner": [
+         {
+          "text": "Ek 175 TL Kupon",
+          "color": "#FFEFE6",
+          "textColor": "#FF6000",
+          "tagName": "PersonalizedCoupon",
+          "order": 4,
+          "type": "winner",
+          "typeGroup": "",
+          "tagGroup": ""
+         }
+        ],
+        "affordability": [
+         {
+          "text": "Peşin fiyatına 7 x 35.408 TL",
+          "installmentCount": 7,
+          "installmentAmount": 35408,
+          "isCashPrice": true
+         }
+        ]
+       }
+      }
+     }
+    ]
+   }
+  ],
+  "currentPage": 1,
+  "lastPage": 3,
+  "totalProductCount": 86,
+  "pageSize": 36
+ }
+}

@@ -1,0 +1,805 @@
+{
+ "urun": {
+  "id": "anakart_x870",
+  "ad": "Anakart Gigabyte X870 Aorus Elite WIFI7",
+  "kategori": "anakart",
+  "hedef_fiyat": 13000.0,
+  "kurallar": {
+   "dahil": [
+    "x870",
+    "aorus\\s*el[iı]te",
+    "(wi-?fi\\s*7|w[ıi]f[ıi]\\s*7|wifi7|wf7)"
+   ],
+   "haric": [
+    "laptop",
+    "notebook",
+    "diz[uü]st[uü]",
+    "oyuncu bilgisayar",
+    "gaming pc",
+    "haz[ıi]r sistem",
+    "masa[uü]st[uü] bilgisayar",
+    "ryzen",
+    "9800x3d",
+    "bundle",
+    "rtx",
+    "outlet",
+    "teşhir",
+    "teshir",
+    "yenilenmiş",
+    "yenilenmis",
+    "ikinci el",
+    "refurb",
+    "kutusu hasarl",
+    "wi-?fi\\s*6",
+    "w[ıi]f[ıi]\\s*6",
+    "wifi6",
+    "wf6",
+    "colorful",
+    "\\bcvn\\b",
+    "battle-?ax",
+    "biostar",
+    "micro\\s*atx",
+    "m-?atx",
+    "\\bitx\\b",
+    "x870e",
+    "x870\\s*e\\b",
+    "x3d",
+    "stealth"
+   ]
+  }
+ },
+ "ozet": {
+  "ortalama": 19210.060999999998,
+  "medyan": 18913.629999999997,
+  "adet": 36
+ },
+ "teklifler": [
+  {
+   "teklif_id": 30193,
+   "site": "Amazon Türkiye",
+   "satici": "incehesap",
+   "baslik": "GIGABYTE X870 AORUS Elite WIFI7 AM5 LGA 1718, ATX, DDR5, 4X M.2, PCIe 5.0, USB4, Wi-Fi 7, 2.5GbE LAN, EZ-Mandal, Q-Flaş",
+   "url": "https://www.akakce.com/r/?pr=778720647&vd=10001&pg=1803097911",
+   "sepet_fiyati": 14199.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 27274,
+   "site": "incehesap",
+   "satici": null,
+   "baslik": "Gigabyte X870 AORUS ELITE WIFI7 Soket AM5 DDR5 8200(OC) ATX Gaming (Oyuncu) Anakart",
+   "url": "https://www.incehesap.com/gigabyte-x870-aorus-elite-wifi7-soket-am5-atx-gaming-oyuncu-anakart-fiyati-75962/",
+   "sepet_fiyati": 14399.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 3,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T10:40:49+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30194,
+   "site": "incehesap.com",
+   "satici": "akakce üzerinden",
+   "baslik": "Gigabyte X870 AORUS ELITE WIFI7 Soket AM5 DDR5 8200(OC) ATX Gaming (Oyuncu) Anakart",
+   "url": "https://www.akakce.com/r/?pr=778720647&vd=317&pg=1803350340",
+   "sepet_fiyati": 14399.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 3,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30195,
+   "site": "Amazon Türkiye",
+   "satici": "akakce üzerinden",
+   "baslik": "GIGABYTE ANAKART AMD AM5 ATX X870 AORUS ELITE WIFI7",
+   "url": "https://www.akakce.com/r/?pr=778720647&vd=10001&pg=1447067417",
+   "sepet_fiyati": 14499.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30196,
+   "site": "n11",
+   "satici": "incehesap",
+   "baslik": "Gigabyte X870 Aorus Elıte Wıfı7 Am5 Atx Anakart",
+   "url": "https://www.akakce.com/r/?pr=778720647&vd=11070&pg=1802995605",
+   "sepet_fiyati": 14535.08,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30199,
+   "site": "idefix",
+   "satici": "incehesap",
+   "baslik": "Gigabyte X870 AORUS ELITE WIFI 7 DDR5 8200MHz (OC) M.2 AM5 ATX Anakart",
+   "url": "https://www.akakce.com/r/?pr=778720647&vd=13275&pg=1803058793",
+   "sepet_fiyati": 15007.41,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30201,
+   "site": "Sinerji Bilgisayar",
+   "satici": "akakce üzerinden",
+   "baslik": "Gigabyte X870 AORUS ELITE WIFI7 ICE 8200Mhz(OC) M.2 AM5 ATX Anakart",
+   "url": "https://www.akakce.com/r/?pr=812626569&vd=795&pg=1610508876",
+   "sepet_fiyati": 15292.99,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30200,
+   "site": "akakce",
+   "satici": null,
+   "baslik": "Gigabyte X870 Aorus Elite WIFI7 Ice AMD AM5 DDR5 ATX Anakart",
+   "url": "https://www.akakce.com/anakart/en-ucuz-gigabyte-x870-aorus-elite-wifi7-ice-amd-am5-ddr5-atx-fiyati,812626569.html",
+   "sepet_fiyati": 15292.99,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30202,
+   "site": "idefix",
+   "satici": "Prospera",
+   "baslik": "Gigabyte X870 AORUS ELITE ICE WiFi 7 DDR5 8000MHz (OC) RGB M.2 AM5 ATX Anakart",
+   "url": "https://www.akakce.com/r/?pr=812626569&vd=13275&pg=1777221996",
+   "sepet_fiyati": 16449.06,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30203,
+   "site": "n11",
+   "satici": "ccyteknoloji",
+   "baslik": "Gigabyte X870 Aorus Elıte Wıfı7 Am5 Atx Anakart",
+   "url": "https://www.akakce.com/r/?pr=778720647&vd=11070&pg=1768075414",
+   "sepet_fiyati": 16519.44,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30204,
+   "site": "idefix",
+   "satici": "Velox Techno",
+   "baslik": "Gigabyte X870 AORUS ELITE ICE WiFi 7 DDR5 8000MHz (OC) RGB M.2 AM5 ATX Anakart",
+   "url": "https://www.akakce.com/r/?pr=812626569&vd=13275&pg=1717392742",
+   "sepet_fiyati": 16580.68,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30207,
+   "site": "Pazarama",
+   "satici": "DFSBilgisayar",
+   "baslik": "Gigabyte X870 AORUS ELITE WIFI 7 DDR5 8200MHz (OC) M.2 AM5 ATX Anakart",
+   "url": "https://www.akakce.com/r/?pr=778720647&vd=10694&pg=1802992439",
+   "sepet_fiyati": 17759.49,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30209,
+   "site": "Lowell.com.tr",
+   "satici": "akakce üzerinden",
+   "baslik": "Gigabyte X870 Aorus Elite WiFi7 DDR5 (8200MHz)OC M.2 HDMI/USB-C PCIe 5.0 AM5 ATX Anakart",
+   "url": "https://www.akakce.com/r/?pr=778720647&vd=5234&pg=1645603045",
+   "sepet_fiyati": 17839.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30210,
+   "site": "n11",
+   "satici": "ebz",
+   "baslik": "Gigabyte X870 Aorus Elıte Wıfı7 Am5 Atx Anakart",
+   "url": "https://www.akakce.com/r/?pr=778720647&vd=11070&pg=1806730829",
+   "sepet_fiyati": 17916.91,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30213,
+   "site": "Muyubi.com",
+   "satici": "akakce üzerinden",
+   "baslik": "Gigabyte X870 Aorus Elite Wifi 7 Ice D5 AM5 Type-C",
+   "url": "https://www.akakce.com/r/?pr=812626569&vd=5088&pg=1460397437",
+   "sepet_fiyati": 18804.56,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30214,
+   "site": "idefix",
+   "satici": "DFSBilgisayar",
+   "baslik": "Gigabyte X870 AORUS ELITE ICE WiFi 7 DDR5 8000MHz (OC) RGB M.2 AM5 ATX Anakart",
+   "url": "https://www.akakce.com/r/?pr=812626569&vd=13275&pg=1472496576",
+   "sepet_fiyati": 18878.95,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30215,
+   "site": "Gamer.Gen.Tr",
+   "satici": "akakce üzerinden",
+   "baslik": "GIGABYTE X870 AORUS ELITE WIFI7 ICE 8200MHz(OC) DDR5 Soket AM5 M.2 HDMI ATX Anakart",
+   "url": "https://www.akakce.com/r/?pr=812626569&vd=5625&pg=1829711092",
+   "sepet_fiyati": 18903.53,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30216,
+   "site": "itopya",
+   "satici": null,
+   "baslik": "GIGABYTE X870 AORUS ELITE WIFI7 ICE 8200MHz(OC) DDR5 Soket AM5 M.2 HDMI ATX Anakart",
+   "url": "https://www.itopya.com/gigabyte-x870-aorus-elite-wifi7-ice-8200mhzoc-ddr5-soket-am5-m2-hdmi-atx-anakart_u26673",
+   "sepet_fiyati": 18903.53,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30217,
+   "site": "idefix",
+   "satici": "Teknoklik",
+   "baslik": "Gigabyte X870 AORUS ELITE ICE WiFi 7 DDR5 8000MHz (OC) RGB M.2 AM5 ATX Anakart",
+   "url": "https://www.akakce.com/r/?pr=812626569&vd=13275&pg=1807672850",
+   "sepet_fiyati": 18923.73,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30218,
+   "site": "n11",
+   "satici": "dfsbilgisayar",
+   "baslik": "Gigabyte X870 Aorus Elıte Wıfı7 Ice Soket Am5 Ddr5 8200 Oc Atx Aaaa11gıg0019",
+   "url": "https://www.akakce.com/r/?pr=812626569&vd=11070&pg=1680024761",
+   "sepet_fiyati": 19214.73,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30220,
+   "site": "724alsak.com",
+   "satici": "akakce üzerinden",
+   "baslik": "Gigabyte X870A-ELITE-WF7ICE X870 AORUS ELITE WIFI7 ICE 8200MHz OC DDR5 AM5 M.2 HDMI DP ATX Anakart",
+   "url": "https://www.akakce.com/r/?pr=812626569&vd=3530&pg=1597038267",
+   "sepet_fiyati": 19246.98,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30221,
+   "site": "Pttavm",
+   "satici": "Dfsbilgisayar",
+   "baslik": "Gigabyte X870 Aorus Elite Wifi 7 Ice D5 Am5 Type-C Atx Ddr5 Anakart",
+   "url": "https://www.akakce.com/r/?pr=812626569&vd=11281&pg=1680029326",
+   "sepet_fiyati": 19660.15,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 2,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30222,
+   "site": "n11",
+   "satici": "dey-elektronik",
+   "baslik": "Gigabyte X870 Aorus Elıte Wıfı7 Ice Soket Am5 Ddr5 8200 Oc Atx Aaaa11gıg0019",
+   "url": "https://www.akakce.com/r/?pr=812626569&vd=11070&pg=1830151772",
+   "sepet_fiyati": 19763.44,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30223,
+   "site": "Pttavm",
+   "satici": "DEY ELEKTRONİK",
+   "baslik": "Gıgabyte X870 Aorus Elıte Wıfı7 Ice 8200Mhz(Oc) Ddr5 Soket Am5 M.2 Hdmı Atx Anakart",
+   "url": "https://www.akakce.com/r/?pr=812626569&vd=11281&pg=1829767363",
+   "sepet_fiyati": 19931.56,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 2,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30224,
+   "site": "Tebilon.com",
+   "satici": "akakce üzerinden",
+   "baslik": "GIGABYTE X870 AORUS ELITE WIFI7 ICE AMD X870 Soket AM5 DDR5 8000Mhz (OC) USB4 WIFI 7 ATX Anakart",
+   "url": "https://www.akakce.com/r/?pr=812626569&vd=4636&pg=1600115824",
+   "sepet_fiyati": 20037.6,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30225,
+   "site": "n11",
+   "satici": "uzmanlarpc",
+   "baslik": "Gigabyte X870 Aorus Elıte Wıfı7 Ice Soket Am5 Ddr5 8200 Oc Atx Aaaa11gıg0019",
+   "url": "https://www.akakce.com/r/?pr=812626569&vd=11070&pg=1519166455",
+   "sepet_fiyati": 20118.39,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30226,
+   "site": "n11",
+   "satici": "teknoklik",
+   "baslik": "Gigabyte X870 Aorus Elıte Wıfı7 Ice Soket Am5 Ddr5 8200 Oc Atx Aaaa11gıg0019",
+   "url": "https://www.akakce.com/r/?pr=812626569&vd=11070&pg=1809675951",
+   "sepet_fiyati": 20128.68,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 27307,
+   "site": "sinerji",
+   "satici": null,
+   "baslik": "Gigabyte X870 AORUS ELITE WIFI7 ICE 8000mhz(OC) RGB M.2 AM5 ATX Anakart",
+   "url": "https://www.sinerji.gen.tr/gigabyte-x870-aorus-elite-wifi7-ice-8000mhz-oc-rgb-m2-am5-atx-anakart-p-52257",
+   "sepet_fiyati": 20501.52,
+   "liste_fiyati": null,
+   "stok": false,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T10:40:49+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 27309,
+   "site": "teknosa",
+   "satici": null,
+   "baslik": "Gigabyte X870 Aorus Elite WiFi7 ICE Soket AM5 DDR5 8200 OC ATX Gaming Oyuncu Anakart",
+   "url": "https://www.teknosa.com/gigabyte-x870-aorus-elite-wifi7-ice-soket-am5-ddr5-8200-oc-atx-gaming-oyuncu-anakart-p-784956889",
+   "sepet_fiyati": 21116.6,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 4,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T10:40:49+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 25588,
+   "site": "pazarama",
+   "satici": null,
+   "baslik": "Gigabyte X870 Aorus Elite X ICE Anakart DDR5 Wi-Fi 7 AMD AM5 ATX",
+   "url": "https://www.pazarama.com/gigabyte-x870-aorus-elite-x-ice-anakart-ddr5-wifi-7-am5-sku99630982854-p-SKU99630982854",
+   "sepet_fiyati": 22225.16,
+   "liste_fiyati": 23518.68,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T05:27:54+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 27314,
+   "site": "mediamarkt",
+   "satici": null,
+   "baslik": "GIGABYTE Aorus Elite X Ice Wifi 7 D5 AM5 AMD X870 DDR5 ATX Anakart",
+   "url": "https://www.mediamarkt.com.tr/tr/product/_gigabyte-aorus-elite-x-ice-wifi-7-d5-am5-amd-x870-ddr5-atx-anakart-163534139.html",
+   "sepet_fiyati": 23583.41,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": 3,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T10:40:49+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 27327,
+   "site": "idefix",
+   "satici": null,
+   "baslik": "GIGABYTE X870 AORUS ELITE WIFI7 DDR5 HDMI-DP TYPEC PCIE 5.0 AM5 ATX",
+   "url": "https://www.idefix.com/gigabyte-x870-aorus-elite-wifi7-ddr5-hdmi-dp-typec-pcie-50-am5-atx-p-33188236#sortId=33188236",
+   "sepet_fiyati": 25351.8,
+   "liste_fiyati": 26970.0,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T10:40:49+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 27333,
+   "site": "pttavm",
+   "satici": null,
+   "baslik": "GIGABYTE X870 AORUS ELITE WIFI7 DDR5 HDMI-DP TYPEC PCIE 5.0 AM5 ATX",
+   "url": "https://www.pttavm.com/gigabyte-x870-aorus-elite-wifi7-ddr5-hdmi-dp-typec-pcie-5-0-am5-atx-p-1649450770",
+   "sepet_fiyati": 26663.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T10:40:49+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 27336,
+   "site": "trendyol",
+   "satici": null,
+   "baslik": "X870 AORUS ELITE WIFI7 DDR5 HDMI-DP TYPEC PCIE 5.0 AM5 ATX",
+   "url": "https://www.trendyol.com/gigabyte/x870-aorus-elite-wifi7-ddr5-hdmi-dp-typec-pcie-5-0-am5-atx-p-1224346107?boutiqueId=61&merchantId=162201",
+   "sepet_fiyati": 27153.98,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 6,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T10:40:49+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 30228,
+   "site": "n11",
+   "satici": null,
+   "baslik": "Gıgabyte X870 Aorus Elite Wıfı7 Am5 Lga 1718, Atx, Ddr5, 4x M.2, Pcıe 5.0, Usb4, Wi-fi 7, 2.5gbe Lan, Ez-mandal, Q-flaş",
+   "url": "https://www.n11.com/urun/gigabyte-x870-aorus-elite-wifi7-am5-lga-1718-atx-ddr5-4x-m2-pcie-50-usb4-wi-fi-7-25gbe-lan-ez-mandal-q-flas-150038957",
+   "sepet_fiyati": 27958.33,
+   "liste_fiyati": 30389.49,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K0",
+   "gozlem_zamani": "2026-11-14T15:20:00+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 27367,
+   "site": "epey",
+   "satici": null,
+   "baslik": "Gigabyte X870M Aorus Elite WiFi7 AM5 (LGA 1718) Soket Anakart",
+   "url": "https://www.epey.com/anakart/gigabyte-x870m-aorus-elite-wifi7.html",
+   "sepet_fiyati": 33885.0,
+   "liste_fiyati": null,
+   "stok": true,
+   "taksit": {
+    "pesin_fiyatina": null,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T10:40:49+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  },
+  {
+   "teklif_id": 27377,
+   "site": "hepsiburada",
+   "satici": null,
+   "baslik": "TeknoKapsül Gigabyte Anakart Amd Am5 Atx X870 Aorus Elite Wifi7",
+   "url": "https://www.hepsiburada.com/gigabyte-anakart-amd-am5-atx-x870-aorus-elite-wifi7-pm-HBC0000FIBGRG",
+   "sepet_fiyati": 39999.0,
+   "liste_fiyati": null,
+   "stok": null,
+   "taksit": {
+    "pesin_fiyatina": 7,
+    "tablo": []
+   },
+   "kaynak_katmani": "K2",
+   "gozlem_zamani": "2026-11-14T10:40:49+03:00",
+   "teyit_durumu": "bekliyor",
+   "teyit_zamani": null,
+   "kanit_goruntusu": null,
+   "hedef_altinda": false
+  }
+ ],
+ "gecmis": [
+  {
+   "gun": "2026-11-14",
+   "en_dusuk": 13999.0,
+   "ortalama": 21749.29
+  }
+ ]
+}

@@ -1,0 +1,791 @@
+TRY
+Giriş yap
+Tokyo - Seul uçuş arama sonuçları
+Tokyo
+Seul
+Tek yön
+29 Aralık 2026
+1 Yolcu / Ekonomi
+Yeniden ara
+Fiyat Alarmı Oluştur
+Filtrele
+Aktarma
+Tümünü seç
+Direkt Uçuş
+6
+1 Aktarma
+133
+2 Aktarma
+1
+Bagaj
+Havayolları
+Bilet fiyatı
+Kalkış / varış saatleri
+Uçuş süresi
+Gidiş Uçuşunuzu Seçin:
+Tokyo
+Seul
+En ucuz
+En hızlı
+Daha fazla
+Sıralama kriterleri
+24 Ara
+15.549 TL
+25 Ara
+Göster
+26 Ara
+28.245 TL
+27 Ara
+16.812 TL
+28 Ara
+16.707 TL
+29 Ara
+16.707 TL
+30 Ara
+16.680 TL
+31 Ara
+15.280 TL
+1 Oca
+10.214 TL
+2 Oca
+11.828 TL
+3 Oca
+11.828 TL
+4 Oca
+11.828 TL
+En ucuz
+5 Oca
+7.729 TL
+6 Oca
+7.732 TL
+7 Oca
+Göster
+8 Oca
+11.922 TL
+Günlük Tahmini Fiyatlar
+Kalkış 29 Ara 2026 01:55, varış 29 Ara 2026 04:40. 2sa 45dk, Direkt Uçuş. Peach Airlines MM809, HND 01:55 - ICN 04:40. Sınıfı: Ekonomi - S
+Peach Airlines
+HND
+ICN
+01:55
+04:40
+2sa 45dk
+Direkt Uçuş
+16.735 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 01:55, varış 29 Ara 2026 04:40. 2sa 45dk, Direkt Uçuş. Peach Airlines MM809, HND 01:55 - ICN 04:40. Sınıfı: Ekonomi - Y
+Peach Airlines
+HND
+ICN
+01:55
+04:40
+2sa 45dk
+Direkt Uçuş
+17.350 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 02:00, varış 29 Ara 2026 04:50. 2sa 50dk, Direkt Uçuş. Korean Air KE752, HND 02:00 - ICN 04:50. Sınıfı: Ekonomi - Y
+Korean Air
+HND
+ICN
+02:00
+04:50
+2sa 50dk
+Direkt Uçuş
+31.299 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 01:30, varış 29 Ara 2026 04:10. 2sa 40dk, Direkt Uçuş. Asiana Airlines OZ177, HND 01:30 - ICN 04:10. Sınıfı: Ekonomi - Y
+Asiana Airlines
+HND
+ICN
+01:30
+04:10
+2sa 40dk
+Direkt Uçuş
+31.706 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 20:15, varış 30 Ara 2026 11:55. 15sa 40dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU540, HND 20:15 - PVG 22:40; China Eastern Airlines MU5041, PVG 08:40 - ICN 11:55. Sınıfı: Ekonomi - S. Bilet paketi seçenekleri var
+China Eastern Airlines
+HND
+PVG
+ICN
+20:15
+11:55
+15sa 40dk
+1 Aktarma
+33.441 TL
+Seç
+Detaylar
+Aynı fiyatlı diğer uçuşlar (3)
+Kalkış 29 Ara 2026 20:15, varış 30 Ara 2026 13:30. 17sa 15dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU540, HND 20:15 - PVG 22:40; China Eastern Airlines MU5061, PVG 10:25 - ICN 13:30. Sınıfı: Ekonomi - S. Bilet paketi seçenekleri var. Aynı fiyatlı alternatif uçuş
+China Eastern Airlines
+HND
+PVG
+ICN
+20:15
+13:30
+17sa 15dk
+1 Aktarma
+33.441 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 17:10, varış 30 Ara 2026 11:55. 18sa 45dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU8634, HND 17:10 - PVG 19:40; China Eastern Airlines MU5041, PVG 08:40 - ICN 11:55. Sınıfı: Ekonomi - S. Bilet paketi seçenekleri var. Aynı fiyatlı alternatif uçuş
+China Eastern Airlines
+HND
+PVG
+ICN
+17:10
+11:55
+18sa 45dk
+1 Aktarma
+33.441 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 17:10, varış 30 Ara 2026 13:30. 20sa 20dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU8634, HND 17:10 - PVG 19:40; China Eastern Airlines MU5061, PVG 10:25 - ICN 13:30. Sınıfı: Ekonomi - S. Bilet paketi seçenekleri var. Aynı fiyatlı alternatif uçuş
+China Eastern Airlines
+HND
+PVG
+ICN
+17:10
+13:30
+20sa 20dk
+1 Aktarma
+33.441 TL
+Seç
+Detaylar
+Gizle
+Kalkış 29 Ara 2026 14:30, varış 30 Ara 2026 11:55. 21sa 25dk, 1 Aktarma. Aktarma: Şanghay (SHA). China Eastern Airlines MU538, HND 14:30 - SHA 17:30; China Eastern Airlines MU5041, PVG 08:40 - ICN 11:55. Sınıfı: Ekonomi - S. Bilet paketi seçenekleri var
+China Eastern Airlines
+HND
+SHA
+ICN
+14:30
+11:55
+21sa 25dk
+1 Aktarma
+33.441 TL
+Seç
+Detaylar
+Aynı fiyatlı diğer uçuşlar (1)
+Kalkış 29 Ara 2026 13:30, varış 30 Ara 2026 11:55. 22sa 25dk, 1 Aktarma. Aktarma: Şanghay (SHA). China Eastern Airlines MU8632, HND 13:30 - SHA 15:45; China Eastern Airlines MU5041, PVG 08:40 - ICN 11:55. Sınıfı: Ekonomi - S. Bilet paketi seçenekleri var. Aynı fiyatlı alternatif uçuş
+China Eastern Airlines
+HND
+SHA
+ICN
+13:30
+11:55
+22sa 25dk
+1 Aktarma
+33.441 TL
+Seç
+Detaylar
+Gizle
+Kalkış 29 Ara 2026 01:30, varış 29 Ara 2026 04:10. 2sa 40dk, Direkt Uçuş. Asiana Airlines OZ177, HND 01:30 - ICN 04:10. Sınıfı: Ekonomi - Y
+Asiana Airlines
+HND
+ICN
+01:30
+04:10
+2sa 40dk
+Direkt Uçuş
+33.709 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 02:00, varış 29 Ara 2026 04:50. 2sa 50dk, Direkt Uçuş. Korean Air KE752, HND 02:00 - ICN 04:50. Sınıfı: Ekonomi - Y
+Korean Air
+HND
+ICN
+02:00
+04:50
+2sa 50dk
+Direkt Uçuş
+34.062 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 10:45, varış 29 Ara 2026 21:50. 11sa 5dk, 1 Aktarma. Aktarma: Guangzhou (CAN). China Southern Airlines CZ3086, HND 10:45 - CAN 15:00; China Southern Airlines CZ339, CAN 17:30 - ICN 21:50. Sınıfı: Ekonomi - A
+China Southern Airlines
+HND
+CAN
+ICN
+10:45
+21:50
+11sa 5dk
+1 Aktarma
+34.856 TL
+Seç
+Detaylar
+Fiyat Alarmı Oluştur
+
+Fiyat düştüğünde anında bildirim al.
+
+Alarm oluştur
+Kalkış 29 Ara 2026 15:05, varış 30 Ara 2026 13:15. 22sa 10dk, 1 Aktarma. Aktarma: Guangzhou (CAN). China Southern Airlines CZ386, HND 15:05 - CAN 19:10; China Southern Airlines CZ337, CAN 09:05 - ICN 13:15. Sınıfı: Ekonomi - A
+China Southern Airlines
+HND
+CAN
+ICN
+15:05
+13:15
+22sa 10dk
+1 Aktarma
+36.179 TL
+Seç
+Detaylar
+Aynı fiyatlı diğer uçuşlar (1)
+Kalkış 29 Ara 2026 10:45, varış 30 Ara 2026 13:15. 1g 2sa 30dk, 1 Aktarma. Aktarma: Guangzhou (CAN). China Southern Airlines CZ3086, HND 10:45 - CAN 15:00; China Southern Airlines CZ337, CAN 09:05 - ICN 13:15. Sınıfı: Ekonomi - A. Aynı fiyatlı alternatif uçuş
+China Southern Airlines
+HND
+CAN
+ICN
+10:45
+13:15
+1g 2sa 30dk
+1 Aktarma
+36.179 TL
+Seç
+Detaylar
+Gizle
+Kalkış 29 Ara 2026 20:15, varış 30 Ara 2026 11:55. 15sa 40dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU540, HND 20:15 - PVG 22:40; China Eastern Airlines MU5041, PVG 08:40 - ICN 11:55. Sınıfı: Ekonomi - S. Bilet paketi seçenekleri var
+China Eastern Airlines
+HND
+PVG
+ICN
+20:15
+11:55
+15sa 40dk
+1 Aktarma
+36.669 TL
+Seç
+Detaylar
+Aynı fiyatlı diğer uçuşlar (2)
+Kalkış 29 Ara 2026 20:15, varış 30 Ara 2026 13:30. 17sa 15dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU540, HND 20:15 - PVG 22:40; China Eastern Airlines MU5061, PVG 10:25 - ICN 13:30. Sınıfı: Ekonomi - S. Bilet paketi seçenekleri var. Aynı fiyatlı alternatif uçuş
+China Eastern Airlines
+HND
+PVG
+ICN
+20:15
+13:30
+17sa 15dk
+1 Aktarma
+36.669 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 20:15, varış 30 Ara 2026 15:05. 18sa 50dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU540, HND 20:15 - PVG 22:40; China Eastern Airlines MU5011, PVG 11:55 - ICN 15:05. Sınıfı: Ekonomi - S. Bilet paketi seçenekleri var. Aynı fiyatlı alternatif uçuş
+China Eastern Airlines
+HND
+PVG
+ICN
+20:15
+15:05
+18sa 50dk
+1 Aktarma
+36.669 TL
+Seç
+Detaylar
+Gizle
+Kalkış 29 Ara 2026 17:10, varış 30 Ara 2026 11:55. 18sa 45dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU8634, HND 17:10 - PVG 19:40; China Eastern Airlines MU5041, PVG 08:40 - ICN 11:55. Sınıfı: Ekonomi - S. Bilet paketi seçenekleri var
+China Eastern Airlines
+HND
+PVG
+ICN
+17:10
+11:55
+18sa 45dk
+1 Aktarma
+36.669 TL
+Seç
+Detaylar
+Aynı fiyatlı diğer uçuşlar (5)
+Kalkış 29 Ara 2026 17:10, varış 30 Ara 2026 13:30. 20sa 20dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU8634, HND 17:10 - PVG 19:40; China Eastern Airlines MU5061, PVG 10:25 - ICN 13:30. Sınıfı: Ekonomi - S. Bilet paketi seçenekleri var. Aynı fiyatlı alternatif uçuş
+China Eastern Airlines
+HND
+PVG
+ICN
+17:10
+13:30
+20sa 20dk
+1 Aktarma
+36.669 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 17:10, varış 30 Ara 2026 15:05. 21sa 55dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU8634, HND 17:10 - PVG 19:40; China Eastern Airlines MU5011, PVG 11:55 - ICN 15:05. Sınıfı: Ekonomi - S. Bilet paketi seçenekleri var. Aynı fiyatlı alternatif uçuş
+China Eastern Airlines
+HND
+PVG
+ICN
+17:10
+15:05
+21sa 55dk
+1 Aktarma
+36.669 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 17:10, varış 30 Ara 2026 15:20. 22sa 10dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU8634, HND 17:10 - PVG 19:40; China Eastern Airlines MU5033, PVG 12:20 - ICN 15:20. Sınıfı: Ekonomi - S. Bilet paketi seçenekleri var. Aynı fiyatlı alternatif uçuş
+China Eastern Airlines
+HND
+PVG
+ICN
+17:10
+15:20
+22sa 10dk
+1 Aktarma
+36.669 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 17:10, varış 30 Ara 2026 17:25. 1g 15dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU8634, HND 17:10 - PVG 19:40; China Eastern Airlines MU8603, PVG 14:05 - ICN 17:25. Sınıfı: Ekonomi - S. Bilet paketi seçenekleri var. Aynı fiyatlı alternatif uçuş
+China Eastern Airlines
+HND
+PVG
+ICN
+17:10
+17:25
+1g 15dk
+1 Aktarma
+36.669 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 17:10, varış 30 Ara 2026 20:45. 1g 3sa 35dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU8634, HND 17:10 - PVG 19:40; China Eastern Airlines MU5051, PVG 17:45 - ICN 20:45. Sınıfı: Ekonomi - S. Bilet paketi seçenekleri var. Aynı fiyatlı alternatif uçuş
+China Eastern Airlines
+HND
+PVG
+ICN
+17:10
+20:45
+1g 3sa 35dk
+1 Aktarma
+36.669 TL
+Seç
+Detaylar
+Gizle
+Kalkış 29 Ara 2026 10:45, varış 29 Ara 2026 21:50. 11sa 5dk, 1 Aktarma. Aktarma: Guangzhou (CAN). China Southern Airlines CZ3086, HND 10:45 - CAN 15:00; China Southern Airlines CZ339, CAN 17:30 - ICN 21:50. Sınıfı: Ekonomi - A
+China Southern Airlines
+HND
+CAN
+ICN
+10:45
+21:50
+11sa 5dk
+1 Aktarma
+38.283 TL
+Seç
+Detaylar
+Aynı fiyatlı diğer uçuşlar (2)
+Kalkış 29 Ara 2026 15:05, varış 30 Ara 2026 15:15. 1g 10dk, 1 Aktarma. Aktarma: Guangzhou (CAN). China Southern Airlines CZ386, HND 15:05 - CAN 19:10; China Southern Airlines CZ3061, CAN 10:55 - ICN 15:15. Sınıfı: Ekonomi - A. Aynı fiyatlı alternatif uçuş
+China Southern Airlines
+HND
+CAN
+ICN
+15:05
+15:15
+1g 10dk
+1 Aktarma
+38.283 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 10:45, varış 30 Ara 2026 15:15. 1g 4sa 30dk, 1 Aktarma. Aktarma: Guangzhou (CAN). China Southern Airlines CZ3086, HND 10:45 - CAN 15:00; China Southern Airlines CZ3061, CAN 10:55 - ICN 15:15. Sınıfı: Ekonomi - A. Aynı fiyatlı alternatif uçuş
+China Southern Airlines
+HND
+CAN
+ICN
+10:45
+15:15
+1g 4sa 30dk
+1 Aktarma
+38.283 TL
+Seç
+Detaylar
+Gizle
+Kalkış 29 Ara 2026 08:40, varış 29 Ara 2026 17:25. 8sa 45dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU576, HND 08:40 - PVG 11:05; China Eastern Airlines MU8603, PVG 14:05 - ICN 17:25. Sınıfı: Ekonomi - R. Bilet paketi seçenekleri var
+China Eastern Airlines
+HND
+PVG
+ICN
+08:40
+17:25
+8sa 45dk
+1 Aktarma
+38.293 TL
+Seç
+Detaylar
+Aynı fiyatlı diğer uçuşlar (3)
+Kalkış 29 Ara 2026 08:40, varış 29 Ara 2026 20:45. 12sa 5dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU576, HND 08:40 - PVG 11:05; China Eastern Airlines MU5051, PVG 17:45 - ICN 20:45. Sınıfı: Ekonomi - R. Bilet paketi seçenekleri var. Aynı fiyatlı alternatif uçuş
+China Eastern Airlines
+HND
+PVG
+ICN
+08:40
+20:45
+12sa 5dk
+1 Aktarma
+38.293 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 08:40, varış 30 Ara 2026 11:55. 1g 3sa 15dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU576, HND 08:40 - PVG 11:05; China Eastern Airlines MU5041, PVG 08:40 - ICN 11:55. Sınıfı: Ekonomi - R. Bilet paketi seçenekleri var. Aynı fiyatlı alternatif uçuş
+China Eastern Airlines
+HND
+PVG
+ICN
+08:40
+11:55
+1g 3sa 15dk
+1 Aktarma
+38.293 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 08:40, varış 30 Ara 2026 13:30. 1g 4sa 50dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU576, HND 08:40 - PVG 11:05; China Eastern Airlines MU5061, PVG 10:25 - ICN 13:30. Sınıfı: Ekonomi - R. Bilet paketi seçenekleri var. Aynı fiyatlı alternatif uçuş
+China Eastern Airlines
+HND
+PVG
+ICN
+08:40
+13:30
+1g 4sa 50dk
+1 Aktarma
+38.293 TL
+Seç
+Detaylar
+Gizle
+Kalkış 29 Ara 2026 15:05, varış 30 Ara 2026 13:15. 22sa 10dk, 1 Aktarma. Aktarma: Guangzhou (CAN). China Southern Airlines CZ386, HND 15:05 - CAN 19:10; China Southern Airlines CZ337, CAN 09:05 - ICN 13:15. Sınıfı: Ekonomi - A
+China Southern Airlines
+HND
+CAN
+ICN
+15:05
+13:15
+22sa 10dk
+1 Aktarma
+39.705 TL
+Seç
+Detaylar
+Aynı fiyatlı diğer uçuşlar (2)
+Kalkış 29 Ara 2026 10:45, varış 30 Ara 2026 13:15. 1g 2sa 30dk, 1 Aktarma. Aktarma: Guangzhou (CAN). China Southern Airlines CZ3086, HND 10:45 - CAN 15:00; China Southern Airlines CZ337, CAN 09:05 - ICN 13:15. Sınıfı: Ekonomi - A. Aynı fiyatlı alternatif uçuş
+China Southern Airlines
+HND
+CAN
+ICN
+10:45
+13:15
+1g 2sa 30dk
+1 Aktarma
+39.705 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 15:05, varış 30 Ara 2026 21:50. 1g 6sa 45dk, 1 Aktarma. Aktarma: Guangzhou (CAN). China Southern Airlines CZ386, HND 15:05 - CAN 19:10; China Southern Airlines CZ339, CAN 17:30 - ICN 21:50. Sınıfı: Ekonomi - A. Aynı fiyatlı alternatif uçuş
+China Southern Airlines
+HND
+CAN
+ICN
+15:05
+21:50
+1g 6sa 45dk
+1 Aktarma
+39.705 TL
+Seç
+Detaylar
+Gizle
+Kalkış 29 Ara 2026 08:40, varış 29 Ara 2026 17:25. 8sa 45dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU576, HND 08:40 - PVG 11:05; China Eastern Airlines MU8603, PVG 14:05 - ICN 17:25. Sınıfı: Ekonomi - R. Bilet paketi seçenekleri var
+China Eastern Airlines
+HND
+PVG
+ICN
+08:40
+17:25
+8sa 45dk
+1 Aktarma
+42.331 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 08:40, varış 29 Ara 2026 20:45. 12sa 5dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU576, HND 08:40 - PVG 11:05; China Eastern Airlines MU5051, PVG 17:45 - ICN 20:45. Sınıfı: Ekonomi - R. Bilet paketi seçenekleri var
+China Eastern Airlines
+HND
+PVG
+ICN
+08:40
+20:45
+12sa 5dk
+1 Aktarma
+42.331 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 20:15, varış 30 Ara 2026 17:25. 21sa 10dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU540, HND 20:15 - PVG 22:40; China Eastern Airlines MU8603, PVG 14:05 - ICN 17:25. Sınıfı: Ekonomi - S. Bilet paketi seçenekleri var
+China Eastern Airlines
+HND
+PVG
+ICN
+20:15
+17:25
+21sa 10dk
+1 Aktarma
+43.648 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 07:05, varış 29 Ara 2026 14:00. 6sa 55dk, 1 Aktarma. Aktarma: Osaka (KIX). Japan Airlines JL221, HND 07:05 - KIX 08:30; Korean Air KE724, KIX 11:55 - ICN 14:00. Sınıfı: Ekonomi - S
+Japan Airlines
+Korean Air
+HND
+KIX
+ICN
+07:05
+14:00
+6sa 55dk
+1 Aktarma
+44.764 TL
+Seç
+Detaylar
+Aynı fiyatlı diğer uçuşlar (1)
+Kalkış 29 Ara 2026 07:05, varış 30 Ara 2026 04:05. 21sa, 1 Aktarma. Aktarma: Osaka (KIX). Japan Airlines JL221, HND 07:05 - KIX 08:30; Korean Air KE738, KIX 02:15 - ICN 04:05. Sınıfı: Ekonomi - S. Aynı fiyatlı alternatif uçuş
+Japan Airlines
+Korean Air
+HND
+KIX
+ICN
+07:05
+04:05
+21sa
+1 Aktarma
+44.764 TL
+Seç
+Detaylar
+Gizle
+Kalkış 29 Ara 2026 07:05, varış 29 Ara 2026 19:50. 12sa 45dk, 1 Aktarma. Aktarma: Osaka (KIX). Japan Airlines JL221, HND 07:05 - KIX 08:30; Korean Air KE5072, KIX 17:50 - ICN 19:50. Sınıfı: Ekonomi - S
+Japan Airlines
+Korean Air
+HND
+KIX
+ICN
+07:05
+19:50
+12sa 45dk
+1 Aktarma
+44.856 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 09:30, varış 29 Ara 2026 16:55. 7sa 25dk, 1 Aktarma. Aktarma: Dalian (DLC). China Eastern Airlines MU4222, HND 09:30 - DLC 11:50; China Eastern Airlines MU8959, DLC 14:25 - ICN 16:55. Sınıfı: Ekonomi - N. Son 4 koltuk. Bilet paketi seçenekleri var
+China Eastern Airlines
+HND
+DLC
+ICN
+09:30
+16:55
+7sa 25dk
+1 Aktarma
+Son 4 koltuk
+45.363 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 19:20, varış 30 Ara 2026 12:00. 16sa 40dk, 1 Aktarma. Aktarma: Fukuoka (FUK). Japan Airlines JL335, HND 19:20 - FUK 21:30; Korean Air KE788, FUK 10:30 - ICN 12:00. Sınıfı: Ekonomi - V
+Japan Airlines
+Korean Air
+HND
+FUK
+ICN
+19:20
+12:00
+16sa 40dk
+1 Aktarma
+46.139 TL
+Seç
+Detaylar
+Aynı fiyatlı diğer uçuşlar (1)
+Kalkış 29 Ara 2026 18:55, varış 30 Ara 2026 12:00. 17sa 5dk, 1 Aktarma. Aktarma: Fukuoka (FUK). Japan Airlines JL333, HND 18:55 - FUK 21:00; Korean Air KE788, FUK 10:30 - ICN 12:00. Sınıfı: Ekonomi - V. Aynı fiyatlı alternatif uçuş
+Japan Airlines
+Korean Air
+HND
+FUK
+ICN
+18:55
+12:00
+17sa 5dk
+1 Aktarma
+46.139 TL
+Seç
+Detaylar
+Gizle
+Kalkış 29 Ara 2026 08:40, varış 29 Ara 2026 17:10. 8sa 30dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU576, HND 08:40 - PVG 11:05; China Eastern Airlines MU8935, PVG 14:00 - ICN 17:10. Sınıfı: Ekonomi - R
+China Eastern Airlines
+HND
+PVG
+ICN
+08:40
+17:10
+8sa 30dk
+1 Aktarma
+46.241 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 07:05, varış 29 Ara 2026 14:00. 6sa 55dk, 1 Aktarma. Aktarma: Osaka (KIX). Japan Airlines JL221, HND 07:05 - KIX 08:30; Korean Air KE724, KIX 11:55 - ICN 14:00. Sınıfı: Ekonomi - S
+Japan Airlines
+Korean Air
+HND
+KIX
+ICN
+07:05
+14:00
+6sa 55dk
+1 Aktarma
+48.543 TL
+Seç
+Detaylar
+Aynı fiyatlı diğer uçuşlar (4)
+Kalkış 29 Ara 2026 07:05, varış 29 Ara 2026 16:15. 9sa 10dk, 1 Aktarma. Aktarma: Osaka (KIX). Japan Airlines JL221, HND 07:05 - KIX 08:30; Korean Air KE728, KIX 14:00 - ICN 16:15. Sınıfı: Ekonomi - S. Aynı fiyatlı alternatif uçuş
+Japan Airlines
+Korean Air
+HND
+KIX
+ICN
+07:05
+16:15
+9sa 10dk
+1 Aktarma
+48.543 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 07:05, varış 29 Ara 2026 19:50. 12sa 45dk, 1 Aktarma. Aktarma: Osaka (KIX). Japan Airlines JL221, HND 07:05 - KIX 08:30; Korean Air KE5072, KIX 17:50 - ICN 19:50. Sınıfı: Ekonomi - S. Aynı fiyatlı alternatif uçuş
+Japan Airlines
+Korean Air
+HND
+KIX
+ICN
+07:05
+19:50
+12sa 45dk
+1 Aktarma
+48.543 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 07:05, varış 29 Ara 2026 20:25. 13sa 20dk, 1 Aktarma. Aktarma: Osaka (KIX). Japan Airlines JL221, HND 07:05 - KIX 08:30; Korean Air KE726, KIX 18:10 - ICN 20:25. Sınıfı: Ekonomi - S. Aynı fiyatlı alternatif uçuş
+Japan Airlines
+Korean Air
+HND
+KIX
+ICN
+07:05
+20:25
+13sa 20dk
+1 Aktarma
+48.543 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 07:05, varış 30 Ara 2026 04:05. 21sa, 1 Aktarma. Aktarma: Osaka (KIX). Japan Airlines JL221, HND 07:05 - KIX 08:30; Korean Air KE738, KIX 02:15 - ICN 04:05. Sınıfı: Ekonomi - S. Aynı fiyatlı alternatif uçuş
+Japan Airlines
+Korean Air
+HND
+KIX
+ICN
+07:05
+04:05
+21sa
+1 Aktarma
+48.543 TL
+Seç
+Detaylar
+Gizle
+Kalkış 29 Ara 2026 19:20, varış 30 Ara 2026 12:00. 16sa 40dk, 1 Aktarma. Aktarma: Fukuoka (FUK). Japan Airlines JL335, HND 19:20 - FUK 21:30; Korean Air KE788, FUK 10:30 - ICN 12:00. Sınıfı: Ekonomi - V
+Japan Airlines
+Korean Air
+HND
+FUK
+ICN
+19:20
+12:00
+16sa 40dk
+1 Aktarma
+50.049 TL
+Seç
+Detaylar
+Aynı fiyatlı diğer uçuşlar (1)
+Kalkış 29 Ara 2026 18:55, varış 30 Ara 2026 12:00. 17sa 5dk, 1 Aktarma. Aktarma: Fukuoka (FUK). Japan Airlines JL333, HND 18:55 - FUK 21:00; Korean Air KE788, FUK 10:30 - ICN 12:00. Sınıfı: Ekonomi - V. Aynı fiyatlı alternatif uçuş
+Japan Airlines
+Korean Air
+HND
+FUK
+ICN
+18:55
+12:00
+17sa 5dk
+1 Aktarma
+50.049 TL
+Seç
+Detaylar
+Gizle
+Kalkış 29 Ara 2026 08:40, varış 29 Ara 2026 17:10. 8sa 30dk, 1 Aktarma. Aktarma: Şanghay (PVG). China Eastern Airlines MU576, HND 08:40 - PVG 11:05; China Eastern Airlines MU8935, PVG 14:00 - ICN 17:10. Sınıfı: Ekonomi - R
+China Eastern Airlines
+HND
+PVG
+ICN
+08:40
+17:10
+8sa 30dk
+1 Aktarma
+50.383 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 19:55, varış 30 Ara 2026 13:40. 17sa 45dk, 1 Aktarma. Aktarma: Okayama (OKJ). Japan Airlines JL241, HND 19:55 - OKJ 21:15; Japan Airlines JL5261, OKJ 11:55 - ICN 13:40. Sınıfı: Ekonomi - Y
+Japan Airlines
+HND
+OKJ
+ICN
+19:55
+13:40
+17sa 45dk
+1 Aktarma
+56.089 TL
+Seç
+Detaylar
+Aynı fiyatlı diğer uçuşlar (1)
+Kalkış 29 Ara 2026 17:00, varış 30 Ara 2026 13:40. 20sa 40dk, 1 Aktarma. Aktarma: Okayama (OKJ). Japan Airlines JL239, HND 17:00 - OKJ 18:20; Japan Airlines JL5261, OKJ 11:55 - ICN 13:40. Sınıfı: Ekonomi - Y. Aynı fiyatlı alternatif uçuş
+Japan Airlines
+HND
+OKJ
+ICN
+17:00
+13:40
+20sa 40dk
+1 Aktarma
+56.089 TL
+Seç
+Detaylar
+Gizle
+Kalkış 29 Ara 2026 07:00, varış 29 Ara 2026 12:50. 5sa 50dk, 1 Aktarma. Aktarma: Komatsu (KMQ). Japan Airlines JL183, HND 07:00 - KMQ 08:05; Japan Airlines JL5229, KMQ 10:50 - ICN 12:50. Sınıfı: Ekonomi - Y
+Japan Airlines
+HND
+KMQ
+ICN
+07:00
+12:50
+5sa 50dk
+1 Aktarma
+56.168 TL
+Seç
+Detaylar
+Kalkış 29 Ara 2026 07:05, varış 29 Ara 2026 20:25. 13sa 20dk, 1 Aktarma. Aktarma: Osaka (KIX). Japan Airlines JL221, HND 07:05 - KIX 08:30; Japan Airlines JL5215, KIX 18:10 - ICN 20:25. Sınıfı: Ekonomi - Y
+Japan Airlines
+HND
+KIX
+ICN
+07:05
+20:25
+13sa 20dk
+1 Aktarma
+57.411 TL
+Seç
+Detaylar
+Aynı fiyatlı diğer uçuşlar (1)
+Kalkış 29 Ara 2026 20:55, varış 30 Ara 2026 11:05. 14sa 10dk, 1 Aktarma. Aktarma: Osaka (KIX). Japan Airlines JL229, HND 20:55 - KIX 22:20; Japan Airlines JL5211, KIX 09:00 - ICN 11:05. Sınıfı: Ekonomi - Y. Aynı fiyatlı alternatif uçuş
+Japan Airlines
+HND
+KIX
+ICN
+20:55
+11:05
+14sa 10dk
+1 Aktarma
+57.411 TL
+Seç
+Detaylar
+Gizle
+Tümünü göster
+Yukarıdaki listede her bir uçuşta yalnızca 1 yetişkin için standart bagaj hakkı gösteriliyor. İlgili uçuşun detaylı bagaj hakkı bilgilendirmesini, uçuş seçiminizin ardından gideceğiniz uçuş detayları sayfasında görebilirsiniz.

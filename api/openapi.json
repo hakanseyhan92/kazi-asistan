@@ -1,0 +1,1143 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "kazi-cekirdek",
+    "version": "0.0.1"
+  },
+  "paths": {
+    "/saglik": {
+      "get": {
+        "summary": "Saglik",
+        "operationId": "saglik_saglik_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "additionalProperties": true,
+                  "type": "object",
+                  "title": "Response Saglik Saglik Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/siteler": {
+      "get": {
+        "summary": "Siteler",
+        "operationId": "siteler_siteler_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "additionalProperties": true,
+                    "type": "object"
+                  },
+                  "type": "array",
+                  "title": "Response Siteler Siteler Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/pano": {
+      "get": {
+        "summary": "Pano",
+        "operationId": "pano_pano_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "additionalProperties": true,
+                  "type": "object",
+                  "title": "Response Pano Pano Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/urunler/{id}/detay": {
+      "get": {
+        "summary": "Urun Detay",
+        "operationId": "urun_detay_urunler__id__detay_get",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": true,
+                  "title": "Response Urun Detay Urunler  Id  Detay Get"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/seyahat": {
+      "get": {
+        "summary": "Seyahat Ekrani",
+        "operationId": "seyahat_ekrani_seyahat_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "additionalProperties": true,
+                  "type": "object",
+                  "title": "Response Seyahat Ekrani Seyahat Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/seyahat/plan": {
+      "get": {
+        "summary": "Plan Getir",
+        "operationId": "plan_getir_seyahat_plan_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": true,
+                  "title": "Response Plan Getir Seyahat Plan Get"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "summary": "Plan Kaydet",
+        "operationId": "plan_kaydet_seyahat_plan_put",
+        "parameters": [
+          {
+            "name": "eski_tarayiciya",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "boolean",
+              "default": true,
+              "title": "Eski Tarayiciya"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "additionalProperties": true,
+                "title": "D"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": true,
+                  "title": "Response Plan Kaydet Seyahat Plan Put"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/seyahat/plan/onizle": {
+      "post": {
+        "summary": "Plan Onizle",
+        "operationId": "plan_onizle_seyahat_plan_onizle_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "additionalProperties": true,
+                "type": "object",
+                "title": "D"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "additionalProperties": true,
+                  "type": "object",
+                  "title": "Response Plan Onizle Seyahat Plan Onizle Post"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/yerler": {
+      "get": {
+        "summary": "Yer Ara",
+        "operationId": "yer_ara_yerler_get",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "minLength": 1,
+              "title": "Q"
+            }
+          },
+          {
+            "name": "azami",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "maximum": 50,
+              "minimum": 1,
+              "default": 12,
+              "title": "Azami"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "additionalProperties": true
+                  },
+                  "title": "Response Yer Ara Yerler Get"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ulkeler": {
+      "get": {
+        "summary": "Ulkeler",
+        "operationId": "ulkeler_ulkeler_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "additionalProperties": true,
+                  "type": "object",
+                  "title": "Response Ulkeler Ulkeler Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/urunler": {
+      "get": {
+        "summary": "Urunler",
+        "operationId": "urunler_urunler_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/UrunKimligi"
+                  },
+                  "type": "array",
+                  "title": "Response Urunler Urunler Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/urunler/{id}": {
+      "get": {
+        "summary": "Urun",
+        "operationId": "urun_urunler__id__get",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/UrunKimligi"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/urunler/{id}/teklifler": {
+      "get": {
+        "summary": "Teklifler",
+        "operationId": "teklifler_urunler__id__teklifler_get",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Id"
+            }
+          },
+          {
+            "name": "gecmis",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "maximum": 1,
+              "minimum": 0,
+              "default": 0,
+              "title": "Gecmis"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Teklif"
+                  },
+                  "title": "Response Teklifler Urunler  Id  Teklifler Get"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/tanimla": {
+      "post": {
+        "summary": "Tanimla",
+        "operationId": "tanimla_tanimla_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TanimlaIstek"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TanimlaYanit"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/tanimla/{istek_id}/onayla": {
+      "post": {
+        "summary": "Onayla",
+        "operationId": "onayla_tanimla__istek_id__onayla_post",
+        "parameters": [
+          {
+            "name": "istek_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Istek Id"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/OnaylaIstek"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/UrunKimligi"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/tara": {
+      "post": {
+        "summary": "Tara",
+        "operationId": "tara_tara_post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TaramaIstek"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TaramaYanit"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Aday": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id"
+          },
+          "baslik": {
+            "type": "string",
+            "title": "Baslik"
+          },
+          "kaynak": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Kaynak"
+          },
+          "url": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Url"
+          },
+          "gorsel": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Gorsel"
+          },
+          "mpn": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Mpn"
+          },
+          "ozellikler": {
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Ozellikler"
+          },
+          "fiyat_araligi": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/FiyatBandi"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "id",
+          "baslik"
+        ],
+        "title": "Aday"
+      },
+      "FiyatBandi": {
+        "properties": {
+          "alt": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Alt"
+          },
+          "ust": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Ust"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "title": "FiyatBandi"
+      },
+      "HTTPValidationError": {
+        "properties": {
+          "detail": {
+            "items": {
+              "$ref": "#/components/schemas/ValidationError"
+            },
+            "type": "array",
+            "title": "Detail"
+          }
+        },
+        "type": "object",
+        "title": "HTTPValidationError"
+      },
+      "Katman": {
+        "type": "string",
+        "enum": [
+          "K0",
+          "K1",
+          "K2",
+          "K3"
+        ],
+        "title": "Katman"
+      },
+      "OnaylaIstek": {
+        "properties": {
+          "aday_idler": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Aday Idler"
+          },
+          "kurallar": {
+            "anyOf": [
+              {
+                "additionalProperties": true,
+                "type": "object"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Kurallar"
+          },
+          "kanonik_ad": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Kanonik Ad"
+          },
+          "mpn": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Mpn"
+          },
+          "ean": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Ean"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "title": "OnaylaIstek"
+      },
+      "TanimlaIstek": {
+        "properties": {
+          "metin": {
+            "type": "string",
+            "title": "Metin"
+          },
+          "tur": {
+            "$ref": "#/components/schemas/Tur",
+            "default": "urun"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "metin"
+        ],
+        "title": "TanimlaIstek"
+      },
+      "TanimlaYanit": {
+        "properties": {
+          "istek_id": {
+            "type": "string",
+            "title": "Istek Id"
+          },
+          "adaylar": {
+            "items": {
+              "$ref": "#/components/schemas/Aday"
+            },
+            "type": "array",
+            "title": "Adaylar"
+          },
+          "sorgu": {
+            "anyOf": [
+              {
+                "additionalProperties": true,
+                "type": "object"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Sorgu"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "istek_id"
+        ],
+        "title": "TanimlaYanit"
+      },
+      "TaramaIstek": {
+        "properties": {
+          "urun_id": {
+            "type": "string",
+            "title": "Urun Id"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "urun_id"
+        ],
+        "title": "TaramaIstek"
+      },
+      "TaramaYanit": {
+        "properties": {
+          "gorev_id": {
+            "type": "string",
+            "title": "Gorev Id"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "gorev_id"
+        ],
+        "title": "TaramaYanit"
+      },
+      "Teklif": {
+        "properties": {
+          "id": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Id"
+          },
+          "urun_id": {
+            "type": "string",
+            "title": "Urun Id"
+          },
+          "site": {
+            "type": "string",
+            "title": "Site"
+          },
+          "satici": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Satici"
+          },
+          "baslik": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Baslik"
+          },
+          "url": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Url"
+          },
+          "liste_fiyati": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Liste Fiyati"
+          },
+          "sepet_fiyati": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Sepet Fiyati"
+          },
+          "kupon": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Kupon"
+          },
+          "kargo": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Kargo"
+          },
+          "stok": {
+            "anyOf": [
+              {
+                "type": "boolean"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Stok"
+          },
+          "pesin_fiyatina_taksit": {
+            "anyOf": [
+              {
+                "type": "boolean"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Pesin Fiyatina Taksit"
+          },
+          "gozlem_zamani": {
+            "type": "string",
+            "title": "Gozlem Zamani"
+          },
+          "kaynak_katmani": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/Katman"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "teyit_durumu": {
+            "$ref": "#/components/schemas/TeyitDurumu",
+            "default": "bekliyor"
+          },
+          "teyit_zamani": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Teyit Zamani"
+          },
+          "kanit_goruntusu": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Kanit Goruntusu"
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "urun_id",
+          "site"
+        ],
+        "title": "Teklif"
+      },
+      "TeyitDurumu": {
+        "type": "string",
+        "enum": [
+          "bekliyor",
+          "teyitli",
+          "supheli",
+          "urun_farkli",
+          "stok_yok",
+          "fiyat_degisti"
+        ],
+        "title": "TeyitDurumu"
+      },
+      "Tur": {
+        "type": "string",
+        "enum": [
+          "urun",
+          "ucus",
+          "bilet",
+          "diger"
+        ],
+        "title": "Tur"
+      },
+      "UrunKimligi": {
+        "properties": {
+          "id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Id"
+          },
+          "tur": {
+            "$ref": "#/components/schemas/Tur",
+            "default": "urun"
+          },
+          "kanonik_ad": {
+            "type": "string",
+            "title": "Kanonik Ad"
+          },
+          "mpn": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Mpn"
+          },
+          "ean": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Ean"
+          },
+          "eslesme_kurallari": {
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Eslesme Kurallari"
+          },
+          "fiyat_bandi": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/FiyatBandi"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "olusturma": {
+            "type": "string",
+            "title": "Olusturma"
+          },
+          "aktif": {
+            "type": "boolean",
+            "title": "Aktif",
+            "default": true
+          }
+        },
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "kanonik_ad"
+        ],
+        "title": "UrunKimligi"
+      },
+      "ValidationError": {
+        "properties": {
+          "loc": {
+            "items": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ]
+            },
+            "type": "array",
+            "title": "Location"
+          },
+          "msg": {
+            "type": "string",
+            "title": "Message"
+          },
+          "type": {
+            "type": "string",
+            "title": "Error Type"
+          },
+          "input": {
+            "title": "Input"
+          },
+          "ctx": {
+            "type": "object",
+            "title": "Context"
+          }
+        },
+        "type": "object",
+        "required": [
+          "loc",
+          "msg",
+          "type"
+        ],
+        "title": "ValidationError"
+      }
+    }
+  }
+}
