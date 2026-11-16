@@ -2,7 +2,7 @@
 
 # 🔎 Kazı Asistanı · kazi-asistan
 
-**Türk e-ticaret siteleri için kişisel fiyat takibi, fiyat alarmı ve çok bacaklı seyahat planlama asistanı**
+**Türkiye'deki e-ticaret siteleri için kişisel fiyat takibi, fiyat alarmı ve çok bacaklı seyahat planlama asistanı**
 **A personal price tracker, price-alert bot and multi-leg trip planner for Turkish e-commerce**
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)
